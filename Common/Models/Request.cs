@@ -12,5 +12,8 @@ namespace Common.Models
         public string Status { get; set; }
         public bool IsOpened { get; set; }
 
+        public int ClientId { get; set; }
+        public Client Client { get; set; }
+        public List<RequestConsultant> RequestConsultants { get; set; }
     }
 }

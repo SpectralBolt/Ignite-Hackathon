@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ApiRest.Migrations
 {
     [DbContext(typeof(BankDbContext))]
-    [Migration("20191130145444_Init")]
-    partial class Init
+    [Migration("20191130183330_Initialize")]
+    partial class Initialize
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -40,21 +40,6 @@ namespace ApiRest.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Clients");
-                });
-
-            modelBuilder.Entity("Common.Models.ClientConsultant", b =>
-                {
-                    b.Property<int>("ClientId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ConsultantId")
-                        .HasColumnType("int");
-
-                    b.HasKey("ClientId", "ConsultantId");
-
-                    b.HasIndex("ConsultantId");
-
-                    b.ToTable("ClientConsultants");
                 });
 
             modelBuilder.Entity("Common.Models.Consultant", b =>
@@ -91,8 +76,8 @@ namespace ApiRest.Migrations
                     b.Property<bool>("ShouldApprove")
                         .HasColumnType("bit");
 
-                    b.Property<int>("YearsNoVacation")
-                        .HasColumnType("int");
+                    b.Property<double>("YearsNoVacation")
+                        .HasColumnType("float");
 
                     b.HasKey("Id");
 
@@ -113,6 +98,12 @@ namespace ApiRest.Migrations
 
                     b.Property<int>("Atms")
                         .HasColumnType("int");
+
+                    b.Property<string>("BossName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EmailBoss")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
@@ -155,6 +146,9 @@ namespace ApiRest.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<int>("ClientId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
 
@@ -169,22 +163,24 @@ namespace ApiRest.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("ClientId");
+
                     b.ToTable("Requests");
                 });
 
-            modelBuilder.Entity("Common.Models.ClientConsultant", b =>
+            modelBuilder.Entity("Common.Models.RequestConsultant", b =>
                 {
-                    b.HasOne("Common.Models.Client", "Client")
-                        .WithMany("ClientConsultants")
-                        .HasForeignKey("ClientId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.Property<int>("RequestId")
+                        .HasColumnType("int");
 
-                    b.HasOne("Common.Models.Consultant", "Consultant")
-                        .WithMany("ClientConsultants")
-                        .HasForeignKey("ConsultantId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.Property<int>("ConsultantId")
+                        .HasColumnType("int");
+
+                    b.HasKey("RequestId", "ConsultantId");
+
+                    b.HasIndex("ConsultantId");
+
+                    b.ToTable("ClientConsultants");
                 });
 
             modelBuilder.Entity("Common.Models.Consultant", b =>
@@ -201,6 +197,30 @@ namespace ApiRest.Migrations
                     b.HasOne("Common.Models.Office", "Office")
                         .WithMany("Records")
                         .HasForeignKey("OfficeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Common.Models.Request", b =>
+                {
+                    b.HasOne("Common.Models.Client", "Client")
+                        .WithMany("Requests")
+                        .HasForeignKey("ClientId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Common.Models.RequestConsultant", b =>
+                {
+                    b.HasOne("Common.Models.Consultant", "Consultant")
+                        .WithMany("ClientConsultants")
+                        .HasForeignKey("ConsultantId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Common.Models.Request", "Request")
+                        .WithMany("RequestConsultants")
+                        .HasForeignKey("RequestId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

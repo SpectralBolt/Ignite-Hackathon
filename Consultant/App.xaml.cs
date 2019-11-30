@@ -7,6 +7,7 @@ using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI.ViewManagement;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -41,6 +42,9 @@ namespace Consultant
         {
             Frame rootFrame = Window.Current.Content as Frame;
 
+            ApplicationView.PreferredLaunchViewSize = new Size(500, 600);
+            ApplicationView.PreferredLaunchWindowingMode = ApplicationViewWindowingMode.PreferredLaunchViewSize;
+            ApplicationView.GetForCurrentView().SetPreferredMinSize(new Size(500, 600));
             // No repetir la inicialización de la aplicación si la ventana tiene contenido todavía,
             // solo asegurarse de que la ventana está activa.
             if (rootFrame == null)

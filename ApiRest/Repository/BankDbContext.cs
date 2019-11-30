@@ -16,12 +16,12 @@ namespace ApiRest.Repository
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<ClientConsultant>().HasKey(sc => new { sc.ClientId, sc.ConsultantId });
+            modelBuilder.Entity<RequestConsultant>().HasKey(sc => new { sc.RequestId, sc.ConsultantId });
         }
 
         public DbSet<Client> Clients { get; set; }
         public DbSet<Consultant> Consultants { get; set; }
-        public DbSet<ClientConsultant> ClientConsultants { get; set; }
+        public DbSet<RequestConsultant> ClientConsultants { get; set; }
         public DbSet<Request> Requests { get; set; }
         public DbSet<Office> Offices { get; set; }
         public DbSet<Record> Records { get; set; }

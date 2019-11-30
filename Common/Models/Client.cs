@@ -11,6 +11,6 @@ namespace Common.Models
         public string LstName { get; set; }
         public string Cc { get; set; }
 
-        public List<ClientConsultant> ClientConsultants { get; set; }
+        public List<Request> Requests { get; set; }
     }
 }

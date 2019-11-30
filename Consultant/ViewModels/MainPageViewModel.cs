@@ -1,4 +1,6 @@
-﻿using Microsoft.CognitiveServices.Speech;
+﻿using Consultant.Models;
+using Consultant.Views;
+using Microsoft.CognitiveServices.Speech;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -12,23 +14,17 @@ namespace Consultant.ViewModels
 {
     public class MainPageViewModel : BaseViewModel
     {
-        public ObservableCollection<MenuItem> MenuItems { get; set; }
+        public ObservableCollection<MenuItem> Items { get; set; }
+        public string MyProperty { get; set; }
         public MainPageViewModel()
         {
-            MenuItems = new ObservableCollection<MenuItem>
+            Items = new ObservableCollection<MenuItem>
             {
-                new MenuItem{Name="Ventas",         Description="Registro de ventas",    Glyph="\uE719", NavigationPage=typeof(SalesView)},
-                new MenuItem{Name="Inventario",     Description="Productos en Stock",    Glyph="\uE71C", NavigationPage=typeof(SalesView)},
-                new MenuItem{Name="Deudas",         Description="Cuentas por pagar",     Glyph="\uE8FB", NavigationPage=typeof(SalesView)},
-                new MenuItem{Name="Inversion",      Description="Registro de ventas",    Glyph="\uE7C1", NavigationPage=typeof(SalesView)},
-                new MenuItem{Name="Proveedores",    Description="Contactos proveedores", Glyph="\uE780", NavigationPage=typeof(SalesView)},
+                new MenuItem{ Image="Images/Home.jpeg", NavigationPage=typeof(Home)},
+                new MenuItem{ Image="Images/Calendar.jpeg", NavigationPage= typeof(Calendar)},
+                new MenuItem{ Image="Images/Profile.jpeg", NavigationPage=typeof(Profile)}
             };
-
-            OpenFlyoutCommand = new RelayCommand(() => IsOpened = !IsOpened);
-            Title = "Testing ServiceProvider";
         }
-
-        public RelayCommand OpenFlyoutCommand { get; set; }
 
 
         #region Properties

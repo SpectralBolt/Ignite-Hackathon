@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ApiRest.Repository;
+using ApiRest.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -30,6 +31,7 @@ namespace ApiRest
             services.AddControllers();
             services.AddDbContext<BankDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("BankDb")));
+            services.AddTransient<IRepository,Repository.Repository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ApiRest.Migrations
 {
-    public partial class Init : Migration
+    public partial class Initialize : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -30,6 +30,8 @@ namespace ApiRest.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(nullable: true),
                     Adress = table.Column<string>(nullable: true),
+                    BossName = table.Column<string>(nullable: true),
+                    EmailBoss = table.Column<string>(nullable: true),
                     Atms = table.Column<int>(nullable: false)
                 },
                 constraints: table =>
@@ -46,11 +48,18 @@ namespace ApiRest.Migrations
                     Topic = table.Column<string>(nullable: true),
                     Description = table.Column<string>(nullable: true),
                     Status = table.Column<string>(nullable: true),
-                    IsOpened = table.Column<bool>(nullable: false)
+                    IsOpened = table.Column<bool>(nullable: false),
+                    ClientId = table.Column<int>(nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Requests", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Requests_Clients_ClientId",
+                        column: x => x.ClientId,
+                        principalTable: "Clients",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
@@ -64,7 +73,7 @@ namespace ApiRest.Migrations
                     PendingVacations = table.Column<int>(nullable: false),
                     PenultimateVac = table.Column<DateTime>(nullable: false),
                     LastVacation = table.Column<DateTime>(nullable: false),
-                    YearsNoVacation = table.Column<int>(nullable: false),
+                    YearsNoVacation = table.Column<double>(nullable: false),
                     Required = table.Column<bool>(nullable: false),
                     ShouldApprove = table.Column<bool>(nullable: false),
                     Approved = table.Column<bool>(nullable: false),
@@ -107,22 +116,22 @@ namespace ApiRest.Migrations
                 name: "ClientConsultants",
                 columns: table => new
                 {
-                    ClientId = table.Column<int>(nullable: false),
+                    RequestId = table.Column<int>(nullable: false),
                     ConsultantId = table.Column<int>(nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_ClientConsultants", x => new { x.ClientId, x.ConsultantId });
-                    table.ForeignKey(
-                        name: "FK_ClientConsultants_Clients_ClientId",
-                        column: x => x.ClientId,
-                        principalTable: "Clients",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                    table.PrimaryKey("PK_ClientConsultants", x => new { x.RequestId, x.ConsultantId });
                     table.ForeignKey(
                         name: "FK_ClientConsultants_Consultants_ConsultantId",
                         column: x => x.ConsultantId,
                         principalTable: "Consultants",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_ClientConsultants_Requests_RequestId",
+                        column: x => x.RequestId,
+                        principalTable: "Requests",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -141,6 +150,11 @@ namespace ApiRest.Migrations
                 name: "IX_Records_OfficeId",
                 table: "Records",
                 column: "OfficeId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Requests_ClientId",
+                table: "Requests",
+                column: "ClientId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
@@ -152,16 +166,16 @@ namespace ApiRest.Migrations
                 name: "Records");
 
             migrationBuilder.DropTable(
-                name: "Requests");
-
-            migrationBuilder.DropTable(
-                name: "Clients");
-
-            migrationBuilder.DropTable(
                 name: "Consultants");
 
             migrationBuilder.DropTable(
+                name: "Requests");
+
+            migrationBuilder.DropTable(
                 name: "Offices");
+
+            migrationBuilder.DropTable(
+                name: "Clients");
         }
     }
 }
