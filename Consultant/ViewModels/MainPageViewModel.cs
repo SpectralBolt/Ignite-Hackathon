@@ -10,128 +10,44 @@ using Windows.UI.Core;
 
 namespace Consultant.ViewModels
 {
-    public class MainPageViewModel:BaseViewModel
+    public class MainPageViewModel : BaseViewModel
     {
-        public ObservableCollection<string> MainWords { get; set; }
-        public ObservableCollection<string> ListWords { get; set; }
-        private readonly CoreDispatcher dispatcher;
-        private string _currentMessage="Inicio";
-
-        public string CurrentMessage
-        {
-            get => _currentMessage;
-            set
-            {
-
-                if (this.dispatcher.HasThreadAccess)
-                {
-                    SetProperty(ref _currentMessage, value);
-                    GetMainWords();
-                }
-                else
-                {
-                   
-                    var task = this.dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Normal, ()=> 
-                    { 
-                        SetProperty(ref _currentMessage, value);
-                        GetMainWords();
-                    });
-                }
-                Debug.WriteLine(_currentMessage);
-                //GetMainWords();
-            }
-        }
-
+        public ObservableCollection<MenuItem> MenuItems { get; set; }
         public MainPageViewModel()
         {
-            MainWords = new ObservableCollection<string>();
-            ListWords = new ObservableCollection<string> { "hola", "problema", "pago"};
-            this.dispatcher = CoreWindow.GetForCurrentThread().Dispatcher;
-            EnableMic();
+            MenuItems = new ObservableCollection<MenuItem>
+            {
+                new MenuItem{Name="Ventas",         Description="Registro de ventas",    Glyph="\uE719", NavigationPage=typeof(SalesView)},
+                new MenuItem{Name="Inventario",     Description="Productos en Stock",    Glyph="\uE71C", NavigationPage=typeof(SalesView)},
+                new MenuItem{Name="Deudas",         Description="Cuentas por pagar",     Glyph="\uE8FB", NavigationPage=typeof(SalesView)},
+                new MenuItem{Name="Inversion",      Description="Registro de ventas",    Glyph="\uE7C1", NavigationPage=typeof(SalesView)},
+                new MenuItem{Name="Proveedores",    Description="Contactos proveedores", Glyph="\uE780", NavigationPage=typeof(SalesView)},
+            };
+
+            OpenFlyoutCommand = new RelayCommand(() => IsOpened = !IsOpened);
+            Title = "Testing ServiceProvider";
         }
 
-        public async void EnableMic()
+        public RelayCommand OpenFlyoutCommand { get; set; }
+
+
+        #region Properties
+        private string title;
+
+        public string Title
         {
-            bool isMicAvailable = true;
-            try
-            {
-                var mediaCapture = new Windows.Media.Capture.MediaCapture();
-                var settings = new Windows.Media.Capture.MediaCaptureInitializationSettings();
-                settings.StreamingCaptureMode = Windows.Media.Capture.StreamingCaptureMode.Audio;
-                await mediaCapture.InitializeAsync(settings);
-            }
-            catch (Exception)
-            {
-                isMicAvailable = false;
-            }
-            if (!isMicAvailable)
-            {
-                await Windows.System.Launcher.LaunchUriAsync(new Uri("ms-settings:privacy-microphone"));
-            }
-            else
-            {
-                Debug.WriteLine("Mic was enabled");
-            }
+            get { return this.title; }
+            set { SetProperty(ref (title), value); }
         }
-       
+        private bool isOpened = false;
 
-        public async void RecognizeSpeechAsyncMic()
+
+
+        public bool IsOpened
         {
-            Debug.WriteLine("Starting Speech2Text service...");
-            var config = SpeechConfig.FromSubscription("d882cca2d3b44735b0760cbaece4b340", "westus");
-            config.SpeechRecognitionLanguage = "es-MX";
-            using (var recognizer = new SpeechRecognizer(config))
-            {
-                await recognizer.StartContinuousRecognitionAsync();
-                recognizer.Recognizing += Recognizer_Recognizing;
-                await Task.Delay(TimeSpan.FromMinutes(1));
-                await recognizer.StopContinuousRecognitionAsync();
-            }
+            get { return isOpened; }
+            set { SetProperty(ref isOpened, value); }
         }
-
-        private void Recognizer_Recognizing(object sender, SpeechRecognitionEventArgs e)
-        {
-            var result = e.Result;
-
-            if (result.Reason == ResultReason.RecognizingSpeech)
-            {
-                Debug.WriteLine($"We recognized: {result.Text}");
-                CurrentMessage += $" {result.Text}";
-            }
-            else if (result.Reason == ResultReason.NoMatch)
-            {
-                Debug.WriteLine($"NOMATCH: Speech could not be recognized.");
-            }
-            else if (result.Reason == ResultReason.Canceled)
-            {
-                var cancellation = CancellationDetails.FromResult(result);
-                Debug.WriteLine($"CANCELED: Reason={cancellation.Reason}");
-
-                if (cancellation.Reason == CancellationReason.Error)
-                {
-                    Debug.WriteLine($"CANCELED: ErrorCode={cancellation.ErrorCode}");
-                    Debug.WriteLine($"CANCELED: ErrorDetails={cancellation.ErrorDetails}");
-                    Debug.WriteLine($"CANCELED: Did you update the subscription info?");
-                }
-            }
-        }
-        public void GetMainWords()
-        {
-            var strings = CurrentMessage.Split(" ").ToList();
-            foreach (var item in strings)
-            {
-                if (ListWords.Contains(item.Trim()) && !MainWords.Contains(item.Trim()))
-                    MainWords.Add(item.Trim());
-            }
-            
-        }
-        public void AddExtraMainWord(string word)
-        {
-            if (!MainWords.Contains(word))
-            {
-                MainWords.Add(word);
-            }
-        }
-
+        #endregion
     }
 }
