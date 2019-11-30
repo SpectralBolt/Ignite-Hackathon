@@ -16,11 +16,12 @@
                 <TextBlock Text="Something" Foreground="Black"/>
             </StackPanel>
         </Popup>
-        <TextBlock x:Name="OutputTextBlock" SelectionChanged="OutputTextBlock_SelectionChanged" IsTextSelectionEnabled="True" SelectionHighlightColor="Transparent" Text="Test sdfsdfsdfasdfasdf fsdfsdf dfgdf ad sdfsdf" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <ListView HorizontalAlignment="Center" Width="200" Height="200" ItemsSource="{x:Bind Items}">
+        <Button Content="Start" Click="Button_Click"/>
+        <TextBlock x:Name="OutputTextBlock" SelectionChanged="OutputTextBlock_SelectionChanged" IsTextSelectionEnabled="True" SelectionHighlightColor="Transparent" Text="{Binding Path=CurrentMessage}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <ListView HorizontalAlignment="Center" Width="200" Height="200" ItemsSource="{Binding Path=MainWords}">
             <ListView.ItemTemplate>
                 <DataTemplate x:DataType="x:String">
-                    <TextBlock Text="{x:Bind}"/>
+                    <TextBlock Text="{Binding}"/>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>

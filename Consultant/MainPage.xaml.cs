@@ -17,6 +17,9 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
+using Consultant.Helpers;
+using Consultant.ViewModels;
+
 // La plantilla de elemento Página en blanco está documentada en https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0xc0a
 
 namespace Consultant
@@ -26,21 +29,26 @@ namespace Consultant
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        public ObservableCollection<string> Items { get; set; }
         public MainPage()
         {
-            Items = new ObservableCollection<string> ();
+            DataContext = new MainPageViewModel();
             this.InitializeComponent();
         }
 
         private void OutputTextBlock_SelectionChanged(object sender, RoutedEventArgs e)
         {
             var text =(TextBlock)sender;
-            
+            var vm = (MainPageViewModel)DataContext;
             if (!string.IsNullOrEmpty(text.SelectedText)){
                 Debug.WriteLine(text.SelectedText);
-                Items.Add(text.SelectedText);
+                vm.AddExtraMainWord(text.SelectedText);
             }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var vm = (MainPageViewModel)DataContext;
+            vm.RecognizeSpeechAsyncMic();
         }
     }
 }
