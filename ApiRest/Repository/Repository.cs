@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using ApiRest.Helpers;
 using ApiRest.Services;
+using Microsoft.EntityFrameworkCore;
 
 namespace ApiRest.Repository
 {
@@ -59,9 +60,14 @@ namespace ApiRest.Repository
             throw new NotImplementedException();
         }
 
-        public Task<Office> Getoffice(int officeId)
+        public Task<Office> GetOffice(int officeId)
         {
             throw new NotImplementedException();
+        }
+
+        public async Task<IEnumerable<Office>> GetOffices()
+        {
+            return await context.Offices.Include(o => o.Records).ToArrayAsync();
         }
 
         #region Seed Database
@@ -89,23 +95,40 @@ namespace ApiRest.Repository
                                            .Skip(1)
                                            .Select(v => Parsers.ParseConsultant(v))
                                            .ToList();
-            context.Consultants.AddRange(consultants);
-            context.SaveChanges();
+
             List<Office> offices = File.ReadAllLines("D:\\VS Projects\\Ignite\\Consultant\\Common\\CSV\\OficinasColpatriaBogota.csv")
                                     .Skip(1)
                                     .Select(l => Parsers.ParseOffice(l))
                                     .ToList();
+
+            var joinedoff = JoinOfficeConsultants(consultants, offices);
+
             List<Record> records = File.ReadAllLines("D:\\VS Projects\\Ignite\\Consultant\\Common\\CSV\\ClientesOficina.csv")
                                     .Skip(1)
                                     .Select(r => Parsers.ParseRecord(r))
                                     .ToList();
-            foreach (var item in offices)
+            foreach (var item in joinedoff)
             {
-                item.Consultants.AddRange(consultants.Where(c => c.OfficeId == item.OfficeId));
-                item.Records.AddRange(records.Where(r => r.OfficeId == item.OfficeId));
+                item.Records.AddRange(records.Where(r => r.OfficeId == item.OfficeCod));
             }
-            context.AddRange(offices);
+            context.AddRange(joinedoff);
             context.SaveChanges();
+        }
+
+        private List<Office> JoinOfficeConsultants(List<Consultant> consultants, List<Office> offices)
+        {
+            List<List<Consultant>> groupedConsultants = consultants.GroupBy(c => c.OfficeId)
+                                                                    .Select(grp => grp.ToList())
+                                                                    .ToList();
+            List<Consultant> fixedCon = new List<Consultant>();
+            foreach (var item in groupedConsultants)
+            {
+                foreach (var consul in item)
+                {
+                    offices.Where(of => of.OfficeCod == consul.OfficeId).FirstOrDefault().Consultants.Add(consul);
+                }
+            }
+            return offices;
         }
 
         #endregion

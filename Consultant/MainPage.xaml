@@ -9,7 +9,7 @@
     Background="White">
 
     <Grid RowSpacing="20">
-        <Image Source="Login.jpeg" Stretch="Fill" Tapped="Image_Tapped"/>
+        <Image Source="Images/Login.jpeg" Stretch="Fill" Tapped="Image_Tapped"/>
     </Grid>
     
      

@@ -1,2551 +1,2551 @@
-Cod Oficina ;N° Clientes ofc;Fecha;Tiempo espera promedio del cliente
-23;65;jueves, 1 de noviembre de 2018;0:30
-23;65;viernes, 2 de noviembre de 2018;0:15
-23;60;martes, 6 de noviembre de 2018;0:07
-23;55;miércoles, 7 de noviembre de 2018;0:03
-23;55;jueves, 8 de noviembre de 2018;0:04
-23;60;viernes, 9 de noviembre de 2018;0:10
-23;61;martes, 13 de noviembre de 2018;0:12
-23;63;miércoles, 14 de noviembre de 2018;0:27
-23;63;jueves, 15 de noviembre de 2018;0:25
-23;63;viernes, 16 de noviembre de 2018;0:46
-23;64;lunes, 19 de noviembre de 2018;0:43
-23;64;martes, 20 de noviembre de 2018;0:43
-23;60;miércoles, 21 de noviembre de 2018;0:30
-23;60;jueves, 22 de noviembre de 2018;0:25
-23;60;viernes, 23 de noviembre de 2018;0:16
-23;55;lunes, 26 de noviembre de 2018;0:10
-23;54;martes, 27 de noviembre de 2018;0:08
-23;53;miércoles, 28 de noviembre de 2018;0:14
-23;53;jueves, 29 de noviembre de 2018;0:15
-23;95;viernes, 30 de noviembre de 2018;0:45
-23;90;lunes, 3 de diciembre de 2018;0:29
-23;85;martes, 4 de diciembre de 2018;0:14
-23;80;miércoles, 5 de diciembre de 2018;0:06
-23;85;jueves, 6 de diciembre de 2018;0:02
-23;80;viernes, 7 de diciembre de 2018;0:03
-23;95;lunes, 10 de diciembre de 2018;0:43
-23;95;martes, 11 de diciembre de 2018;0:43
-23;95;miércoles, 12 de diciembre de 2018;0:30
-23;95;jueves, 13 de diciembre de 2018;0:25
-23;95;viernes, 14 de diciembre de 2018;0:16
-23;95;lunes, 17 de diciembre de 2018;0:40
-23;95;martes, 18 de diciembre de 2018;0:39
-23;95;miércoles, 19 de diciembre de 2018;0:32
-23;95;jueves, 20 de diciembre de 2018;0:26
-23;95;viernes, 21 de diciembre de 2018;0:18
-23;90;lunes, 24 de diciembre de 2018;0:10
-23;85;miércoles, 26 de diciembre de 2018;0:08
-23;80;jueves, 27 de diciembre de 2018;0:14
-23;95;viernes, 28 de diciembre de 2018;0:19
-23;60;lunes, 31 de diciembre de 2018;0:43
-23;40;miércoles, 2 de enero de 2019;0:30
-23;45;jueves, 3 de enero de 2019;0:15
-23;47;viernes, 4 de enero de 2019;0:07
-23;55;martes, 8 de enero de 2019;0:07
-23;55;miércoles, 9 de enero de 2019;0:03
-23;55;jueves, 10 de enero de 2019;0:04
-23;55;viernes, 11 de enero de 2019;0:06
-23;50;lunes, 14 de enero de 2019;0:10
-23;80;martes, 15 de enero de 2019;0:20
-23;80;miércoles, 16 de enero de 2019;0:12
-23;75;jueves, 17 de enero de 2019;0:08
-23;80;viernes, 18 de enero de 2019;0:39
-23;68;lunes, 21 de enero de 2019;0:10
-23;55;martes, 22 de enero de 2019;0:09
-23;55;miércoles, 23 de enero de 2019;0:14
-23;55;jueves, 24 de enero de 2019;0:10
-23;80;viernes, 25 de enero de 2019;0:21
-23;75;lunes, 28 de enero de 2019;0:10
-23;75;martes, 29 de enero de 2019;0:08
-23;80;miércoles, 30 de enero de 2019;0:14
-23;80;jueves, 31 de enero de 2019;0:45
-23;75;viernes, 1 de febrero de 2019;0:30
-23;80;lunes, 4 de febrero de 2019;0:15
-23;80;martes, 5 de febrero de 2019;0:07
-23;80;miércoles, 6 de febrero de 2019;0:07
-23;80;jueves, 7 de febrero de 2019;0:03
-23;85;viernes, 8 de febrero de 2019;0:29
-23;85;lunes, 11 de febrero de 2019;0:25
-23;85;martes, 12 de febrero de 2019;0:30
-23;85;miércoles, 13 de febrero de 2019;0:25
-23;85;jueves, 14 de febrero de 2019;0:16
-23;95;viernes, 15 de febrero de 2019;0:40
-23;95;lunes, 18 de febrero de 2019;0:39
-23;95;martes, 19 de febrero de 2019;0:32
-23;90;miércoles, 20 de febrero de 2019;0:26
-23;90;jueves, 21 de febrero de 2019;0:18
-23;70;viernes, 22 de febrero de 2019;0:13
-23;95;lunes, 25 de febrero de 2019;0:26
-23;90;martes, 26 de febrero de 2019;0:07
-23;90;miércoles, 27 de febrero de 2019;0:03
-23;95;jueves, 28 de febrero de 2019;0:44
-23;90;viernes, 1 de marzo de 2019;0:31
-23;80;lunes, 4 de marzo de 2019;0:14
-23;80;martes, 5 de marzo de 2019;0:15
-23;80;miércoles, 6 de marzo de 2019;0:07
-23;85;jueves, 7 de marzo de 2019;0:07
-23;95;viernes, 8 de marzo de 2019;0:29
-23;95;lunes, 11 de marzo de 2019;0:25
-23;95;martes, 12 de marzo de 2019;0:30
-23;95;miércoles, 13 de marzo de 2019;0:25
-23;95;jueves, 14 de marzo de 2019;0:16
-23;95;viernes, 15 de marzo de 2019;0:40
-23;95;lunes, 18 de marzo de 2019;0:39
-23;95;martes, 19 de marzo de 2019;0:32
-23;95;miércoles, 20 de marzo de 2019;0:26
-23;95;jueves, 21 de marzo de 2019;0:18
-23;85;viernes, 22 de marzo de 2019;0:13
-23;95;martes, 26 de marzo de 2019;0:18
-23;85;miércoles, 27 de marzo de 2019;0:14
-23;85;jueves, 28 de marzo de 2019;0:15
-23;95;viernes, 29 de marzo de 2019;0:43
-23;90;lunes, 1 de abril de 2019;0:29
-23;90;martes, 2 de abril de 2019;0:28
-23;85;miércoles, 3 de abril de 2019;0:18
-23;85;jueves, 4 de abril de 2019;0:16
-23;95;viernes, 5 de abril de 2019;0:29
-23;85;lunes, 8 de abril de 2019;0:16
-23;95;martes, 9 de abril de 2019;0:29
-23;95;miércoles, 10 de abril de 2019;0:25
-23;95;jueves, 11 de abril de 2019;0:30
-23;95;viernes, 12 de abril de 2019;0:25
-23;95;lunes, 15 de abril de 2019;0:40
-23;95;martes, 16 de abril de 2019;0:39
-23;85;miércoles, 17 de abril de 2019;0:13
-23;95;lunes, 22 de abril de 2019;0:25
-23;95;martes, 23 de abril de 2019;0:16
-23;95;miércoles, 24 de abril de 2019;0:26
-23;95;jueves, 25 de abril de 2019;0:18
-23;95;viernes, 26 de abril de 2019;0:26
-23;95;lunes, 29 de abril de 2019;0:18
-23;95;martes, 30 de abril de 2019;0:42
-23;95;jueves, 2 de mayo de 2019;0:41
-23;95;viernes, 3 de mayo de 2019;0:41
-23;95;lunes, 6 de mayo de 2019;0:29
-23;95;martes, 7 de mayo de 2019;0:25
-23;95;miércoles, 8 de mayo de 2019;0:30
-23;95;jueves, 9 de mayo de 2019;0:25
-23;95;viernes, 10 de mayo de 2019;0:25
-23;95;lunes, 13 de mayo de 2019;0:16
-23;95;martes, 14 de mayo de 2019;0:26
-23;95;miércoles, 15 de mayo de 2019;0:42
-23;95;jueves, 16 de mayo de 2019;0:40
-23;95;viernes, 17 de mayo de 2019;0:38
-23;95;lunes, 20 de mayo de 2019;0:36
-23;95;martes, 21 de mayo de 2019;0:25
-23;95;miércoles, 22 de mayo de 2019;0:16
-23;85;jueves, 23 de mayo de 2019;0:14
-23;85;viernes, 24 de mayo de 2019;0:15
-23;95;lunes, 27 de mayo de 2019;0:18
-23;90;martes, 28 de mayo de 2019;0:14
-23;90;miércoles, 29 de mayo de 2019;0:15
-23;90;jueves, 30 de mayo de 2019;0:39
-23;95;viernes, 31 de mayo de 2019;0:41
-23;90;martes, 4 de junio de 2019;0:16
-23;90;miércoles, 5 de junio de 2019;0:29
-23;85;jueves, 6 de junio de 2019;0:16
-23;80;viernes, 7 de junio de 2019;0:07
-23;80;lunes, 10 de junio de 2019;0:07
-23;95;martes, 11 de junio de 2019;0:25
-23;95;miércoles, 12 de junio de 2019;0:16
-23;95;jueves, 13 de junio de 2019;0:26
-23;95;viernes, 14 de junio de 2019;0:42
-23;95;lunes, 17 de junio de 2019;0:40
-23;95;martes, 18 de junio de 2019;0:38
-23;95;miércoles, 19 de junio de 2019;0:36
-23;95;jueves, 20 de junio de 2019;0:25
-23;95;viernes, 21 de junio de 2019;0:16
-23;95;martes, 25 de junio de 2019;0:18
-23;90;miércoles, 26 de junio de 2019;0:14
-23;85;jueves, 27 de junio de 2019;0:15
-23;95;viernes, 28 de junio de 2019;0:40
-23;90;martes, 2 de julio de 2019;0:16
-23;90;miércoles, 3 de julio de 2019;0:29
-23;85;jueves, 4 de julio de 2019;0:16
-23;85;viernes, 5 de julio de 2019;0:07
-23;80;lunes, 8 de julio de 2019;0:19
-23;95;martes, 9 de julio de 2019;0:25
-23;95;miércoles, 10 de julio de 2019;0:16
-23;95;jueves, 11 de julio de 2019;0:26
-23;95;viernes, 12 de julio de 2019;0:42
-23;95;lunes, 15 de julio de 2019;0:40
-23;95;martes, 16 de julio de 2019;0:40
-23;95;miércoles, 17 de julio de 2019;0:38
-23;95;jueves, 18 de julio de 2019;0:36
-23;95;viernes, 19 de julio de 2019;0:25
-23;95;lunes, 22 de julio de 2019;0:22
-23;90;martes, 23 de julio de 2019;0:14
-23;85;miércoles, 24 de julio de 2019;0:15
-23;95;jueves, 25 de julio de 2019;0:19
-23;90;viernes, 26 de julio de 2019;0:14
-23;85;lunes, 29 de julio de 2019;0:15
-23;80;martes, 30 de julio de 2019;0:38
-23;95;miércoles, 31 de julio de 2019;0:39
-23;90;jueves, 1 de agosto de 2019;0:26
-23;80;viernes, 2 de agosto de 2019;0:29
-23;85;lunes, 5 de agosto de 2019;0:16
-23;95;martes, 6 de agosto de 2019;0:29
-23;95;jueves, 8 de agosto de 2019;0:25
-23;95;viernes, 9 de agosto de 2019;0:30
-23;95;lunes, 12 de agosto de 2019;0:25
-23;95;martes, 13 de agosto de 2019;0:25
-23;95;miércoles, 14 de agosto de 2019;0:26
-23;95;jueves, 15 de agosto de 2019;0:39
-23;95;viernes, 16 de agosto de 2019;0:37
-23;95;martes, 20 de agosto de 2019;0:30
-23;95;miércoles, 21 de agosto de 2019;0:20
-23;95;jueves, 22 de agosto de 2019;0:28
-23;95;viernes, 23 de agosto de 2019;0:26
-23;95;lunes, 26 de agosto de 2019;0:25
-23;95;martes, 27 de agosto de 2019;0:16
-23;95;miércoles, 28 de agosto de 2019;0:18
-23;95;jueves, 29 de agosto de 2019;0:25
-23;95;viernes, 30 de agosto de 2019;0:45
-23;95;lunes, 2 de septiembre de 2019;0:39
-23;95;martes, 3 de septiembre de 2019;0:37
-23;95;miércoles, 4 de septiembre de 2019;0:26
-23;95;jueves, 5 de septiembre de 2019;0:23
-23;95;viernes, 6 de septiembre de 2019;0:22
-23;95;lunes, 9 de septiembre de 2019;0:30
-23;95;martes, 10 de septiembre de 2019;0:25
-23;95;miércoles, 11 de septiembre de 2019;0:25
-23;95;jueves, 12 de septiembre de 2019;0:26
-23;95;viernes, 13 de septiembre de 2019;0:45
-23;95;lunes, 16 de septiembre de 2019;0:36
-23;95;martes, 17 de septiembre de 2019;0:37
-23;95;miércoles, 18 de septiembre de 2019;0:30
-23;95;jueves, 19 de septiembre de 2019;0:27
-23;95;viernes, 20 de septiembre de 2019;0:22
-23;95;lunes, 23 de septiembre de 2019;0:17
-23;95;martes, 24 de septiembre de 2019;0:20
-23;95;miércoles, 25 de septiembre de 2019;0:23
-23;95;jueves, 26 de septiembre de 2019;0:11
-23;95;viernes, 27 de septiembre de 2019;0:21
-23;95;lunes, 30 de septiembre de 2019;0:39
-23;95;martes, 1 de octubre de 2019;0:39
-23;95;miércoles, 2 de octubre de 2019;0:37
-23;95;jueves, 3 de octubre de 2019;0:26
-23;95;viernes, 4 de octubre de 2019;0:23
-23;95;lunes, 7 de octubre de 2019;0:22
-23;95;martes, 8 de octubre de 2019;0:30
-23;95;miércoles, 9 de octubre de 2019;0:25
-23;95;jueves, 10 de octubre de 2019;0:25
-23;95;viernes, 11 de octubre de 2019;0:26
-23;95;martes, 15 de octubre de 2019;0:40
-23;95;miércoles, 16 de octubre de 2019;0:19
-23;95;jueves, 17 de octubre de 2019;0:22
-23;95;viernes, 18 de octubre de 2019;0:29
-23;95;lunes, 21 de octubre de 2019;0:22
-23;95;martes, 22 de octubre de 2019;0:17
-23;90;miércoles, 23 de octubre de 2019;0:14
-23;85;jueves, 24 de octubre de 2019;0:15
-23;95;viernes, 25 de octubre de 2019;0:23
-23;90;lunes, 28 de octubre de 2019;0:09
-23;85;martes, 29 de octubre de 2019;0:15
-23;80;miércoles, 30 de octubre de 2019;0:39
-23;95;jueves, 31 de octubre de 2019;0:41
-23;90;viernes, 1 de noviembre de 2019;0:41
-23;90;martes, 5 de noviembre de 2019;0:17
-23;85;miércoles, 6 de noviembre de 2019;0:19
-23;80;jueves, 7 de noviembre de 2019;0:19
-23;95;viernes, 8 de noviembre de 2019;0:30
-23;95;martes, 12 de noviembre de 2019;0:25
-23;95;miércoles, 13 de noviembre de 2019;0:25
-23;95;jueves, 14 de noviembre de 2019;0:26
-23;95;viernes, 15 de noviembre de 2019;0:40
-24;98;jueves, 1 de noviembre de 2018;0:45
-24;98;viernes, 2 de noviembre de 2018;0:22
-24;90;martes, 6 de noviembre de 2018;0:10
-24;83;miércoles, 7 de noviembre de 2018;0:04
-24;83;jueves, 8 de noviembre de 2018;0:06
-24;90;viernes, 9 de noviembre de 2018;0:15
-24;92;martes, 13 de noviembre de 2018;0:18
-24;95;miércoles, 14 de noviembre de 2018;0:40
-24;95;jueves, 15 de noviembre de 2018;0:37
-24;95;viernes, 16 de noviembre de 2018;1:09
-24;96;lunes, 19 de noviembre de 2018;1:04
-24;96;martes, 20 de noviembre de 2018;1:04
-24;90;miércoles, 21 de noviembre de 2018;0:45
-24;90;jueves, 22 de noviembre de 2018;0:37
-24;90;viernes, 23 de noviembre de 2018;0:24
-24;83;lunes, 26 de noviembre de 2018;0:15
-24;81;martes, 27 de noviembre de 2018;0:12
-24;80;miércoles, 28 de noviembre de 2018;0:21
-24;80;jueves, 29 de noviembre de 2018;0:22
-24;143;viernes, 30 de noviembre de 2018;1:07
-24;135;lunes, 3 de diciembre de 2018;0:43
-24;128;martes, 4 de diciembre de 2018;0:21
-24;120;miércoles, 5 de diciembre de 2018;0:09
-24;128;jueves, 6 de diciembre de 2018;0:03
-24;120;viernes, 7 de diciembre de 2018;0:04
-24;143;lunes, 10 de diciembre de 2018;1:04
-24;143;martes, 11 de diciembre de 2018;1:04
-24;143;miércoles, 12 de diciembre de 2018;0:45
-24;143;jueves, 13 de diciembre de 2018;0:37
-24;143;viernes, 14 de diciembre de 2018;0:24
-24;143;lunes, 17 de diciembre de 2018;1:00
-24;143;martes, 18 de diciembre de 2018;0:58
-24;143;miércoles, 19 de diciembre de 2018;0:48
-24;143;jueves, 20 de diciembre de 2018;0:39
-24;143;viernes, 21 de diciembre de 2018;0:27
-24;135;lunes, 24 de diciembre de 2018;0:15
-24;128;miércoles, 26 de diciembre de 2018;0:12
-24;120;jueves, 27 de diciembre de 2018;0:21
-24;143;viernes, 28 de diciembre de 2018;0:28
-24;90;lunes, 31 de diciembre de 2018;1:04
-24;60;miércoles, 2 de enero de 2019;0:45
-24;68;jueves, 3 de enero de 2019;0:22
-24;71;viernes, 4 de enero de 2019;0:10
-24;83;martes, 8 de enero de 2019;0:10
-24;83;miércoles, 9 de enero de 2019;0:04
-24;83;jueves, 10 de enero de 2019;0:06
-24;83;viernes, 11 de enero de 2019;0:09
-24;75;lunes, 14 de enero de 2019;0:15
-24;120;martes, 15 de enero de 2019;0:30
-24;120;miércoles, 16 de enero de 2019;0:18
-24;113;jueves, 17 de enero de 2019;0:12
-24;120;viernes, 18 de enero de 2019;0:58
-24;102;lunes, 21 de enero de 2019;0:15
-24;83;martes, 22 de enero de 2019;0:13
-24;83;miércoles, 23 de enero de 2019;0:21
-24;83;jueves, 24 de enero de 2019;0:15
-24;120;viernes, 25 de enero de 2019;0:31
-24;113;lunes, 28 de enero de 2019;0:15
-24;113;martes, 29 de enero de 2019;0:12
-24;120;miércoles, 30 de enero de 2019;0:21
-24;120;jueves, 31 de enero de 2019;1:07
-24;113;viernes, 1 de febrero de 2019;0:45
-24;120;lunes, 4 de febrero de 2019;0:22
-24;120;martes, 5 de febrero de 2019;0:10
-24;120;miércoles, 6 de febrero de 2019;0:10
-24;120;jueves, 7 de febrero de 2019;0:04
-24;128;viernes, 8 de febrero de 2019;0:43
-24;128;lunes, 11 de febrero de 2019;0:37
-24;128;martes, 12 de febrero de 2019;0:45
-24;128;miércoles, 13 de febrero de 2019;0:37
-24;128;jueves, 14 de febrero de 2019;0:24
-24;143;viernes, 15 de febrero de 2019;1:00
-24;143;lunes, 18 de febrero de 2019;0:58
-24;143;martes, 19 de febrero de 2019;0:48
-24;135;miércoles, 20 de febrero de 2019;0:39
-24;135;jueves, 21 de febrero de 2019;0:27
-24;105;viernes, 22 de febrero de 2019;0:19
-24;143;lunes, 25 de febrero de 2019;0:39
-24;135;martes, 26 de febrero de 2019;0:10
-24;135;miércoles, 27 de febrero de 2019;0:04
-24;143;jueves, 28 de febrero de 2019;1:06
-24;135;viernes, 1 de marzo de 2019;0:46
-24;120;lunes, 4 de marzo de 2019;0:21
-24;120;martes, 5 de marzo de 2019;0:22
-24;120;miércoles, 6 de marzo de 2019;0:10
-24;128;jueves, 7 de marzo de 2019;0:10
-24;143;viernes, 8 de marzo de 2019;0:43
-24;143;lunes, 11 de marzo de 2019;0:37
-24;143;martes, 12 de marzo de 2019;0:45
-24;143;miércoles, 13 de marzo de 2019;0:37
-24;143;jueves, 14 de marzo de 2019;0:24
-24;143;viernes, 15 de marzo de 2019;1:00
-24;143;lunes, 18 de marzo de 2019;0:58
-24;143;martes, 19 de marzo de 2019;0:48
-24;143;miércoles, 20 de marzo de 2019;0:39
-24;143;jueves, 21 de marzo de 2019;0:27
-24;128;viernes, 22 de marzo de 2019;0:19
-24;143;martes, 26 de marzo de 2019;0:27
-24;128;miércoles, 27 de marzo de 2019;0:21
-24;128;jueves, 28 de marzo de 2019;0:22
-24;143;viernes, 29 de marzo de 2019;1:04
-24;135;lunes, 1 de abril de 2019;0:43
-24;135;martes, 2 de abril de 2019;0:42
-24;128;miércoles, 3 de abril de 2019;0:27
-24;128;jueves, 4 de abril de 2019;0:24
-24;143;viernes, 5 de abril de 2019;0:43
-24;128;lunes, 8 de abril de 2019;0:24
-24;143;martes, 9 de abril de 2019;0:43
-24;143;miércoles, 10 de abril de 2019;0:37
-24;143;jueves, 11 de abril de 2019;0:45
-24;143;viernes, 12 de abril de 2019;0:37
-24;143;lunes, 15 de abril de 2019;1:00
-24;143;martes, 16 de abril de 2019;0:58
-24;128;miércoles, 17 de abril de 2019;0:19
-24;143;lunes, 22 de abril de 2019;0:37
-24;143;martes, 23 de abril de 2019;0:24
-24;143;miércoles, 24 de abril de 2019;0:39
-24;143;jueves, 25 de abril de 2019;0:27
-24;143;viernes, 26 de abril de 2019;0:39
-24;143;lunes, 29 de abril de 2019;0:27
-24;143;martes, 30 de abril de 2019;1:03
-24;143;jueves, 2 de mayo de 2019;1:01
-24;143;viernes, 3 de mayo de 2019;1:01
-24;143;lunes, 6 de mayo de 2019;0:43
-24;143;martes, 7 de mayo de 2019;0:37
-24;143;miércoles, 8 de mayo de 2019;0:45
-24;143;jueves, 9 de mayo de 2019;0:37
-24;143;viernes, 10 de mayo de 2019;0:37
-24;143;lunes, 13 de mayo de 2019;0:24
-24;143;martes, 14 de mayo de 2019;0:39
-24;143;miércoles, 15 de mayo de 2019;1:03
-24;143;jueves, 16 de mayo de 2019;1:00
-24;143;viernes, 17 de mayo de 2019;0:57
-24;143;lunes, 20 de mayo de 2019;0:54
-24;143;martes, 21 de mayo de 2019;0:37
-24;143;miércoles, 22 de mayo de 2019;0:24
-24;128;jueves, 23 de mayo de 2019;0:21
-24;128;viernes, 24 de mayo de 2019;0:22
-24;143;lunes, 27 de mayo de 2019;0:27
-24;135;martes, 28 de mayo de 2019;0:21
-24;135;miércoles, 29 de mayo de 2019;0:22
-24;135;jueves, 30 de mayo de 2019;0:58
-24;143;viernes, 31 de mayo de 2019;1:01
-24;135;martes, 4 de junio de 2019;0:24
-24;135;miércoles, 5 de junio de 2019;0:43
-24;128;jueves, 6 de junio de 2019;0:24
-24;120;viernes, 7 de junio de 2019;0:10
-24;120;lunes, 10 de junio de 2019;0:10
-24;143;martes, 11 de junio de 2019;0:37
-24;143;miércoles, 12 de junio de 2019;0:24
-24;143;jueves, 13 de junio de 2019;0:39
-24;143;viernes, 14 de junio de 2019;1:03
-24;143;lunes, 17 de junio de 2019;1:00
-24;143;martes, 18 de junio de 2019;0:57
-24;143;miércoles, 19 de junio de 2019;0:54
-24;143;jueves, 20 de junio de 2019;0:37
-24;143;viernes, 21 de junio de 2019;0:24
-24;143;martes, 25 de junio de 2019;0:27
-24;135;miércoles, 26 de junio de 2019;0:21
-24;128;jueves, 27 de junio de 2019;0:22
-24;143;viernes, 28 de junio de 2019;1:00
-24;135;martes, 2 de julio de 2019;0:24
-24;135;miércoles, 3 de julio de 2019;0:43
-24;128;jueves, 4 de julio de 2019;0:24
-24;128;viernes, 5 de julio de 2019;0:10
-24;120;lunes, 8 de julio de 2019;0:28
-24;143;martes, 9 de julio de 2019;0:37
-24;143;miércoles, 10 de julio de 2019;0:24
-24;143;jueves, 11 de julio de 2019;0:39
-24;143;viernes, 12 de julio de 2019;1:03
-24;143;lunes, 15 de julio de 2019;1:00
-24;143;martes, 16 de julio de 2019;1:00
-24;143;miércoles, 17 de julio de 2019;0:57
-24;143;jueves, 18 de julio de 2019;0:54
-24;143;viernes, 19 de julio de 2019;0:37
-24;143;lunes, 22 de julio de 2019;0:33
-24;135;martes, 23 de julio de 2019;0:21
-24;128;miércoles, 24 de julio de 2019;0:22
-24;143;jueves, 25 de julio de 2019;0:28
-24;135;viernes, 26 de julio de 2019;0:21
-24;128;lunes, 29 de julio de 2019;0:22
-24;120;martes, 30 de julio de 2019;0:57
-24;143;miércoles, 31 de julio de 2019;0:58
-24;135;jueves, 1 de agosto de 2019;0:39
-24;120;viernes, 2 de agosto de 2019;0:43
-24;128;lunes, 5 de agosto de 2019;0:24
-24;143;martes, 6 de agosto de 2019;0:43
-24;143;jueves, 8 de agosto de 2019;0:37
-24;143;viernes, 9 de agosto de 2019;0:45
-24;143;lunes, 12 de agosto de 2019;0:37
-24;143;martes, 13 de agosto de 2019;0:37
-24;143;miércoles, 14 de agosto de 2019;0:39
-24;143;jueves, 15 de agosto de 2019;0:58
-24;143;viernes, 16 de agosto de 2019;0:55
-24;143;martes, 20 de agosto de 2019;0:45
-24;143;miércoles, 21 de agosto de 2019;0:30
-24;143;jueves, 22 de agosto de 2019;0:42
-24;143;viernes, 23 de agosto de 2019;0:39
-24;143;lunes, 26 de agosto de 2019;0:37
-24;143;martes, 27 de agosto de 2019;0:24
-24;143;miércoles, 28 de agosto de 2019;0:27
-24;143;jueves, 29 de agosto de 2019;0:37
-24;143;viernes, 30 de agosto de 2019;1:07
-24;143;lunes, 2 de septiembre de 2019;0:58
-24;143;martes, 3 de septiembre de 2019;0:55
-24;143;miércoles, 4 de septiembre de 2019;0:39
-24;143;jueves, 5 de septiembre de 2019;0:34
-24;143;viernes, 6 de septiembre de 2019;0:33
-24;143;lunes, 9 de septiembre de 2019;0:45
-24;143;martes, 10 de septiembre de 2019;0:37
-24;143;miércoles, 11 de septiembre de 2019;0:37
-24;143;jueves, 12 de septiembre de 2019;0:39
-24;143;viernes, 13 de septiembre de 2019;1:07
-24;143;lunes, 16 de septiembre de 2019;0:54
-24;143;martes, 17 de septiembre de 2019;0:55
-24;143;miércoles, 18 de septiembre de 2019;0:45
-24;143;jueves, 19 de septiembre de 2019;0:40
-24;143;viernes, 20 de septiembre de 2019;0:33
-24;143;lunes, 23 de septiembre de 2019;0:25
-24;143;martes, 24 de septiembre de 2019;0:30
-24;143;miércoles, 25 de septiembre de 2019;0:34
-24;143;jueves, 26 de septiembre de 2019;0:16
-24;143;viernes, 27 de septiembre de 2019;0:31
-24;143;lunes, 30 de septiembre de 2019;0:58
-24;143;martes, 1 de octubre de 2019;0:58
-24;143;miércoles, 2 de octubre de 2019;0:55
-24;143;jueves, 3 de octubre de 2019;0:39
-24;143;viernes, 4 de octubre de 2019;0:34
-24;143;lunes, 7 de octubre de 2019;0:33
-24;143;martes, 8 de octubre de 2019;0:45
-24;143;miércoles, 9 de octubre de 2019;0:37
-24;143;jueves, 10 de octubre de 2019;0:37
-24;143;viernes, 11 de octubre de 2019;0:39
-24;143;martes, 15 de octubre de 2019;1:00
-24;143;miércoles, 16 de octubre de 2019;0:28
-24;143;jueves, 17 de octubre de 2019;0:33
-24;143;viernes, 18 de octubre de 2019;0:43
-24;143;lunes, 21 de octubre de 2019;0:33
-24;143;martes, 22 de octubre de 2019;0:25
-24;135;miércoles, 23 de octubre de 2019;0:21
-24;128;jueves, 24 de octubre de 2019;0:22
-24;143;viernes, 25 de octubre de 2019;0:34
-24;135;lunes, 28 de octubre de 2019;0:13
-24;128;martes, 29 de octubre de 2019;0:22
-24;120;miércoles, 30 de octubre de 2019;0:58
-24;143;jueves, 31 de octubre de 2019;1:01
-24;135;viernes, 1 de noviembre de 2019;1:01
-24;135;martes, 5 de noviembre de 2019;0:25
-24;128;miércoles, 6 de noviembre de 2019;0:28
-24;120;jueves, 7 de noviembre de 2019;0:28
-24;143;viernes, 8 de noviembre de 2019;0:45
-24;143;martes, 12 de noviembre de 2019;0:37
-24;143;miércoles, 13 de noviembre de 2019;0:37
-24;143;jueves, 14 de noviembre de 2019;0:39
-24;143;viernes, 15 de noviembre de 2019;1:00
-197;33;jueves, 1 de noviembre de 2018;0:15
-197;33;viernes, 2 de noviembre de 2018;0:07
-197;30;martes, 6 de noviembre de 2018;0:03
-197;28;miércoles, 7 de noviembre de 2018;0:01
-197;28;jueves, 8 de noviembre de 2018;0:02
-197;30;viernes, 9 de noviembre de 2018;0:05
-197;31;martes, 13 de noviembre de 2018;0:06
-197;32;miércoles, 14 de noviembre de 2018;0:13
-197;32;jueves, 15 de noviembre de 2018;0:12
-197;32;viernes, 16 de noviembre de 2018;0:23
-197;32;lunes, 19 de noviembre de 2018;0:21
-197;32;martes, 20 de noviembre de 2018;0:21
-197;30;miércoles, 21 de noviembre de 2018;0:15
-197;30;jueves, 22 de noviembre de 2018;0:12
-197;30;viernes, 23 de noviembre de 2018;0:08
-197;28;lunes, 26 de noviembre de 2018;0:05
-197;27;martes, 27 de noviembre de 2018;0:04
-197;27;miércoles, 28 de noviembre de 2018;0:07
-197;27;jueves, 29 de noviembre de 2018;0:07
-197;48;viernes, 30 de noviembre de 2018;0:22
-197;45;lunes, 3 de diciembre de 2018;0:14
-197;43;martes, 4 de diciembre de 2018;0:07
-197;40;miércoles, 5 de diciembre de 2018;0:03
-197;43;jueves, 6 de diciembre de 2018;0:01
-197;40;viernes, 7 de diciembre de 2018;0:01
-197;48;lunes, 10 de diciembre de 2018;0:21
-197;48;martes, 11 de diciembre de 2018;0:21
-197;48;miércoles, 12 de diciembre de 2018;0:15
-197;48;jueves, 13 de diciembre de 2018;0:12
-197;48;viernes, 14 de diciembre de 2018;0:08
-197;48;lunes, 17 de diciembre de 2018;0:20
-197;48;martes, 18 de diciembre de 2018;0:19
-197;48;miércoles, 19 de diciembre de 2018;0:16
-197;48;jueves, 20 de diciembre de 2018;0:13
-197;48;viernes, 21 de diciembre de 2018;0:09
-197;45;lunes, 24 de diciembre de 2018;0:05
-197;43;miércoles, 26 de diciembre de 2018;0:04
-197;40;jueves, 27 de diciembre de 2018;0:07
-197;48;viernes, 28 de diciembre de 2018;0:09
-197;30;lunes, 31 de diciembre de 2018;0:21
-197;20;miércoles, 2 de enero de 2019;0:15
-197;23;jueves, 3 de enero de 2019;0:07
-197;24;viernes, 4 de enero de 2019;0:03
-197;28;martes, 8 de enero de 2019;0:03
-197;28;miércoles, 9 de enero de 2019;0:01
-197;28;jueves, 10 de enero de 2019;0:02
-197;28;viernes, 11 de enero de 2019;0:03
-197;25;lunes, 14 de enero de 2019;0:05
-197;40;martes, 15 de enero de 2019;0:10
-197;40;miércoles, 16 de enero de 2019;0:06
-197;38;jueves, 17 de enero de 2019;0:04
-197;40;viernes, 18 de enero de 2019;0:19
-197;34;lunes, 21 de enero de 2019;0:05
-197;28;martes, 22 de enero de 2019;0:04
-197;28;miércoles, 23 de enero de 2019;0:07
-197;28;jueves, 24 de enero de 2019;0:05
-197;40;viernes, 25 de enero de 2019;0:10
-197;38;lunes, 28 de enero de 2019;0:05
-197;38;martes, 29 de enero de 2019;0:04
-197;40;miércoles, 30 de enero de 2019;0:07
-197;40;jueves, 31 de enero de 2019;0:22
-197;38;viernes, 1 de febrero de 2019;0:15
-197;40;lunes, 4 de febrero de 2019;0:07
-197;40;martes, 5 de febrero de 2019;0:03
-197;40;miércoles, 6 de febrero de 2019;0:03
-197;40;jueves, 7 de febrero de 2019;0:01
-197;43;viernes, 8 de febrero de 2019;0:14
-197;43;lunes, 11 de febrero de 2019;0:12
-197;43;martes, 12 de febrero de 2019;0:15
-197;43;miércoles, 13 de febrero de 2019;0:12
-197;43;jueves, 14 de febrero de 2019;0:08
-197;48;viernes, 15 de febrero de 2019;0:20
-197;48;lunes, 18 de febrero de 2019;0:19
-197;48;martes, 19 de febrero de 2019;0:16
-197;45;miércoles, 20 de febrero de 2019;0:13
-197;45;jueves, 21 de febrero de 2019;0:09
-197;35;viernes, 22 de febrero de 2019;0:06
-197;48;lunes, 25 de febrero de 2019;0:13
-197;45;martes, 26 de febrero de 2019;0:03
-197;45;miércoles, 27 de febrero de 2019;0:01
-197;48;jueves, 28 de febrero de 2019;0:22
-197;45;viernes, 1 de marzo de 2019;0:15
-197;40;lunes, 4 de marzo de 2019;0:07
-197;40;martes, 5 de marzo de 2019;0:07
-197;40;miércoles, 6 de marzo de 2019;0:03
-197;43;jueves, 7 de marzo de 2019;0:03
-197;48;viernes, 8 de marzo de 2019;0:14
-197;48;lunes, 11 de marzo de 2019;0:12
-197;48;martes, 12 de marzo de 2019;0:15
-197;48;miércoles, 13 de marzo de 2019;0:12
-197;48;jueves, 14 de marzo de 2019;0:08
-197;48;viernes, 15 de marzo de 2019;0:20
-197;48;lunes, 18 de marzo de 2019;0:19
-197;48;martes, 19 de marzo de 2019;0:16
-197;48;miércoles, 20 de marzo de 2019;0:13
-197;48;jueves, 21 de marzo de 2019;0:09
-197;43;viernes, 22 de marzo de 2019;0:06
-197;48;martes, 26 de marzo de 2019;0:09
-197;43;miércoles, 27 de marzo de 2019;0:07
-197;43;jueves, 28 de marzo de 2019;0:07
-197;48;viernes, 29 de marzo de 2019;0:21
-197;45;lunes, 1 de abril de 2019;0:14
-197;45;martes, 2 de abril de 2019;0:14
-197;43;miércoles, 3 de abril de 2019;0:09
-197;43;jueves, 4 de abril de 2019;0:08
-197;48;viernes, 5 de abril de 2019;0:14
-197;43;lunes, 8 de abril de 2019;0:08
-197;48;martes, 9 de abril de 2019;0:14
-197;48;miércoles, 10 de abril de 2019;0:12
-197;48;jueves, 11 de abril de 2019;0:15
-197;48;viernes, 12 de abril de 2019;0:12
-197;48;lunes, 15 de abril de 2019;0:20
-197;48;martes, 16 de abril de 2019;0:19
-197;43;miércoles, 17 de abril de 2019;0:06
-197;48;lunes, 22 de abril de 2019;0:12
-197;48;martes, 23 de abril de 2019;0:08
-197;48;miércoles, 24 de abril de 2019;0:13
-197;48;jueves, 25 de abril de 2019;0:09
-197;48;viernes, 26 de abril de 2019;0:13
-197;48;lunes, 29 de abril de 2019;0:09
-197;48;martes, 30 de abril de 2019;0:21
-197;48;jueves, 2 de mayo de 2019;0:20
-197;48;viernes, 3 de mayo de 2019;0:20
-197;48;lunes, 6 de mayo de 2019;0:14
-197;48;martes, 7 de mayo de 2019;0:12
-197;48;miércoles, 8 de mayo de 2019;0:15
-197;48;jueves, 9 de mayo de 2019;0:12
-197;48;viernes, 10 de mayo de 2019;0:12
-197;48;lunes, 13 de mayo de 2019;0:08
-197;48;martes, 14 de mayo de 2019;0:13
-197;48;miércoles, 15 de mayo de 2019;0:21
-197;48;jueves, 16 de mayo de 2019;0:20
-197;48;viernes, 17 de mayo de 2019;0:19
-197;48;lunes, 20 de mayo de 2019;0:18
-197;48;martes, 21 de mayo de 2019;0:12
-197;48;miércoles, 22 de mayo de 2019;0:08
-197;43;jueves, 23 de mayo de 2019;0:07
-197;43;viernes, 24 de mayo de 2019;0:07
-197;48;lunes, 27 de mayo de 2019;0:09
-197;45;martes, 28 de mayo de 2019;0:07
-197;45;miércoles, 29 de mayo de 2019;0:07
-197;45;jueves, 30 de mayo de 2019;0:19
-197;48;viernes, 31 de mayo de 2019;0:20
-197;45;martes, 4 de junio de 2019;0:08
-197;45;miércoles, 5 de junio de 2019;0:14
-197;43;jueves, 6 de junio de 2019;0:08
-197;40;viernes, 7 de junio de 2019;0:03
-197;40;lunes, 10 de junio de 2019;0:03
-197;48;martes, 11 de junio de 2019;0:12
-197;48;miércoles, 12 de junio de 2019;0:08
-197;48;jueves, 13 de junio de 2019;0:13
-197;48;viernes, 14 de junio de 2019;0:21
-197;48;lunes, 17 de junio de 2019;0:20
-197;48;martes, 18 de junio de 2019;0:19
-197;48;miércoles, 19 de junio de 2019;0:18
-197;48;jueves, 20 de junio de 2019;0:12
-197;48;viernes, 21 de junio de 2019;0:08
-197;48;martes, 25 de junio de 2019;0:09
-197;45;miércoles, 26 de junio de 2019;0:07
-197;43;jueves, 27 de junio de 2019;0:07
-197;48;viernes, 28 de junio de 2019;0:20
-197;45;martes, 2 de julio de 2019;0:08
-197;45;miércoles, 3 de julio de 2019;0:14
-197;43;jueves, 4 de julio de 2019;0:08
-197;43;viernes, 5 de julio de 2019;0:03
-197;40;lunes, 8 de julio de 2019;0:09
-197;48;martes, 9 de julio de 2019;0:12
-197;48;miércoles, 10 de julio de 2019;0:08
-197;48;jueves, 11 de julio de 2019;0:13
-197;48;viernes, 12 de julio de 2019;0:21
-197;48;lunes, 15 de julio de 2019;0:20
-197;48;martes, 16 de julio de 2019;0:20
-197;48;miércoles, 17 de julio de 2019;0:19
-197;48;jueves, 18 de julio de 2019;0:18
-197;48;viernes, 19 de julio de 2019;0:12
-197;48;lunes, 22 de julio de 2019;0:11
-197;45;martes, 23 de julio de 2019;0:07
-197;43;miércoles, 24 de julio de 2019;0:07
-197;48;jueves, 25 de julio de 2019;0:09
-197;45;viernes, 26 de julio de 2019;0:07
-197;43;lunes, 29 de julio de 2019;0:07
-197;40;martes, 30 de julio de 2019;0:19
-197;48;miércoles, 31 de julio de 2019;0:19
-197;45;jueves, 1 de agosto de 2019;0:13
-197;40;viernes, 2 de agosto de 2019;0:14
-197;43;lunes, 5 de agosto de 2019;0:08
-197;48;martes, 6 de agosto de 2019;0:14
-197;48;jueves, 8 de agosto de 2019;0:12
-197;48;viernes, 9 de agosto de 2019;0:15
-197;48;lunes, 12 de agosto de 2019;0:12
-197;48;martes, 13 de agosto de 2019;0:12
-197;48;miércoles, 14 de agosto de 2019;0:13
-197;48;jueves, 15 de agosto de 2019;0:19
-197;48;viernes, 16 de agosto de 2019;0:18
-197;48;martes, 20 de agosto de 2019;0:15
-197;48;miércoles, 21 de agosto de 2019;0:10
-197;48;jueves, 22 de agosto de 2019;0:14
-197;48;viernes, 23 de agosto de 2019;0:13
-197;48;lunes, 26 de agosto de 2019;0:12
-197;48;martes, 27 de agosto de 2019;0:08
-197;48;miércoles, 28 de agosto de 2019;0:09
-197;48;jueves, 29 de agosto de 2019;0:12
-197;48;viernes, 30 de agosto de 2019;0:22
-197;48;lunes, 2 de septiembre de 2019;0:19
-197;48;martes, 3 de septiembre de 2019;0:18
-197;48;miércoles, 4 de septiembre de 2019;0:13
-197;48;jueves, 5 de septiembre de 2019;0:11
-197;48;viernes, 6 de septiembre de 2019;0:11
-197;48;lunes, 9 de septiembre de 2019;0:15
-197;48;martes, 10 de septiembre de 2019;0:12
-197;48;miércoles, 11 de septiembre de 2019;0:12
-197;48;jueves, 12 de septiembre de 2019;0:13
-197;48;viernes, 13 de septiembre de 2019;0:22
-197;48;lunes, 16 de septiembre de 2019;0:18
-197;48;martes, 17 de septiembre de 2019;0:18
-197;48;miércoles, 18 de septiembre de 2019;0:15
-197;48;jueves, 19 de septiembre de 2019;0:13
-197;48;viernes, 20 de septiembre de 2019;0:11
-197;48;lunes, 23 de septiembre de 2019;0:08
-197;48;martes, 24 de septiembre de 2019;0:10
-197;48;miércoles, 25 de septiembre de 2019;0:11
-197;48;jueves, 26 de septiembre de 2019;0:05
-197;48;viernes, 27 de septiembre de 2019;0:10
-197;48;lunes, 30 de septiembre de 2019;0:19
-197;48;martes, 1 de octubre de 2019;0:19
-197;48;miércoles, 2 de octubre de 2019;0:18
-197;48;jueves, 3 de octubre de 2019;0:13
-197;48;viernes, 4 de octubre de 2019;0:11
-197;48;lunes, 7 de octubre de 2019;0:11
-197;48;martes, 8 de octubre de 2019;0:15
-197;48;miércoles, 9 de octubre de 2019;0:12
-197;48;jueves, 10 de octubre de 2019;0:12
-197;48;viernes, 11 de octubre de 2019;0:13
-197;48;martes, 15 de octubre de 2019;0:20
-197;48;miércoles, 16 de octubre de 2019;0:09
-197;48;jueves, 17 de octubre de 2019;0:11
-197;48;viernes, 18 de octubre de 2019;0:14
-197;48;lunes, 21 de octubre de 2019;0:11
-197;48;martes, 22 de octubre de 2019;0:08
-197;45;miércoles, 23 de octubre de 2019;0:07
-197;43;jueves, 24 de octubre de 2019;0:07
-197;48;viernes, 25 de octubre de 2019;0:11
-197;45;lunes, 28 de octubre de 2019;0:04
-197;43;martes, 29 de octubre de 2019;0:07
-197;40;miércoles, 30 de octubre de 2019;0:19
-197;48;jueves, 31 de octubre de 2019;0:20
-197;45;viernes, 1 de noviembre de 2019;0:20
-197;45;martes, 5 de noviembre de 2019;0:08
-197;43;miércoles, 6 de noviembre de 2019;0:09
-197;40;jueves, 7 de noviembre de 2019;0:09
-197;48;viernes, 8 de noviembre de 2019;0:15
-197;48;martes, 12 de noviembre de 2019;0:12
-197;48;miércoles, 13 de noviembre de 2019;0:12
-197;48;jueves, 14 de noviembre de 2019;0:13
-197;48;viernes, 15 de noviembre de 2019;0:20
-432;130;jueves, 1 de noviembre de 2018;1:00
-432;130;viernes, 2 de noviembre de 2018;0:30
-432;120;martes, 6 de noviembre de 2018;0:14
-432;110;miércoles, 7 de noviembre de 2018;0:06
-432;110;jueves, 8 de noviembre de 2018;0:08
-432;120;viernes, 9 de noviembre de 2018;0:20
-432;122;martes, 13 de noviembre de 2018;0:24
-432;126;miércoles, 14 de noviembre de 2018;0:54
-432;126;jueves, 15 de noviembre de 2018;0:50
-432;126;viernes, 16 de noviembre de 2018;1:32
-432;128;lunes, 19 de noviembre de 2018;1:26
-432;128;martes, 20 de noviembre de 2018;1:26
-432;120;miércoles, 21 de noviembre de 2018;1:00
-432;120;jueves, 22 de noviembre de 2018;0:50
-432;120;viernes, 23 de noviembre de 2018;0:32
-432;110;lunes, 26 de noviembre de 2018;0:20
-432;108;martes, 27 de noviembre de 2018;0:16
-432;106;miércoles, 28 de noviembre de 2018;0:28
-432;106;jueves, 29 de noviembre de 2018;0:30
-432;190;viernes, 30 de noviembre de 2018;1:30
-432;180;lunes, 3 de diciembre de 2018;0:58
-432;170;martes, 4 de diciembre de 2018;0:28
-432;160;miércoles, 5 de diciembre de 2018;0:12
-432;170;jueves, 6 de diciembre de 2018;0:04
-432;160;viernes, 7 de diciembre de 2018;0:06
-432;190;lunes, 10 de diciembre de 2018;1:26
-432;190;martes, 11 de diciembre de 2018;1:26
-432;190;miércoles, 12 de diciembre de 2018;1:00
-432;190;jueves, 13 de diciembre de 2018;0:50
-432;190;viernes, 14 de diciembre de 2018;0:32
-432;190;lunes, 17 de diciembre de 2018;1:20
-432;190;martes, 18 de diciembre de 2018;1:18
-432;190;miércoles, 19 de diciembre de 2018;1:04
-432;190;jueves, 20 de diciembre de 2018;0:52
-432;190;viernes, 21 de diciembre de 2018;0:36
-432;180;lunes, 24 de diciembre de 2018;0:20
-432;170;miércoles, 26 de diciembre de 2018;0:16
-432;160;jueves, 27 de diciembre de 2018;0:28
-432;190;viernes, 28 de diciembre de 2018;0:38
-432;120;lunes, 31 de diciembre de 2018;1:26
-432;80;miércoles, 2 de enero de 2019;1:00
-432;90;jueves, 3 de enero de 2019;0:30
-432;94;viernes, 4 de enero de 2019;0:14
-432;110;martes, 8 de enero de 2019;0:14
-432;110;miércoles, 9 de enero de 2019;0:06
-432;110;jueves, 10 de enero de 2019;0:08
-432;110;viernes, 11 de enero de 2019;0:12
-432;100;lunes, 14 de enero de 2019;0:20
-432;160;martes, 15 de enero de 2019;0:40
-432;160;miércoles, 16 de enero de 2019;0:24
-432;150;jueves, 17 de enero de 2019;0:16
-432;160;viernes, 18 de enero de 2019;1:18
-432;136;lunes, 21 de enero de 2019;0:20
-432;110;martes, 22 de enero de 2019;0:18
-432;110;miércoles, 23 de enero de 2019;0:28
-432;110;jueves, 24 de enero de 2019;0:20
-432;160;viernes, 25 de enero de 2019;0:42
-432;150;lunes, 28 de enero de 2019;0:20
-432;150;martes, 29 de enero de 2019;0:16
-432;160;miércoles, 30 de enero de 2019;0:28
-432;160;jueves, 31 de enero de 2019;1:30
-432;150;viernes, 1 de febrero de 2019;1:00
-432;160;lunes, 4 de febrero de 2019;0:30
-432;160;martes, 5 de febrero de 2019;0:14
-432;160;miércoles, 6 de febrero de 2019;0:14
-432;160;jueves, 7 de febrero de 2019;0:06
-432;170;viernes, 8 de febrero de 2019;0:58
-432;170;lunes, 11 de febrero de 2019;0:50
-432;170;martes, 12 de febrero de 2019;1:00
-432;170;miércoles, 13 de febrero de 2019;0:50
-432;170;jueves, 14 de febrero de 2019;0:32
-432;190;viernes, 15 de febrero de 2019;1:20
-432;190;lunes, 18 de febrero de 2019;1:18
-432;190;martes, 19 de febrero de 2019;1:04
-432;180;miércoles, 20 de febrero de 2019;0:52
-432;180;jueves, 21 de febrero de 2019;0:36
-432;140;viernes, 22 de febrero de 2019;0:26
-432;190;lunes, 25 de febrero de 2019;0:52
-432;180;martes, 26 de febrero de 2019;0:14
-432;180;miércoles, 27 de febrero de 2019;0:06
-432;190;jueves, 28 de febrero de 2019;1:28
-432;180;viernes, 1 de marzo de 2019;1:02
-432;160;lunes, 4 de marzo de 2019;0:28
-432;160;martes, 5 de marzo de 2019;0:30
-432;160;miércoles, 6 de marzo de 2019;0:14
-432;170;jueves, 7 de marzo de 2019;0:14
-432;190;viernes, 8 de marzo de 2019;0:58
-432;190;lunes, 11 de marzo de 2019;0:50
-432;190;martes, 12 de marzo de 2019;1:00
-432;190;miércoles, 13 de marzo de 2019;0:50
-432;190;jueves, 14 de marzo de 2019;0:32
-432;190;viernes, 15 de marzo de 2019;1:20
-432;190;lunes, 18 de marzo de 2019;1:18
-432;190;martes, 19 de marzo de 2019;1:04
-432;190;miércoles, 20 de marzo de 2019;0:52
-432;190;jueves, 21 de marzo de 2019;0:36
-432;170;viernes, 22 de marzo de 2019;0:26
-432;190;martes, 26 de marzo de 2019;0:36
-432;170;miércoles, 27 de marzo de 2019;0:28
-432;170;jueves, 28 de marzo de 2019;0:30
-432;190;viernes, 29 de marzo de 2019;1:26
-432;180;lunes, 1 de abril de 2019;0:58
-432;180;martes, 2 de abril de 2019;0:56
-432;170;miércoles, 3 de abril de 2019;0:36
-432;170;jueves, 4 de abril de 2019;0:32
-432;190;viernes, 5 de abril de 2019;0:58
-432;170;lunes, 8 de abril de 2019;0:32
-432;190;martes, 9 de abril de 2019;0:58
-432;190;miércoles, 10 de abril de 2019;0:50
-432;190;jueves, 11 de abril de 2019;1:00
-432;190;viernes, 12 de abril de 2019;0:50
-432;190;lunes, 15 de abril de 2019;1:20
-432;190;martes, 16 de abril de 2019;1:18
-432;170;miércoles, 17 de abril de 2019;0:26
-432;190;lunes, 22 de abril de 2019;0:50
-432;190;martes, 23 de abril de 2019;0:32
-432;190;miércoles, 24 de abril de 2019;0:52
-432;190;jueves, 25 de abril de 2019;0:36
-432;190;viernes, 26 de abril de 2019;0:52
-432;190;lunes, 29 de abril de 2019;0:36
-432;190;martes, 30 de abril de 2019;1:24
-432;190;jueves, 2 de mayo de 2019;1:22
-432;190;viernes, 3 de mayo de 2019;1:22
-432;190;lunes, 6 de mayo de 2019;0:58
-432;190;martes, 7 de mayo de 2019;0:50
-432;190;miércoles, 8 de mayo de 2019;1:00
-432;190;jueves, 9 de mayo de 2019;0:50
-432;190;viernes, 10 de mayo de 2019;0:50
-432;190;lunes, 13 de mayo de 2019;0:32
-432;190;martes, 14 de mayo de 2019;0:52
-432;190;miércoles, 15 de mayo de 2019;1:24
-432;190;jueves, 16 de mayo de 2019;1:20
-432;190;viernes, 17 de mayo de 2019;1:16
-432;190;lunes, 20 de mayo de 2019;1:12
-432;190;martes, 21 de mayo de 2019;0:50
-432;190;miércoles, 22 de mayo de 2019;0:32
-432;170;jueves, 23 de mayo de 2019;0:28
-432;170;viernes, 24 de mayo de 2019;0:30
-432;190;lunes, 27 de mayo de 2019;0:36
-432;180;martes, 28 de mayo de 2019;0:28
-432;180;miércoles, 29 de mayo de 2019;0:30
-432;180;jueves, 30 de mayo de 2019;1:18
-432;190;viernes, 31 de mayo de 2019;1:22
-432;180;martes, 4 de junio de 2019;0:32
-432;180;miércoles, 5 de junio de 2019;0:58
-432;170;jueves, 6 de junio de 2019;0:32
-432;160;viernes, 7 de junio de 2019;0:14
-432;160;lunes, 10 de junio de 2019;0:14
-432;190;martes, 11 de junio de 2019;0:50
-432;190;miércoles, 12 de junio de 2019;0:32
-432;190;jueves, 13 de junio de 2019;0:52
-432;190;viernes, 14 de junio de 2019;1:24
-432;190;lunes, 17 de junio de 2019;1:20
-432;190;martes, 18 de junio de 2019;1:16
-432;190;miércoles, 19 de junio de 2019;1:12
-432;190;jueves, 20 de junio de 2019;0:50
-432;190;viernes, 21 de junio de 2019;0:32
-432;190;martes, 25 de junio de 2019;0:36
-432;180;miércoles, 26 de junio de 2019;0:28
-432;170;jueves, 27 de junio de 2019;0:30
-432;190;viernes, 28 de junio de 2019;1:20
-432;180;martes, 2 de julio de 2019;0:32
-432;180;miércoles, 3 de julio de 2019;0:58
-432;170;jueves, 4 de julio de 2019;0:32
-432;170;viernes, 5 de julio de 2019;0:14
-432;160;lunes, 8 de julio de 2019;0:38
-432;190;martes, 9 de julio de 2019;0:50
-432;190;miércoles, 10 de julio de 2019;0:32
-432;190;jueves, 11 de julio de 2019;0:52
-432;190;viernes, 12 de julio de 2019;1:24
-432;190;lunes, 15 de julio de 2019;1:20
-432;190;martes, 16 de julio de 2019;1:20
-432;190;miércoles, 17 de julio de 2019;1:16
-432;190;jueves, 18 de julio de 2019;1:12
-432;190;viernes, 19 de julio de 2019;0:50
-432;190;lunes, 22 de julio de 2019;0:44
-432;180;martes, 23 de julio de 2019;0:28
-432;170;miércoles, 24 de julio de 2019;0:30
-432;190;jueves, 25 de julio de 2019;0:38
-432;180;viernes, 26 de julio de 2019;0:28
-432;170;lunes, 29 de julio de 2019;0:30
-432;160;martes, 30 de julio de 2019;1:16
-432;190;miércoles, 31 de julio de 2019;1:18
-432;180;jueves, 1 de agosto de 2019;0:52
-432;160;viernes, 2 de agosto de 2019;0:58
-432;170;lunes, 5 de agosto de 2019;0:32
-432;190;martes, 6 de agosto de 2019;0:58
-432;190;jueves, 8 de agosto de 2019;0:50
-432;190;viernes, 9 de agosto de 2019;1:00
-432;190;lunes, 12 de agosto de 2019;0:50
-432;190;martes, 13 de agosto de 2019;0:50
-432;190;miércoles, 14 de agosto de 2019;0:52
-432;190;jueves, 15 de agosto de 2019;1:18
-432;190;viernes, 16 de agosto de 2019;1:14
-432;190;martes, 20 de agosto de 2019;1:00
-432;190;miércoles, 21 de agosto de 2019;0:40
-432;190;jueves, 22 de agosto de 2019;0:56
-432;190;viernes, 23 de agosto de 2019;0:52
-432;190;lunes, 26 de agosto de 2019;0:50
-432;190;martes, 27 de agosto de 2019;0:32
-432;190;miércoles, 28 de agosto de 2019;0:36
-432;190;jueves, 29 de agosto de 2019;0:50
-432;190;viernes, 30 de agosto de 2019;1:30
-432;190;lunes, 2 de septiembre de 2019;1:18
-432;190;martes, 3 de septiembre de 2019;1:14
-432;190;miércoles, 4 de septiembre de 2019;0:52
-432;190;jueves, 5 de septiembre de 2019;0:46
-432;190;viernes, 6 de septiembre de 2019;0:44
-432;190;lunes, 9 de septiembre de 2019;1:00
-432;190;martes, 10 de septiembre de 2019;0:50
-432;190;miércoles, 11 de septiembre de 2019;0:50
-432;190;jueves, 12 de septiembre de 2019;0:52
-432;190;viernes, 13 de septiembre de 2019;1:30
-432;190;lunes, 16 de septiembre de 2019;1:12
-432;190;martes, 17 de septiembre de 2019;1:14
-432;190;miércoles, 18 de septiembre de 2019;1:00
-432;190;jueves, 19 de septiembre de 2019;0:54
-432;190;viernes, 20 de septiembre de 2019;0:44
-432;190;lunes, 23 de septiembre de 2019;0:34
-432;190;martes, 24 de septiembre de 2019;0:40
-432;190;miércoles, 25 de septiembre de 2019;0:46
-432;190;jueves, 26 de septiembre de 2019;0:22
-432;190;viernes, 27 de septiembre de 2019;0:42
-432;190;lunes, 30 de septiembre de 2019;1:18
-432;190;martes, 1 de octubre de 2019;1:18
-432;190;miércoles, 2 de octubre de 2019;1:14
-432;190;jueves, 3 de octubre de 2019;0:52
-432;190;viernes, 4 de octubre de 2019;0:46
-432;190;lunes, 7 de octubre de 2019;0:44
-432;190;martes, 8 de octubre de 2019;1:00
-432;190;miércoles, 9 de octubre de 2019;0:50
-432;190;jueves, 10 de octubre de 2019;0:50
-432;190;viernes, 11 de octubre de 2019;0:52
-432;190;martes, 15 de octubre de 2019;1:20
-432;190;miércoles, 16 de octubre de 2019;0:38
-432;190;jueves, 17 de octubre de 2019;0:44
-432;190;viernes, 18 de octubre de 2019;0:58
-432;190;lunes, 21 de octubre de 2019;0:44
-432;190;martes, 22 de octubre de 2019;0:34
-432;180;miércoles, 23 de octubre de 2019;0:28
-432;170;jueves, 24 de octubre de 2019;0:30
-432;190;viernes, 25 de octubre de 2019;0:46
-432;180;lunes, 28 de octubre de 2019;0:18
-432;170;martes, 29 de octubre de 2019;0:30
-432;160;miércoles, 30 de octubre de 2019;1:18
-432;190;jueves, 31 de octubre de 2019;1:22
-432;180;viernes, 1 de noviembre de 2019;1:22
-432;180;martes, 5 de noviembre de 2019;0:34
-432;170;miércoles, 6 de noviembre de 2019;0:38
-432;160;jueves, 7 de noviembre de 2019;0:38
-432;190;viernes, 8 de noviembre de 2019;1:00
-432;190;martes, 12 de noviembre de 2019;0:50
-432;190;miércoles, 13 de noviembre de 2019;0:50
-432;190;jueves, 14 de noviembre de 2019;0:52
-432;190;viernes, 15 de noviembre de 2019;1:20
-923;163;jueves, 1 de noviembre de 2018;1:15
-923;163;viernes, 2 de noviembre de 2018;0:37
-923;150;martes, 6 de noviembre de 2018;0:17
-923;138;miércoles, 7 de noviembre de 2018;0:07
-923;138;jueves, 8 de noviembre de 2018;0:10
-923;150;viernes, 9 de noviembre de 2018;0:25
-923;153;martes, 13 de noviembre de 2018;0:30
-923;158;miércoles, 14 de noviembre de 2018;1:07
-923;158;jueves, 15 de noviembre de 2018;1:02
-923;158;viernes, 16 de noviembre de 2018;1:55
-923;160;lunes, 19 de noviembre de 2018;1:47
-923;160;martes, 20 de noviembre de 2018;1:47
-923;150;miércoles, 21 de noviembre de 2018;1:15
-923;150;jueves, 22 de noviembre de 2018;1:02
-923;150;viernes, 23 de noviembre de 2018;0:40
-923;138;lunes, 26 de noviembre de 2018;0:25
-923;135;martes, 27 de noviembre de 2018;0:20
-923;133;miércoles, 28 de noviembre de 2018;0:35
-923;133;jueves, 29 de noviembre de 2018;0:37
-923;238;viernes, 30 de noviembre de 2018;1:52
-923;225;lunes, 3 de diciembre de 2018;1:12
-923;213;martes, 4 de diciembre de 2018;0:35
-923;200;miércoles, 5 de diciembre de 2018;0:15
-923;213;jueves, 6 de diciembre de 2018;0:05
-923;200;viernes, 7 de diciembre de 2018;0:07
-923;238;lunes, 10 de diciembre de 2018;1:47
-923;238;martes, 11 de diciembre de 2018;1:47
-923;238;miércoles, 12 de diciembre de 2018;1:15
-923;238;jueves, 13 de diciembre de 2018;1:02
-923;238;viernes, 14 de diciembre de 2018;0:40
-923;238;lunes, 17 de diciembre de 2018;1:40
-923;238;martes, 18 de diciembre de 2018;1:37
-923;238;miércoles, 19 de diciembre de 2018;1:20
-923;238;jueves, 20 de diciembre de 2018;1:05
-923;238;viernes, 21 de diciembre de 2018;0:45
-923;225;lunes, 24 de diciembre de 2018;0:25
-923;213;miércoles, 26 de diciembre de 2018;0:20
-923;200;jueves, 27 de diciembre de 2018;0:35
-923;238;viernes, 28 de diciembre de 2018;0:47
-923;150;lunes, 31 de diciembre de 2018;1:47
-923;100;miércoles, 2 de enero de 2019;1:15
-923;113;jueves, 3 de enero de 2019;0:37
-923;118;viernes, 4 de enero de 2019;0:17
-923;138;martes, 8 de enero de 2019;0:17
-923;138;miércoles, 9 de enero de 2019;0:07
-923;138;jueves, 10 de enero de 2019;0:10
-923;138;viernes, 11 de enero de 2019;0:15
-923;125;lunes, 14 de enero de 2019;0:25
-923;200;martes, 15 de enero de 2019;0:50
-923;200;miércoles, 16 de enero de 2019;0:30
-923;188;jueves, 17 de enero de 2019;0:20
-923;200;viernes, 18 de enero de 2019;1:37
-923;170;lunes, 21 de enero de 2019;0:25
-923;138;martes, 22 de enero de 2019;0:22
-923;138;miércoles, 23 de enero de 2019;0:35
-923;138;jueves, 24 de enero de 2019;0:25
-923;200;viernes, 25 de enero de 2019;0:52
-923;188;lunes, 28 de enero de 2019;0:25
-923;188;martes, 29 de enero de 2019;0:20
-923;200;miércoles, 30 de enero de 2019;0:35
-923;200;jueves, 31 de enero de 2019;1:52
-923;188;viernes, 1 de febrero de 2019;1:15
-923;200;lunes, 4 de febrero de 2019;0:37
-923;200;martes, 5 de febrero de 2019;0:17
-923;200;miércoles, 6 de febrero de 2019;0:17
-923;200;jueves, 7 de febrero de 2019;0:07
-923;213;viernes, 8 de febrero de 2019;1:12
-923;213;lunes, 11 de febrero de 2019;1:02
-923;213;martes, 12 de febrero de 2019;1:15
-923;213;miércoles, 13 de febrero de 2019;1:02
-923;213;jueves, 14 de febrero de 2019;0:40
-923;238;viernes, 15 de febrero de 2019;1:40
-923;238;lunes, 18 de febrero de 2019;1:37
-923;238;martes, 19 de febrero de 2019;1:20
-923;225;miércoles, 20 de febrero de 2019;1:05
-923;225;jueves, 21 de febrero de 2019;0:45
-923;175;viernes, 22 de febrero de 2019;0:32
-923;238;lunes, 25 de febrero de 2019;1:05
-923;225;martes, 26 de febrero de 2019;0:17
-923;225;miércoles, 27 de febrero de 2019;0:07
-923;238;jueves, 28 de febrero de 2019;1:50
-923;225;viernes, 1 de marzo de 2019;1:17
-923;200;lunes, 4 de marzo de 2019;0:35
-923;200;martes, 5 de marzo de 2019;0:37
-923;200;miércoles, 6 de marzo de 2019;0:17
-923;213;jueves, 7 de marzo de 2019;0:17
-923;238;viernes, 8 de marzo de 2019;1:12
-923;238;lunes, 11 de marzo de 2019;1:02
-923;238;martes, 12 de marzo de 2019;1:15
-923;238;miércoles, 13 de marzo de 2019;1:02
-923;238;jueves, 14 de marzo de 2019;0:40
-923;238;viernes, 15 de marzo de 2019;1:40
-923;238;lunes, 18 de marzo de 2019;1:37
-923;238;martes, 19 de marzo de 2019;1:20
-923;238;miércoles, 20 de marzo de 2019;1:05
-923;238;jueves, 21 de marzo de 2019;0:45
-923;213;viernes, 22 de marzo de 2019;0:32
-923;238;martes, 26 de marzo de 2019;0:45
-923;213;miércoles, 27 de marzo de 2019;0:35
-923;213;jueves, 28 de marzo de 2019;0:37
-923;238;viernes, 29 de marzo de 2019;1:47
-923;225;lunes, 1 de abril de 2019;1:12
-923;225;martes, 2 de abril de 2019;1:10
-923;213;miércoles, 3 de abril de 2019;0:45
-923;213;jueves, 4 de abril de 2019;0:40
-923;238;viernes, 5 de abril de 2019;1:12
-923;213;lunes, 8 de abril de 2019;0:40
-923;238;martes, 9 de abril de 2019;1:12
-923;238;miércoles, 10 de abril de 2019;1:02
-923;238;jueves, 11 de abril de 2019;1:15
-923;238;viernes, 12 de abril de 2019;1:02
-923;238;lunes, 15 de abril de 2019;1:40
-923;238;martes, 16 de abril de 2019;1:37
-923;213;miércoles, 17 de abril de 2019;0:32
-923;238;lunes, 22 de abril de 2019;1:02
-923;238;martes, 23 de abril de 2019;0:40
-923;238;miércoles, 24 de abril de 2019;1:05
-923;238;jueves, 25 de abril de 2019;0:45
-923;238;viernes, 26 de abril de 2019;1:05
-923;238;lunes, 29 de abril de 2019;0:45
-923;238;martes, 30 de abril de 2019;1:45
-923;238;jueves, 2 de mayo de 2019;1:42
-923;238;viernes, 3 de mayo de 2019;1:42
-923;238;lunes, 6 de mayo de 2019;1:12
-923;238;martes, 7 de mayo de 2019;1:02
-923;238;miércoles, 8 de mayo de 2019;1:15
-923;238;jueves, 9 de mayo de 2019;1:02
-923;238;viernes, 10 de mayo de 2019;1:02
-923;238;lunes, 13 de mayo de 2019;0:40
-923;238;martes, 14 de mayo de 2019;1:05
-923;238;miércoles, 15 de mayo de 2019;1:45
-923;238;jueves, 16 de mayo de 2019;1:40
-923;238;viernes, 17 de mayo de 2019;1:35
-923;238;lunes, 20 de mayo de 2019;1:30
-923;238;martes, 21 de mayo de 2019;1:02
-923;238;miércoles, 22 de mayo de 2019;0:40
-923;213;jueves, 23 de mayo de 2019;0:35
-923;213;viernes, 24 de mayo de 2019;0:37
-923;238;lunes, 27 de mayo de 2019;0:45
-923;225;martes, 28 de mayo de 2019;0:35
-923;225;miércoles, 29 de mayo de 2019;0:37
-923;225;jueves, 30 de mayo de 2019;1:37
-923;238;viernes, 31 de mayo de 2019;1:42
-923;225;martes, 4 de junio de 2019;0:40
-923;225;miércoles, 5 de junio de 2019;1:12
-923;213;jueves, 6 de junio de 2019;0:40
-923;200;viernes, 7 de junio de 2019;0:17
-923;200;lunes, 10 de junio de 2019;0:17
-923;238;martes, 11 de junio de 2019;1:02
-923;238;miércoles, 12 de junio de 2019;0:40
-923;238;jueves, 13 de junio de 2019;1:05
-923;238;viernes, 14 de junio de 2019;1:45
-923;238;lunes, 17 de junio de 2019;1:40
-923;238;martes, 18 de junio de 2019;1:35
-923;238;miércoles, 19 de junio de 2019;1:30
-923;238;jueves, 20 de junio de 2019;1:02
-923;238;viernes, 21 de junio de 2019;0:40
-923;238;martes, 25 de junio de 2019;0:45
-923;225;miércoles, 26 de junio de 2019;0:35
-923;213;jueves, 27 de junio de 2019;0:37
-923;238;viernes, 28 de junio de 2019;1:40
-923;225;martes, 2 de julio de 2019;0:40
-923;225;miércoles, 3 de julio de 2019;1:12
-923;213;jueves, 4 de julio de 2019;0:40
-923;213;viernes, 5 de julio de 2019;0:17
-923;200;lunes, 8 de julio de 2019;0:47
-923;238;martes, 9 de julio de 2019;1:02
-923;238;miércoles, 10 de julio de 2019;0:40
-923;238;jueves, 11 de julio de 2019;1:05
-923;238;viernes, 12 de julio de 2019;1:45
-923;238;lunes, 15 de julio de 2019;1:40
-923;238;martes, 16 de julio de 2019;1:40
-923;238;miércoles, 17 de julio de 2019;1:35
-923;238;jueves, 18 de julio de 2019;1:30
-923;238;viernes, 19 de julio de 2019;1:02
-923;238;lunes, 22 de julio de 2019;0:55
-923;225;martes, 23 de julio de 2019;0:35
-923;213;miércoles, 24 de julio de 2019;0:37
-923;238;jueves, 25 de julio de 2019;0:47
-923;225;viernes, 26 de julio de 2019;0:35
-923;213;lunes, 29 de julio de 2019;0:37
-923;200;martes, 30 de julio de 2019;1:35
-923;238;miércoles, 31 de julio de 2019;1:37
-923;225;jueves, 1 de agosto de 2019;1:05
-923;200;viernes, 2 de agosto de 2019;1:12
-923;213;lunes, 5 de agosto de 2019;0:40
-923;238;martes, 6 de agosto de 2019;1:12
-923;238;jueves, 8 de agosto de 2019;1:02
-923;238;viernes, 9 de agosto de 2019;1:15
-923;238;lunes, 12 de agosto de 2019;1:02
-923;238;martes, 13 de agosto de 2019;1:02
-923;238;miércoles, 14 de agosto de 2019;1:05
-923;238;jueves, 15 de agosto de 2019;1:37
-923;238;viernes, 16 de agosto de 2019;1:32
-923;238;martes, 20 de agosto de 2019;1:15
-923;238;miércoles, 21 de agosto de 2019;0:50
-923;238;jueves, 22 de agosto de 2019;1:10
-923;238;viernes, 23 de agosto de 2019;1:05
-923;238;lunes, 26 de agosto de 2019;1:02
-923;238;martes, 27 de agosto de 2019;0:40
-923;238;miércoles, 28 de agosto de 2019;0:45
-923;238;jueves, 29 de agosto de 2019;1:02
-923;238;viernes, 30 de agosto de 2019;1:52
-923;238;lunes, 2 de septiembre de 2019;1:37
-923;238;martes, 3 de septiembre de 2019;1:32
-923;238;miércoles, 4 de septiembre de 2019;1:05
-923;238;jueves, 5 de septiembre de 2019;0:57
-923;238;viernes, 6 de septiembre de 2019;0:55
-923;238;lunes, 9 de septiembre de 2019;1:15
-923;238;martes, 10 de septiembre de 2019;1:02
-923;238;miércoles, 11 de septiembre de 2019;1:02
-923;238;jueves, 12 de septiembre de 2019;1:05
-923;238;viernes, 13 de septiembre de 2019;1:52
-923;238;lunes, 16 de septiembre de 2019;1:30
-923;238;martes, 17 de septiembre de 2019;1:32
-923;238;miércoles, 18 de septiembre de 2019;1:15
-923;238;jueves, 19 de septiembre de 2019;1:07
-923;238;viernes, 20 de septiembre de 2019;0:55
-923;238;lunes, 23 de septiembre de 2019;0:42
-923;238;martes, 24 de septiembre de 2019;0:50
-923;238;miércoles, 25 de septiembre de 2019;0:57
-923;238;jueves, 26 de septiembre de 2019;0:27
-923;238;viernes, 27 de septiembre de 2019;0:52
-923;238;lunes, 30 de septiembre de 2019;1:37
-923;238;martes, 1 de octubre de 2019;1:37
-923;238;miércoles, 2 de octubre de 2019;1:32
-923;238;jueves, 3 de octubre de 2019;1:05
-923;238;viernes, 4 de octubre de 2019;0:57
-923;238;lunes, 7 de octubre de 2019;0:55
-923;238;martes, 8 de octubre de 2019;1:15
-923;238;miércoles, 9 de octubre de 2019;1:02
-923;238;jueves, 10 de octubre de 2019;1:02
-923;238;viernes, 11 de octubre de 2019;1:05
-923;238;martes, 15 de octubre de 2019;1:40
-923;238;miércoles, 16 de octubre de 2019;0:47
-923;238;jueves, 17 de octubre de 2019;0:55
-923;238;viernes, 18 de octubre de 2019;1:12
-923;238;lunes, 21 de octubre de 2019;0:55
-923;238;martes, 22 de octubre de 2019;0:42
-923;225;miércoles, 23 de octubre de 2019;0:35
-923;213;jueves, 24 de octubre de 2019;0:37
-923;238;viernes, 25 de octubre de 2019;0:57
-923;225;lunes, 28 de octubre de 2019;0:22
-923;213;martes, 29 de octubre de 2019;0:37
-923;200;miércoles, 30 de octubre de 2019;1:37
-923;238;jueves, 31 de octubre de 2019;1:42
-923;225;viernes, 1 de noviembre de 2019;1:42
-923;225;martes, 5 de noviembre de 2019;0:42
-923;213;miércoles, 6 de noviembre de 2019;0:47
-923;200;jueves, 7 de noviembre de 2019;0:47
-923;238;viernes, 8 de noviembre de 2019;1:15
-923;238;martes, 12 de noviembre de 2019;1:02
-923;238;miércoles, 13 de noviembre de 2019;1:02
-923;238;jueves, 14 de noviembre de 2019;1:05
-923;238;viernes, 15 de noviembre de 2019;1:40
-63;195;jueves, 1 de noviembre de 2018;1:30
-63;195;viernes, 2 de noviembre de 2018;0:45
-63;180;martes, 6 de noviembre de 2018;0:21
-63;165;miércoles, 7 de noviembre de 2018;0:09
-63;165;jueves, 8 de noviembre de 2018;0:12
-63;180;viernes, 9 de noviembre de 2018;0:30
-63;183;martes, 13 de noviembre de 2018;0:36
-63;189;miércoles, 14 de noviembre de 2018;1:21
-63;189;jueves, 15 de noviembre de 2018;1:15
-63;189;viernes, 16 de noviembre de 2018;2:18
-63;192;lunes, 19 de noviembre de 2018;2:09
-63;192;martes, 20 de noviembre de 2018;2:09
-63;180;miércoles, 21 de noviembre de 2018;1:30
-63;180;jueves, 22 de noviembre de 2018;1:15
-63;180;viernes, 23 de noviembre de 2018;0:48
-63;165;lunes, 26 de noviembre de 2018;0:30
-63;162;martes, 27 de noviembre de 2018;0:24
-63;159;miércoles, 28 de noviembre de 2018;0:42
-63;159;jueves, 29 de noviembre de 2018;0:45
-63;285;viernes, 30 de noviembre de 2018;2:15
-63;270;lunes, 3 de diciembre de 2018;1:27
-63;255;martes, 4 de diciembre de 2018;0:42
-63;240;miércoles, 5 de diciembre de 2018;0:18
-63;255;jueves, 6 de diciembre de 2018;0:06
-63;240;viernes, 7 de diciembre de 2018;0:09
-63;285;lunes, 10 de diciembre de 2018;2:09
-63;285;martes, 11 de diciembre de 2018;2:09
-63;285;miércoles, 12 de diciembre de 2018;1:30
-63;285;jueves, 13 de diciembre de 2018;1:15
-63;285;viernes, 14 de diciembre de 2018;0:48
-63;285;lunes, 17 de diciembre de 2018;2:00
-63;285;martes, 18 de diciembre de 2018;1:57
-63;285;miércoles, 19 de diciembre de 2018;1:36
-63;285;jueves, 20 de diciembre de 2018;1:18
-63;285;viernes, 21 de diciembre de 2018;0:54
-63;270;lunes, 24 de diciembre de 2018;0:30
-63;255;miércoles, 26 de diciembre de 2018;0:24
-63;240;jueves, 27 de diciembre de 2018;0:42
-63;285;viernes, 28 de diciembre de 2018;0:57
-63;180;lunes, 31 de diciembre de 2018;2:09
-63;120;miércoles, 2 de enero de 2019;1:30
-63;135;jueves, 3 de enero de 2019;0:45
-63;141;viernes, 4 de enero de 2019;0:21
-63;165;martes, 8 de enero de 2019;0:21
-63;165;miércoles, 9 de enero de 2019;0:09
-63;165;jueves, 10 de enero de 2019;0:12
-63;165;viernes, 11 de enero de 2019;0:18
-63;150;lunes, 14 de enero de 2019;0:30
-63;240;martes, 15 de enero de 2019;1:00
-63;240;miércoles, 16 de enero de 2019;0:36
-63;225;jueves, 17 de enero de 2019;0:24
-63;240;viernes, 18 de enero de 2019;1:57
-63;204;lunes, 21 de enero de 2019;0:30
-63;165;martes, 22 de enero de 2019;0:27
-63;165;miércoles, 23 de enero de 2019;0:42
-63;165;jueves, 24 de enero de 2019;0:30
-63;240;viernes, 25 de enero de 2019;1:03
-63;225;lunes, 28 de enero de 2019;0:30
-63;225;martes, 29 de enero de 2019;0:24
-63;240;miércoles, 30 de enero de 2019;0:42
-63;240;jueves, 31 de enero de 2019;2:15
-63;225;viernes, 1 de febrero de 2019;1:30
-63;240;lunes, 4 de febrero de 2019;0:45
-63;240;martes, 5 de febrero de 2019;0:21
-63;240;miércoles, 6 de febrero de 2019;0:21
-63;240;jueves, 7 de febrero de 2019;0:09
-63;255;viernes, 8 de febrero de 2019;1:27
-63;255;lunes, 11 de febrero de 2019;1:15
-63;255;martes, 12 de febrero de 2019;1:30
-63;255;miércoles, 13 de febrero de 2019;1:15
-63;255;jueves, 14 de febrero de 2019;0:48
-63;285;viernes, 15 de febrero de 2019;2:00
-63;285;lunes, 18 de febrero de 2019;1:57
-63;285;martes, 19 de febrero de 2019;1:36
-63;270;miércoles, 20 de febrero de 2019;1:18
-63;270;jueves, 21 de febrero de 2019;0:54
-63;210;viernes, 22 de febrero de 2019;0:39
-63;285;lunes, 25 de febrero de 2019;1:18
-63;270;martes, 26 de febrero de 2019;0:21
-63;270;miércoles, 27 de febrero de 2019;0:09
-63;285;jueves, 28 de febrero de 2019;2:12
-63;270;viernes, 1 de marzo de 2019;1:33
-63;240;lunes, 4 de marzo de 2019;0:42
-63;240;martes, 5 de marzo de 2019;0:45
-63;240;miércoles, 6 de marzo de 2019;0:21
-63;255;jueves, 7 de marzo de 2019;0:21
-63;285;viernes, 8 de marzo de 2019;1:27
-63;285;lunes, 11 de marzo de 2019;1:15
-63;285;martes, 12 de marzo de 2019;1:30
-63;285;miércoles, 13 de marzo de 2019;1:15
-63;285;jueves, 14 de marzo de 2019;0:48
-63;285;viernes, 15 de marzo de 2019;2:00
-63;285;lunes, 18 de marzo de 2019;1:57
-63;285;martes, 19 de marzo de 2019;1:36
-63;285;miércoles, 20 de marzo de 2019;1:18
-63;285;jueves, 21 de marzo de 2019;0:54
-63;255;viernes, 22 de marzo de 2019;0:39
-63;285;martes, 26 de marzo de 2019;0:54
-63;255;miércoles, 27 de marzo de 2019;0:42
-63;255;jueves, 28 de marzo de 2019;0:45
-63;285;viernes, 29 de marzo de 2019;2:09
-63;270;lunes, 1 de abril de 2019;1:27
-63;270;martes, 2 de abril de 2019;1:24
-63;255;miércoles, 3 de abril de 2019;0:54
-63;255;jueves, 4 de abril de 2019;0:48
-63;285;viernes, 5 de abril de 2019;1:27
-63;255;lunes, 8 de abril de 2019;0:48
-63;285;martes, 9 de abril de 2019;1:27
-63;285;miércoles, 10 de abril de 2019;1:15
-63;285;jueves, 11 de abril de 2019;1:30
-63;285;viernes, 12 de abril de 2019;1:15
-63;285;lunes, 15 de abril de 2019;2:00
-63;285;martes, 16 de abril de 2019;1:57
-63;255;miércoles, 17 de abril de 2019;0:39
-63;285;lunes, 22 de abril de 2019;1:15
-63;285;martes, 23 de abril de 2019;0:48
-63;285;miércoles, 24 de abril de 2019;1:18
-63;285;jueves, 25 de abril de 2019;0:54
-63;285;viernes, 26 de abril de 2019;1:18
-63;285;lunes, 29 de abril de 2019;0:54
-63;285;martes, 30 de abril de 2019;2:06
-63;285;jueves, 2 de mayo de 2019;2:03
-63;285;viernes, 3 de mayo de 2019;2:03
-63;285;lunes, 6 de mayo de 2019;1:27
-63;285;martes, 7 de mayo de 2019;1:15
-63;285;miércoles, 8 de mayo de 2019;1:30
-63;285;jueves, 9 de mayo de 2019;1:15
-63;285;viernes, 10 de mayo de 2019;1:15
-63;285;lunes, 13 de mayo de 2019;0:48
-63;285;martes, 14 de mayo de 2019;1:18
-63;285;miércoles, 15 de mayo de 2019;2:06
-63;285;jueves, 16 de mayo de 2019;2:00
-63;285;viernes, 17 de mayo de 2019;1:54
-63;285;lunes, 20 de mayo de 2019;1:48
-63;285;martes, 21 de mayo de 2019;1:15
-63;285;miércoles, 22 de mayo de 2019;0:48
-63;255;jueves, 23 de mayo de 2019;0:42
-63;255;viernes, 24 de mayo de 2019;0:45
-63;285;lunes, 27 de mayo de 2019;0:54
-63;270;martes, 28 de mayo de 2019;0:42
-63;270;miércoles, 29 de mayo de 2019;0:45
-63;270;jueves, 30 de mayo de 2019;1:57
-63;285;viernes, 31 de mayo de 2019;2:03
-63;270;martes, 4 de junio de 2019;0:48
-63;270;miércoles, 5 de junio de 2019;1:27
-63;255;jueves, 6 de junio de 2019;0:48
-63;240;viernes, 7 de junio de 2019;0:21
-63;240;lunes, 10 de junio de 2019;0:21
-63;285;martes, 11 de junio de 2019;1:15
-63;285;miércoles, 12 de junio de 2019;0:48
-63;285;jueves, 13 de junio de 2019;1:18
-63;285;viernes, 14 de junio de 2019;2:06
-63;285;lunes, 17 de junio de 2019;2:00
-63;285;martes, 18 de junio de 2019;1:54
-63;285;miércoles, 19 de junio de 2019;1:48
-63;285;jueves, 20 de junio de 2019;1:15
-63;285;viernes, 21 de junio de 2019;0:48
-63;285;martes, 25 de junio de 2019;0:54
-63;270;miércoles, 26 de junio de 2019;0:42
-63;255;jueves, 27 de junio de 2019;0:45
-63;285;viernes, 28 de junio de 2019;2:00
-63;270;martes, 2 de julio de 2019;0:48
-63;270;miércoles, 3 de julio de 2019;1:27
-63;255;jueves, 4 de julio de 2019;0:48
-63;255;viernes, 5 de julio de 2019;0:21
-63;240;lunes, 8 de julio de 2019;0:57
-63;285;martes, 9 de julio de 2019;1:15
-63;285;miércoles, 10 de julio de 2019;0:48
-63;285;jueves, 11 de julio de 2019;1:18
-63;285;viernes, 12 de julio de 2019;2:06
-63;285;lunes, 15 de julio de 2019;2:00
-63;285;martes, 16 de julio de 2019;2:00
-63;285;miércoles, 17 de julio de 2019;1:54
-63;285;jueves, 18 de julio de 2019;1:48
-63;285;viernes, 19 de julio de 2019;1:15
-63;285;lunes, 22 de julio de 2019;1:06
-63;270;martes, 23 de julio de 2019;0:42
-63;255;miércoles, 24 de julio de 2019;0:45
-63;285;jueves, 25 de julio de 2019;0:57
-63;270;viernes, 26 de julio de 2019;0:42
-63;255;lunes, 29 de julio de 2019;0:45
-63;240;martes, 30 de julio de 2019;1:54
-63;285;miércoles, 31 de julio de 2019;1:57
-63;270;jueves, 1 de agosto de 2019;1:18
-63;240;viernes, 2 de agosto de 2019;1:27
-63;255;lunes, 5 de agosto de 2019;0:48
-63;285;martes, 6 de agosto de 2019;1:27
-63;285;jueves, 8 de agosto de 2019;1:15
-63;285;viernes, 9 de agosto de 2019;1:30
-63;285;lunes, 12 de agosto de 2019;1:15
-63;285;martes, 13 de agosto de 2019;1:15
-63;285;miércoles, 14 de agosto de 2019;1:18
-63;285;jueves, 15 de agosto de 2019;1:57
-63;285;viernes, 16 de agosto de 2019;1:51
-63;285;martes, 20 de agosto de 2019;1:30
-63;285;miércoles, 21 de agosto de 2019;1:00
-63;285;jueves, 22 de agosto de 2019;1:24
-63;285;viernes, 23 de agosto de 2019;1:18
-63;285;lunes, 26 de agosto de 2019;1:15
-63;285;martes, 27 de agosto de 2019;0:48
-63;285;miércoles, 28 de agosto de 2019;0:54
-63;285;jueves, 29 de agosto de 2019;1:15
-63;285;viernes, 30 de agosto de 2019;2:15
-63;285;lunes, 2 de septiembre de 2019;1:57
-63;285;martes, 3 de septiembre de 2019;1:51
-63;285;miércoles, 4 de septiembre de 2019;1:18
-63;285;jueves, 5 de septiembre de 2019;1:09
-63;285;viernes, 6 de septiembre de 2019;1:06
-63;285;lunes, 9 de septiembre de 2019;1:30
-63;285;martes, 10 de septiembre de 2019;1:15
-63;285;miércoles, 11 de septiembre de 2019;1:15
-63;285;jueves, 12 de septiembre de 2019;1:18
-63;285;viernes, 13 de septiembre de 2019;2:15
-63;285;lunes, 16 de septiembre de 2019;1:48
-63;285;martes, 17 de septiembre de 2019;1:51
-63;285;miércoles, 18 de septiembre de 2019;1:30
-63;285;jueves, 19 de septiembre de 2019;1:21
-63;285;viernes, 20 de septiembre de 2019;1:06
-63;285;lunes, 23 de septiembre de 2019;0:51
-63;285;martes, 24 de septiembre de 2019;1:00
-63;285;miércoles, 25 de septiembre de 2019;1:09
-63;285;jueves, 26 de septiembre de 2019;0:33
-63;285;viernes, 27 de septiembre de 2019;1:03
-63;285;lunes, 30 de septiembre de 2019;1:57
-63;285;martes, 1 de octubre de 2019;1:57
-63;285;miércoles, 2 de octubre de 2019;1:51
-63;285;jueves, 3 de octubre de 2019;1:18
-63;285;viernes, 4 de octubre de 2019;1:09
-63;285;lunes, 7 de octubre de 2019;1:06
-63;285;martes, 8 de octubre de 2019;1:30
-63;285;miércoles, 9 de octubre de 2019;1:15
-63;285;jueves, 10 de octubre de 2019;1:15
-63;285;viernes, 11 de octubre de 2019;1:18
-63;285;martes, 15 de octubre de 2019;2:00
-63;285;miércoles, 16 de octubre de 2019;0:57
-63;285;jueves, 17 de octubre de 2019;1:06
-63;285;viernes, 18 de octubre de 2019;1:27
-63;285;lunes, 21 de octubre de 2019;1:06
-63;285;martes, 22 de octubre de 2019;0:51
-63;270;miércoles, 23 de octubre de 2019;0:42
-63;255;jueves, 24 de octubre de 2019;0:45
-63;285;viernes, 25 de octubre de 2019;1:09
-63;270;lunes, 28 de octubre de 2019;0:27
-63;255;martes, 29 de octubre de 2019;0:45
-63;240;miércoles, 30 de octubre de 2019;1:57
-63;285;jueves, 31 de octubre de 2019;2:03
-63;270;viernes, 1 de noviembre de 2019;2:03
-63;270;martes, 5 de noviembre de 2019;0:51
-63;255;miércoles, 6 de noviembre de 2019;0:57
-63;240;jueves, 7 de noviembre de 2019;0:57
-63;285;viernes, 8 de noviembre de 2019;1:30
-63;285;martes, 12 de noviembre de 2019;1:15
-63;285;miércoles, 13 de noviembre de 2019;1:15
-63;285;jueves, 14 de noviembre de 2019;1:18
-63;285;viernes, 15 de noviembre de 2019;2:00
-66;260;jueves, 1 de noviembre de 2018;2:00
-66;260;viernes, 2 de noviembre de 2018;1:00
-66;240;martes, 6 de noviembre de 2018;0:28
-66;220;miércoles, 7 de noviembre de 2018;0:12
-66;220;jueves, 8 de noviembre de 2018;0:16
-66;240;viernes, 9 de noviembre de 2018;0:40
-66;244;martes, 13 de noviembre de 2018;0:48
-66;252;miércoles, 14 de noviembre de 2018;1:48
-66;252;jueves, 15 de noviembre de 2018;1:40
-66;252;viernes, 16 de noviembre de 2018;3:04
-66;256;lunes, 19 de noviembre de 2018;2:52
-66;256;martes, 20 de noviembre de 2018;2:52
-66;240;miércoles, 21 de noviembre de 2018;2:00
-66;240;jueves, 22 de noviembre de 2018;1:40
-66;240;viernes, 23 de noviembre de 2018;1:04
-66;220;lunes, 26 de noviembre de 2018;0:40
-66;216;martes, 27 de noviembre de 2018;0:32
-66;212;miércoles, 28 de noviembre de 2018;0:56
-66;212;jueves, 29 de noviembre de 2018;1:00
-66;380;viernes, 30 de noviembre de 2018;3:00
-66;360;lunes, 3 de diciembre de 2018;1:56
-66;340;martes, 4 de diciembre de 2018;0:56
-66;320;miércoles, 5 de diciembre de 2018;0:24
-66;340;jueves, 6 de diciembre de 2018;0:08
-66;320;viernes, 7 de diciembre de 2018;0:12
-66;380;lunes, 10 de diciembre de 2018;2:52
-66;380;martes, 11 de diciembre de 2018;2:52
-66;380;miércoles, 12 de diciembre de 2018;2:00
-66;380;jueves, 13 de diciembre de 2018;1:40
-66;380;viernes, 14 de diciembre de 2018;1:04
-66;380;lunes, 17 de diciembre de 2018;2:40
-66;380;martes, 18 de diciembre de 2018;2:36
-66;380;miércoles, 19 de diciembre de 2018;2:08
-66;380;jueves, 20 de diciembre de 2018;1:44
-66;380;viernes, 21 de diciembre de 2018;1:12
-66;360;lunes, 24 de diciembre de 2018;0:40
-66;340;miércoles, 26 de diciembre de 2018;0:32
-66;320;jueves, 27 de diciembre de 2018;0:56
-66;380;viernes, 28 de diciembre de 2018;1:16
-66;240;lunes, 31 de diciembre de 2018;2:52
-66;160;miércoles, 2 de enero de 2019;2:00
-66;180;jueves, 3 de enero de 2019;1:00
-66;188;viernes, 4 de enero de 2019;0:28
-66;220;martes, 8 de enero de 2019;0:28
-66;220;miércoles, 9 de enero de 2019;0:12
-66;220;jueves, 10 de enero de 2019;0:16
-66;220;viernes, 11 de enero de 2019;0:24
-66;200;lunes, 14 de enero de 2019;0:40
-66;320;martes, 15 de enero de 2019;1:20
-66;320;miércoles, 16 de enero de 2019;0:48
-66;300;jueves, 17 de enero de 2019;0:32
-66;320;viernes, 18 de enero de 2019;2:36
-66;272;lunes, 21 de enero de 2019;0:40
-66;220;martes, 22 de enero de 2019;0:36
-66;220;miércoles, 23 de enero de 2019;0:56
-66;220;jueves, 24 de enero de 2019;0:40
-66;320;viernes, 25 de enero de 2019;1:24
-66;300;lunes, 28 de enero de 2019;0:40
-66;300;martes, 29 de enero de 2019;0:32
-66;320;miércoles, 30 de enero de 2019;0:56
-66;320;jueves, 31 de enero de 2019;3:00
-66;300;viernes, 1 de febrero de 2019;2:00
-66;320;lunes, 4 de febrero de 2019;1:00
-66;320;martes, 5 de febrero de 2019;0:28
-66;320;miércoles, 6 de febrero de 2019;0:28
-66;320;jueves, 7 de febrero de 2019;0:12
-66;340;viernes, 8 de febrero de 2019;1:56
-66;340;lunes, 11 de febrero de 2019;1:40
-66;340;martes, 12 de febrero de 2019;2:00
-66;340;miércoles, 13 de febrero de 2019;1:40
-66;340;jueves, 14 de febrero de 2019;1:04
-66;380;viernes, 15 de febrero de 2019;2:40
-66;380;lunes, 18 de febrero de 2019;2:36
-66;380;martes, 19 de febrero de 2019;2:08
-66;360;miércoles, 20 de febrero de 2019;1:44
-66;360;jueves, 21 de febrero de 2019;1:12
-66;280;viernes, 22 de febrero de 2019;0:52
-66;380;lunes, 25 de febrero de 2019;1:44
-66;360;martes, 26 de febrero de 2019;0:28
-66;360;miércoles, 27 de febrero de 2019;0:12
-66;380;jueves, 28 de febrero de 2019;2:56
-66;360;viernes, 1 de marzo de 2019;2:04
-66;320;lunes, 4 de marzo de 2019;0:56
-66;320;martes, 5 de marzo de 2019;1:00
-66;320;miércoles, 6 de marzo de 2019;0:28
-66;340;jueves, 7 de marzo de 2019;0:28
-66;380;viernes, 8 de marzo de 2019;1:56
-66;380;lunes, 11 de marzo de 2019;1:40
-66;380;martes, 12 de marzo de 2019;2:00
-66;380;miércoles, 13 de marzo de 2019;1:40
-66;380;jueves, 14 de marzo de 2019;1:04
-66;380;viernes, 15 de marzo de 2019;2:40
-66;380;lunes, 18 de marzo de 2019;2:36
-66;380;martes, 19 de marzo de 2019;2:08
-66;380;miércoles, 20 de marzo de 2019;1:44
-66;380;jueves, 21 de marzo de 2019;1:12
-66;340;viernes, 22 de marzo de 2019;0:52
-66;380;martes, 26 de marzo de 2019;1:12
-66;340;miércoles, 27 de marzo de 2019;0:56
-66;340;jueves, 28 de marzo de 2019;1:00
-66;380;viernes, 29 de marzo de 2019;2:52
-66;360;lunes, 1 de abril de 2019;1:56
-66;360;martes, 2 de abril de 2019;1:52
-66;340;miércoles, 3 de abril de 2019;1:12
-66;340;jueves, 4 de abril de 2019;1:04
-66;380;viernes, 5 de abril de 2019;1:56
-66;340;lunes, 8 de abril de 2019;1:04
-66;380;martes, 9 de abril de 2019;1:56
-66;380;miércoles, 10 de abril de 2019;1:40
-66;380;jueves, 11 de abril de 2019;2:00
-66;380;viernes, 12 de abril de 2019;1:40
-66;380;lunes, 15 de abril de 2019;2:40
-66;380;martes, 16 de abril de 2019;2:36
-66;340;miércoles, 17 de abril de 2019;0:52
-66;380;lunes, 22 de abril de 2019;1:40
-66;380;martes, 23 de abril de 2019;1:04
-66;380;miércoles, 24 de abril de 2019;1:44
-66;380;jueves, 25 de abril de 2019;1:12
-66;380;viernes, 26 de abril de 2019;1:44
-66;380;lunes, 29 de abril de 2019;1:12
-66;380;martes, 30 de abril de 2019;2:48
-66;380;jueves, 2 de mayo de 2019;2:44
-66;380;viernes, 3 de mayo de 2019;2:44
-66;380;lunes, 6 de mayo de 2019;1:56
-66;380;martes, 7 de mayo de 2019;1:40
-66;380;miércoles, 8 de mayo de 2019;2:00
-66;380;jueves, 9 de mayo de 2019;1:40
-66;380;viernes, 10 de mayo de 2019;1:40
-66;380;lunes, 13 de mayo de 2019;1:04
-66;380;martes, 14 de mayo de 2019;1:44
-66;380;miércoles, 15 de mayo de 2019;2:48
-66;380;jueves, 16 de mayo de 2019;2:40
-66;380;viernes, 17 de mayo de 2019;2:32
-66;380;lunes, 20 de mayo de 2019;2:24
-66;380;martes, 21 de mayo de 2019;1:40
-66;380;miércoles, 22 de mayo de 2019;1:04
-66;340;jueves, 23 de mayo de 2019;0:56
-66;340;viernes, 24 de mayo de 2019;1:00
-66;380;lunes, 27 de mayo de 2019;1:12
-66;360;martes, 28 de mayo de 2019;0:56
-66;360;miércoles, 29 de mayo de 2019;1:00
-66;360;jueves, 30 de mayo de 2019;2:36
-66;380;viernes, 31 de mayo de 2019;2:44
-66;360;martes, 4 de junio de 2019;1:04
-66;360;miércoles, 5 de junio de 2019;1:56
-66;340;jueves, 6 de junio de 2019;1:04
-66;320;viernes, 7 de junio de 2019;0:28
-66;320;lunes, 10 de junio de 2019;0:28
-66;380;martes, 11 de junio de 2019;1:40
-66;380;miércoles, 12 de junio de 2019;1:04
-66;380;jueves, 13 de junio de 2019;1:44
-66;380;viernes, 14 de junio de 2019;2:48
-66;380;lunes, 17 de junio de 2019;2:40
-66;380;martes, 18 de junio de 2019;2:32
-66;380;miércoles, 19 de junio de 2019;2:24
-66;380;jueves, 20 de junio de 2019;1:40
-66;380;viernes, 21 de junio de 2019;1:04
-66;380;martes, 25 de junio de 2019;1:12
-66;360;miércoles, 26 de junio de 2019;0:56
-66;340;jueves, 27 de junio de 2019;1:00
-66;380;viernes, 28 de junio de 2019;2:40
-66;360;martes, 2 de julio de 2019;1:04
-66;360;miércoles, 3 de julio de 2019;1:56
-66;340;jueves, 4 de julio de 2019;1:04
-66;340;viernes, 5 de julio de 2019;0:28
-66;320;lunes, 8 de julio de 2019;1:16
-66;380;martes, 9 de julio de 2019;1:40
-66;380;miércoles, 10 de julio de 2019;1:04
-66;380;jueves, 11 de julio de 2019;1:44
-66;380;viernes, 12 de julio de 2019;2:48
-66;380;lunes, 15 de julio de 2019;2:40
-66;380;martes, 16 de julio de 2019;2:40
-66;380;miércoles, 17 de julio de 2019;2:32
-66;380;jueves, 18 de julio de 2019;2:24
-66;380;viernes, 19 de julio de 2019;1:40
-66;380;lunes, 22 de julio de 2019;1:28
-66;360;martes, 23 de julio de 2019;0:56
-66;340;miércoles, 24 de julio de 2019;1:00
-66;380;jueves, 25 de julio de 2019;1:16
-66;360;viernes, 26 de julio de 2019;0:56
-66;340;lunes, 29 de julio de 2019;1:00
-66;320;martes, 30 de julio de 2019;2:32
-66;380;miércoles, 31 de julio de 2019;2:36
-66;360;jueves, 1 de agosto de 2019;1:44
-66;320;viernes, 2 de agosto de 2019;1:56
-66;340;lunes, 5 de agosto de 2019;1:04
-66;380;martes, 6 de agosto de 2019;1:56
-66;380;jueves, 8 de agosto de 2019;1:40
-66;380;viernes, 9 de agosto de 2019;2:00
-66;380;lunes, 12 de agosto de 2019;1:40
-66;380;martes, 13 de agosto de 2019;1:40
-66;380;miércoles, 14 de agosto de 2019;1:44
-66;380;jueves, 15 de agosto de 2019;2:36
-66;380;viernes, 16 de agosto de 2019;2:28
-66;380;martes, 20 de agosto de 2019;2:00
-66;380;miércoles, 21 de agosto de 2019;1:20
-66;380;jueves, 22 de agosto de 2019;1:52
-66;380;viernes, 23 de agosto de 2019;1:44
-66;380;lunes, 26 de agosto de 2019;1:40
-66;380;martes, 27 de agosto de 2019;1:04
-66;380;miércoles, 28 de agosto de 2019;1:12
-66;380;jueves, 29 de agosto de 2019;1:40
-66;380;viernes, 30 de agosto de 2019;3:00
-66;380;lunes, 2 de septiembre de 2019;2:36
-66;380;martes, 3 de septiembre de 2019;2:28
-66;380;miércoles, 4 de septiembre de 2019;1:44
-66;380;jueves, 5 de septiembre de 2019;1:32
-66;380;viernes, 6 de septiembre de 2019;1:28
-66;380;lunes, 9 de septiembre de 2019;2:00
-66;380;martes, 10 de septiembre de 2019;1:40
-66;380;miércoles, 11 de septiembre de 2019;1:40
-66;380;jueves, 12 de septiembre de 2019;1:44
-66;380;viernes, 13 de septiembre de 2019;3:00
-66;380;lunes, 16 de septiembre de 2019;2:24
-66;380;martes, 17 de septiembre de 2019;2:28
-66;380;miércoles, 18 de septiembre de 2019;2:00
-66;380;jueves, 19 de septiembre de 2019;1:48
-66;380;viernes, 20 de septiembre de 2019;1:28
-66;380;lunes, 23 de septiembre de 2019;1:08
-66;380;martes, 24 de septiembre de 2019;1:20
-66;380;miércoles, 25 de septiembre de 2019;1:32
-66;380;jueves, 26 de septiembre de 2019;0:44
-66;380;viernes, 27 de septiembre de 2019;1:24
-66;380;lunes, 30 de septiembre de 2019;2:36
-66;380;martes, 1 de octubre de 2019;2:36
-66;380;miércoles, 2 de octubre de 2019;2:28
-66;380;jueves, 3 de octubre de 2019;1:44
-66;380;viernes, 4 de octubre de 2019;1:32
-66;380;lunes, 7 de octubre de 2019;1:28
-66;380;martes, 8 de octubre de 2019;2:00
-66;380;miércoles, 9 de octubre de 2019;1:40
-66;380;jueves, 10 de octubre de 2019;1:40
-66;380;viernes, 11 de octubre de 2019;1:44
-66;380;martes, 15 de octubre de 2019;2:40
-66;380;miércoles, 16 de octubre de 2019;1:16
-66;380;jueves, 17 de octubre de 2019;1:28
-66;380;viernes, 18 de octubre de 2019;1:56
-66;380;lunes, 21 de octubre de 2019;1:28
-66;380;martes, 22 de octubre de 2019;1:08
-66;360;miércoles, 23 de octubre de 2019;0:56
-66;340;jueves, 24 de octubre de 2019;1:00
-66;380;viernes, 25 de octubre de 2019;1:32
-66;360;lunes, 28 de octubre de 2019;0:36
-66;340;martes, 29 de octubre de 2019;1:00
-66;320;miércoles, 30 de octubre de 2019;2:36
-66;380;jueves, 31 de octubre de 2019;2:44
-66;360;viernes, 1 de noviembre de 2019;2:44
-66;360;martes, 5 de noviembre de 2019;1:08
-66;340;miércoles, 6 de noviembre de 2019;1:16
-66;320;jueves, 7 de noviembre de 2019;1:16
-66;380;viernes, 8 de noviembre de 2019;2:00
-66;380;martes, 12 de noviembre de 2019;1:40
-66;380;miércoles, 13 de noviembre de 2019;1:40
-66;380;jueves, 14 de noviembre de 2019;1:44
-66;380;viernes, 15 de noviembre de 2019;2:40
-48;293;jueves, 1 de noviembre de 2018;2:15
-48;293;viernes, 2 de noviembre de 2018;1:07
-48;270;martes, 6 de noviembre de 2018;0:31
-48;248;miércoles, 7 de noviembre de 2018;0:13
-48;248;jueves, 8 de noviembre de 2018;0:18
-48;270;viernes, 9 de noviembre de 2018;0:45
-48;275;martes, 13 de noviembre de 2018;0:54
-48;284;miércoles, 14 de noviembre de 2018;2:01
-48;284;jueves, 15 de noviembre de 2018;1:52
-48;284;viernes, 16 de noviembre de 2018;3:27
-48;288;lunes, 19 de noviembre de 2018;3:13
-48;288;martes, 20 de noviembre de 2018;3:13
-48;270;miércoles, 21 de noviembre de 2018;2:15
-48;270;jueves, 22 de noviembre de 2018;1:52
-48;270;viernes, 23 de noviembre de 2018;1:12
-48;248;lunes, 26 de noviembre de 2018;0:45
-48;243;martes, 27 de noviembre de 2018;0:36
-48;239;miércoles, 28 de noviembre de 2018;1:03
-48;239;jueves, 29 de noviembre de 2018;1:07
-48;428;viernes, 30 de noviembre de 2018;3:22
-48;405;lunes, 3 de diciembre de 2018;2:10
-48;383;martes, 4 de diciembre de 2018;1:03
-48;360;miércoles, 5 de diciembre de 2018;0:27
-48;383;jueves, 6 de diciembre de 2018;0:09
-48;360;viernes, 7 de diciembre de 2018;0:13
-48;428;lunes, 10 de diciembre de 2018;3:13
-48;428;martes, 11 de diciembre de 2018;3:13
-48;428;miércoles, 12 de diciembre de 2018;2:15
-48;428;jueves, 13 de diciembre de 2018;1:52
-48;428;viernes, 14 de diciembre de 2018;1:12
-48;428;lunes, 17 de diciembre de 2018;3:00
-48;428;martes, 18 de diciembre de 2018;2:55
-48;428;miércoles, 19 de diciembre de 2018;2:24
-48;428;jueves, 20 de diciembre de 2018;1:57
-48;428;viernes, 21 de diciembre de 2018;1:21
-48;405;lunes, 24 de diciembre de 2018;0:45
-48;383;miércoles, 26 de diciembre de 2018;0:36
-48;360;jueves, 27 de diciembre de 2018;1:03
-48;428;viernes, 28 de diciembre de 2018;1:25
-48;270;lunes, 31 de diciembre de 2018;3:13
-48;180;miércoles, 2 de enero de 2019;2:15
-48;203;jueves, 3 de enero de 2019;1:07
-48;212;viernes, 4 de enero de 2019;0:31
-48;248;martes, 8 de enero de 2019;0:31
-48;248;miércoles, 9 de enero de 2019;0:13
-48;248;jueves, 10 de enero de 2019;0:18
-48;248;viernes, 11 de enero de 2019;0:27
-48;225;lunes, 14 de enero de 2019;0:45
-48;360;martes, 15 de enero de 2019;1:30
-48;360;miércoles, 16 de enero de 2019;0:54
-48;338;jueves, 17 de enero de 2019;0:36
-48;360;viernes, 18 de enero de 2019;2:55
-48;306;lunes, 21 de enero de 2019;0:45
-48;248;martes, 22 de enero de 2019;0:40
-48;248;miércoles, 23 de enero de 2019;1:03
-48;248;jueves, 24 de enero de 2019;0:45
-48;360;viernes, 25 de enero de 2019;1:34
-48;338;lunes, 28 de enero de 2019;0:45
-48;338;martes, 29 de enero de 2019;0:36
-48;360;miércoles, 30 de enero de 2019;1:03
-48;360;jueves, 31 de enero de 2019;3:22
-48;338;viernes, 1 de febrero de 2019;2:15
-48;360;lunes, 4 de febrero de 2019;1:07
-48;360;martes, 5 de febrero de 2019;0:31
-48;360;miércoles, 6 de febrero de 2019;0:31
-48;360;jueves, 7 de febrero de 2019;0:13
-48;383;viernes, 8 de febrero de 2019;2:10
-48;383;lunes, 11 de febrero de 2019;1:52
-48;383;martes, 12 de febrero de 2019;2:15
-48;383;miércoles, 13 de febrero de 2019;1:52
-48;383;jueves, 14 de febrero de 2019;1:12
-48;428;viernes, 15 de febrero de 2019;3:00
-48;428;lunes, 18 de febrero de 2019;2:55
-48;428;martes, 19 de febrero de 2019;2:24
-48;405;miércoles, 20 de febrero de 2019;1:57
-48;405;jueves, 21 de febrero de 2019;1:21
-48;315;viernes, 22 de febrero de 2019;0:58
-48;428;lunes, 25 de febrero de 2019;1:57
-48;405;martes, 26 de febrero de 2019;0:31
-48;405;miércoles, 27 de febrero de 2019;0:13
-48;428;jueves, 28 de febrero de 2019;3:18
-48;405;viernes, 1 de marzo de 2019;2:19
-48;360;lunes, 4 de marzo de 2019;1:03
-48;360;martes, 5 de marzo de 2019;1:07
-48;360;miércoles, 6 de marzo de 2019;0:31
-48;383;jueves, 7 de marzo de 2019;0:31
-48;428;viernes, 8 de marzo de 2019;2:10
-48;428;lunes, 11 de marzo de 2019;1:52
-48;428;martes, 12 de marzo de 2019;2:15
-48;428;miércoles, 13 de marzo de 2019;1:52
-48;428;jueves, 14 de marzo de 2019;1:12
-48;428;viernes, 15 de marzo de 2019;3:00
-48;428;lunes, 18 de marzo de 2019;2:55
-48;428;martes, 19 de marzo de 2019;2:24
-48;428;miércoles, 20 de marzo de 2019;1:57
-48;428;jueves, 21 de marzo de 2019;1:21
-48;383;viernes, 22 de marzo de 2019;0:58
-48;428;martes, 26 de marzo de 2019;1:21
-48;383;miércoles, 27 de marzo de 2019;1:03
-48;383;jueves, 28 de marzo de 2019;1:07
-48;428;viernes, 29 de marzo de 2019;3:13
-48;405;lunes, 1 de abril de 2019;2:10
-48;405;martes, 2 de abril de 2019;2:06
-48;383;miércoles, 3 de abril de 2019;1:21
-48;383;jueves, 4 de abril de 2019;1:12
-48;428;viernes, 5 de abril de 2019;2:10
-48;383;lunes, 8 de abril de 2019;1:12
-48;428;martes, 9 de abril de 2019;2:10
-48;428;miércoles, 10 de abril de 2019;1:52
-48;428;jueves, 11 de abril de 2019;2:15
-48;428;viernes, 12 de abril de 2019;1:52
-48;428;lunes, 15 de abril de 2019;3:00
-48;428;martes, 16 de abril de 2019;2:55
-48;383;miércoles, 17 de abril de 2019;0:58
-48;428;lunes, 22 de abril de 2019;1:52
-48;428;martes, 23 de abril de 2019;1:12
-48;428;miércoles, 24 de abril de 2019;1:57
-48;428;jueves, 25 de abril de 2019;1:21
-48;428;viernes, 26 de abril de 2019;1:57
-48;428;lunes, 29 de abril de 2019;1:21
-48;428;martes, 30 de abril de 2019;3:09
-48;428;jueves, 2 de mayo de 2019;3:04
-48;428;viernes, 3 de mayo de 2019;3:04
-48;428;lunes, 6 de mayo de 2019;2:10
-48;428;martes, 7 de mayo de 2019;1:52
-48;428;miércoles, 8 de mayo de 2019;2:15
-48;428;jueves, 9 de mayo de 2019;1:52
-48;428;viernes, 10 de mayo de 2019;1:52
-48;428;lunes, 13 de mayo de 2019;1:12
-48;428;martes, 14 de mayo de 2019;1:57
-48;428;miércoles, 15 de mayo de 2019;3:09
-48;428;jueves, 16 de mayo de 2019;3:00
-48;428;viernes, 17 de mayo de 2019;2:51
-48;428;lunes, 20 de mayo de 2019;2:42
-48;428;martes, 21 de mayo de 2019;1:52
-48;428;miércoles, 22 de mayo de 2019;1:12
-48;383;jueves, 23 de mayo de 2019;1:03
-48;383;viernes, 24 de mayo de 2019;1:07
-48;428;lunes, 27 de mayo de 2019;1:21
-48;405;martes, 28 de mayo de 2019;1:03
-48;405;miércoles, 29 de mayo de 2019;1:07
-48;405;jueves, 30 de mayo de 2019;2:55
-48;428;viernes, 31 de mayo de 2019;3:04
-48;405;martes, 4 de junio de 2019;1:12
-48;405;miércoles, 5 de junio de 2019;2:10
-48;383;jueves, 6 de junio de 2019;1:12
-48;360;viernes, 7 de junio de 2019;0:31
-48;360;lunes, 10 de junio de 2019;0:31
-48;428;martes, 11 de junio de 2019;1:52
-48;428;miércoles, 12 de junio de 2019;1:12
-48;428;jueves, 13 de junio de 2019;1:57
-48;428;viernes, 14 de junio de 2019;3:09
-48;428;lunes, 17 de junio de 2019;3:00
-48;428;martes, 18 de junio de 2019;2:51
-48;428;miércoles, 19 de junio de 2019;2:42
-48;428;jueves, 20 de junio de 2019;1:52
-48;428;viernes, 21 de junio de 2019;1:12
-48;428;martes, 25 de junio de 2019;1:21
-48;405;miércoles, 26 de junio de 2019;1:03
-48;383;jueves, 27 de junio de 2019;1:07
-48;428;viernes, 28 de junio de 2019;3:00
-48;405;martes, 2 de julio de 2019;1:12
-48;405;miércoles, 3 de julio de 2019;2:10
-48;383;jueves, 4 de julio de 2019;1:12
-48;383;viernes, 5 de julio de 2019;0:31
-48;360;lunes, 8 de julio de 2019;1:25
-48;428;martes, 9 de julio de 2019;1:52
-48;428;miércoles, 10 de julio de 2019;1:12
-48;428;jueves, 11 de julio de 2019;1:57
-48;428;viernes, 12 de julio de 2019;3:09
-48;428;lunes, 15 de julio de 2019;3:00
-48;428;martes, 16 de julio de 2019;3:00
-48;428;miércoles, 17 de julio de 2019;2:51
-48;428;jueves, 18 de julio de 2019;2:42
-48;428;viernes, 19 de julio de 2019;1:52
-48;428;lunes, 22 de julio de 2019;1:39
-48;405;martes, 23 de julio de 2019;1:03
-48;383;miércoles, 24 de julio de 2019;1:07
-48;428;jueves, 25 de julio de 2019;1:25
-48;405;viernes, 26 de julio de 2019;1:03
-48;383;lunes, 29 de julio de 2019;1:07
-48;360;martes, 30 de julio de 2019;2:51
-48;428;miércoles, 31 de julio de 2019;2:55
-48;405;jueves, 1 de agosto de 2019;1:57
-48;360;viernes, 2 de agosto de 2019;2:10
-48;383;lunes, 5 de agosto de 2019;1:12
-48;428;martes, 6 de agosto de 2019;2:10
-48;428;jueves, 8 de agosto de 2019;1:52
-48;428;viernes, 9 de agosto de 2019;2:15
-48;428;lunes, 12 de agosto de 2019;1:52
-48;428;martes, 13 de agosto de 2019;1:52
-48;428;miércoles, 14 de agosto de 2019;1:57
-48;428;jueves, 15 de agosto de 2019;2:55
-48;428;viernes, 16 de agosto de 2019;2:46
-48;428;martes, 20 de agosto de 2019;2:15
-48;428;miércoles, 21 de agosto de 2019;1:30
-48;428;jueves, 22 de agosto de 2019;2:06
-48;428;viernes, 23 de agosto de 2019;1:57
-48;428;lunes, 26 de agosto de 2019;1:52
-48;428;martes, 27 de agosto de 2019;1:12
-48;428;miércoles, 28 de agosto de 2019;1:21
-48;428;jueves, 29 de agosto de 2019;1:52
-48;428;viernes, 30 de agosto de 2019;3:22
-48;428;lunes, 2 de septiembre de 2019;2:55
-48;428;martes, 3 de septiembre de 2019;2:46
-48;428;miércoles, 4 de septiembre de 2019;1:57
-48;428;jueves, 5 de septiembre de 2019;1:43
-48;428;viernes, 6 de septiembre de 2019;1:39
-48;428;lunes, 9 de septiembre de 2019;2:15
-48;428;martes, 10 de septiembre de 2019;1:52
-48;428;miércoles, 11 de septiembre de 2019;1:52
-48;428;jueves, 12 de septiembre de 2019;1:57
-48;428;viernes, 13 de septiembre de 2019;3:22
-48;428;lunes, 16 de septiembre de 2019;2:42
-48;428;martes, 17 de septiembre de 2019;2:46
-48;428;miércoles, 18 de septiembre de 2019;2:15
-48;428;jueves, 19 de septiembre de 2019;2:01
-48;428;viernes, 20 de septiembre de 2019;1:39
-48;428;lunes, 23 de septiembre de 2019;1:16
-48;428;martes, 24 de septiembre de 2019;1:30
-48;428;miércoles, 25 de septiembre de 2019;1:43
-48;428;jueves, 26 de septiembre de 2019;0:49
-48;428;viernes, 27 de septiembre de 2019;1:34
-48;428;lunes, 30 de septiembre de 2019;2:55
-48;428;martes, 1 de octubre de 2019;2:55
-48;428;miércoles, 2 de octubre de 2019;2:46
-48;428;jueves, 3 de octubre de 2019;1:57
-48;428;viernes, 4 de octubre de 2019;1:43
-48;428;lunes, 7 de octubre de 2019;1:39
-48;428;martes, 8 de octubre de 2019;2:15
-48;428;miércoles, 9 de octubre de 2019;1:52
-48;428;jueves, 10 de octubre de 2019;1:52
-48;428;viernes, 11 de octubre de 2019;1:57
-48;428;martes, 15 de octubre de 2019;3:00
-48;428;miércoles, 16 de octubre de 2019;1:25
-48;428;jueves, 17 de octubre de 2019;1:39
-48;428;viernes, 18 de octubre de 2019;2:10
-48;428;lunes, 21 de octubre de 2019;1:39
-48;428;martes, 22 de octubre de 2019;1:16
-48;405;miércoles, 23 de octubre de 2019;1:03
-48;383;jueves, 24 de octubre de 2019;1:07
-48;428;viernes, 25 de octubre de 2019;1:43
-48;405;lunes, 28 de octubre de 2019;0:40
-48;383;martes, 29 de octubre de 2019;1:07
-48;360;miércoles, 30 de octubre de 2019;2:55
-48;428;jueves, 31 de octubre de 2019;3:04
-48;405;viernes, 1 de noviembre de 2019;3:04
-48;405;martes, 5 de noviembre de 2019;1:16
-48;383;miércoles, 6 de noviembre de 2019;1:25
-48;360;jueves, 7 de noviembre de 2019;1:25
-48;428;viernes, 8 de noviembre de 2019;2:15
-48;428;martes, 12 de noviembre de 2019;1:52
-48;428;miércoles, 13 de noviembre de 2019;1:52
-48;428;jueves, 14 de noviembre de 2019;1:57
-48;428;viernes, 15 de noviembre de 2019;3:00
-79;130;jueves, 1 de noviembre de 2018;1:00
-79;130;viernes, 2 de noviembre de 2018;0:30
-79;120;martes, 6 de noviembre de 2018;0:14
-79;110;miércoles, 7 de noviembre de 2018;0:06
-79;110;jueves, 8 de noviembre de 2018;0:08
-79;120;viernes, 9 de noviembre de 2018;0:20
-79;122;martes, 13 de noviembre de 2018;0:24
-79;126;miércoles, 14 de noviembre de 2018;0:54
-79;126;jueves, 15 de noviembre de 2018;0:50
-79;126;viernes, 16 de noviembre de 2018;1:32
-79;128;lunes, 19 de noviembre de 2018;1:26
-79;128;martes, 20 de noviembre de 2018;1:26
-79;120;miércoles, 21 de noviembre de 2018;1:00
-79;120;jueves, 22 de noviembre de 2018;0:50
-79;120;viernes, 23 de noviembre de 2018;0:32
-79;110;lunes, 26 de noviembre de 2018;0:20
-79;108;martes, 27 de noviembre de 2018;0:16
-79;106;miércoles, 28 de noviembre de 2018;0:28
-79;106;jueves, 29 de noviembre de 2018;0:30
-79;190;viernes, 30 de noviembre de 2018;1:30
-79;180;lunes, 3 de diciembre de 2018;0:58
-79;170;martes, 4 de diciembre de 2018;0:28
-79;160;miércoles, 5 de diciembre de 2018;0:12
-79;170;jueves, 6 de diciembre de 2018;0:04
-79;160;viernes, 7 de diciembre de 2018;0:06
-79;190;lunes, 10 de diciembre de 2018;1:26
-79;190;martes, 11 de diciembre de 2018;1:26
-79;190;miércoles, 12 de diciembre de 2018;1:00
-79;190;jueves, 13 de diciembre de 2018;0:50
-79;190;viernes, 14 de diciembre de 2018;0:32
-79;190;lunes, 17 de diciembre de 2018;1:20
-79;190;martes, 18 de diciembre de 2018;1:18
-79;190;miércoles, 19 de diciembre de 2018;1:04
-79;190;jueves, 20 de diciembre de 2018;0:52
-79;190;viernes, 21 de diciembre de 2018;0:36
-79;180;lunes, 24 de diciembre de 2018;0:20
-79;170;miércoles, 26 de diciembre de 2018;0:16
-79;160;jueves, 27 de diciembre de 2018;0:28
-79;190;viernes, 28 de diciembre de 2018;0:38
-79;120;lunes, 31 de diciembre de 2018;1:26
-79;80;miércoles, 2 de enero de 2019;1:00
-79;90;jueves, 3 de enero de 2019;0:30
-79;94;viernes, 4 de enero de 2019;0:14
-79;110;martes, 8 de enero de 2019;0:14
-79;110;miércoles, 9 de enero de 2019;0:06
-79;110;jueves, 10 de enero de 2019;0:08
-79;110;viernes, 11 de enero de 2019;0:12
-79;100;lunes, 14 de enero de 2019;0:20
-79;160;martes, 15 de enero de 2019;0:40
-79;160;miércoles, 16 de enero de 2019;0:24
-79;150;jueves, 17 de enero de 2019;0:16
-79;160;viernes, 18 de enero de 2019;1:18
-79;136;lunes, 21 de enero de 2019;0:20
-79;110;martes, 22 de enero de 2019;0:18
-79;110;miércoles, 23 de enero de 2019;0:28
-79;110;jueves, 24 de enero de 2019;0:20
-79;160;viernes, 25 de enero de 2019;0:42
-79;150;lunes, 28 de enero de 2019;0:20
-79;150;martes, 29 de enero de 2019;0:16
-79;160;miércoles, 30 de enero de 2019;0:28
-79;160;jueves, 31 de enero de 2019;1:30
-79;150;viernes, 1 de febrero de 2019;1:00
-79;160;lunes, 4 de febrero de 2019;0:30
-79;160;martes, 5 de febrero de 2019;0:14
-79;160;miércoles, 6 de febrero de 2019;0:14
-79;160;jueves, 7 de febrero de 2019;0:06
-79;170;viernes, 8 de febrero de 2019;0:58
-79;170;lunes, 11 de febrero de 2019;0:50
-79;170;martes, 12 de febrero de 2019;1:00
-79;170;miércoles, 13 de febrero de 2019;0:50
-79;170;jueves, 14 de febrero de 2019;0:32
-79;190;viernes, 15 de febrero de 2019;1:20
-79;190;lunes, 18 de febrero de 2019;1:18
-79;190;martes, 19 de febrero de 2019;1:04
-79;180;miércoles, 20 de febrero de 2019;0:52
-79;180;jueves, 21 de febrero de 2019;0:36
-79;140;viernes, 22 de febrero de 2019;0:26
-79;190;lunes, 25 de febrero de 2019;0:52
-79;180;martes, 26 de febrero de 2019;0:14
-79;180;miércoles, 27 de febrero de 2019;0:06
-79;190;jueves, 28 de febrero de 2019;1:28
-79;180;viernes, 1 de marzo de 2019;1:02
-79;160;lunes, 4 de marzo de 2019;0:28
-79;160;martes, 5 de marzo de 2019;0:30
-79;160;miércoles, 6 de marzo de 2019;0:14
-79;170;jueves, 7 de marzo de 2019;0:14
-79;190;viernes, 8 de marzo de 2019;0:58
-79;190;lunes, 11 de marzo de 2019;0:50
-79;190;martes, 12 de marzo de 2019;1:00
-79;190;miércoles, 13 de marzo de 2019;0:50
-79;190;jueves, 14 de marzo de 2019;0:32
-79;190;viernes, 15 de marzo de 2019;1:20
-79;190;lunes, 18 de marzo de 2019;1:18
-79;190;martes, 19 de marzo de 2019;1:04
-79;190;miércoles, 20 de marzo de 2019;0:52
-79;190;jueves, 21 de marzo de 2019;0:36
-79;170;viernes, 22 de marzo de 2019;0:26
-79;190;martes, 26 de marzo de 2019;0:36
-79;170;miércoles, 27 de marzo de 2019;0:28
-79;170;jueves, 28 de marzo de 2019;0:30
-79;190;viernes, 29 de marzo de 2019;1:26
-79;180;lunes, 1 de abril de 2019;0:58
-79;180;martes, 2 de abril de 2019;0:56
-79;170;miércoles, 3 de abril de 2019;0:36
-79;170;jueves, 4 de abril de 2019;0:32
-79;190;viernes, 5 de abril de 2019;0:58
-79;170;lunes, 8 de abril de 2019;0:32
-79;190;martes, 9 de abril de 2019;0:58
-79;190;miércoles, 10 de abril de 2019;0:50
-79;190;jueves, 11 de abril de 2019;1:00
-79;190;viernes, 12 de abril de 2019;0:50
-79;190;lunes, 15 de abril de 2019;1:20
-79;190;martes, 16 de abril de 2019;1:18
-79;170;miércoles, 17 de abril de 2019;0:26
-79;190;lunes, 22 de abril de 2019;0:50
-79;190;martes, 23 de abril de 2019;0:32
-79;190;miércoles, 24 de abril de 2019;0:52
-79;190;jueves, 25 de abril de 2019;0:36
-79;190;viernes, 26 de abril de 2019;0:52
-79;190;lunes, 29 de abril de 2019;0:36
-79;190;martes, 30 de abril de 2019;1:24
-79;190;jueves, 2 de mayo de 2019;1:22
-79;190;viernes, 3 de mayo de 2019;1:22
-79;190;lunes, 6 de mayo de 2019;0:58
-79;190;martes, 7 de mayo de 2019;0:50
-79;190;miércoles, 8 de mayo de 2019;1:00
-79;190;jueves, 9 de mayo de 2019;0:50
-79;190;viernes, 10 de mayo de 2019;0:50
-79;190;lunes, 13 de mayo de 2019;0:32
-79;190;martes, 14 de mayo de 2019;0:52
-79;190;miércoles, 15 de mayo de 2019;1:24
-79;190;jueves, 16 de mayo de 2019;1:20
-79;190;viernes, 17 de mayo de 2019;1:16
-79;190;lunes, 20 de mayo de 2019;1:12
-79;190;martes, 21 de mayo de 2019;0:50
-79;190;miércoles, 22 de mayo de 2019;0:32
-79;170;jueves, 23 de mayo de 2019;0:28
-79;170;viernes, 24 de mayo de 2019;0:30
-79;190;lunes, 27 de mayo de 2019;0:36
-79;180;martes, 28 de mayo de 2019;0:28
-79;180;miércoles, 29 de mayo de 2019;0:30
-79;180;jueves, 30 de mayo de 2019;1:18
-79;190;viernes, 31 de mayo de 2019;1:22
-79;180;martes, 4 de junio de 2019;0:32
-79;180;miércoles, 5 de junio de 2019;0:58
-79;170;jueves, 6 de junio de 2019;0:32
-79;160;viernes, 7 de junio de 2019;0:14
-79;160;lunes, 10 de junio de 2019;0:14
-79;190;martes, 11 de junio de 2019;0:50
-79;190;miércoles, 12 de junio de 2019;0:32
-79;190;jueves, 13 de junio de 2019;0:52
-79;190;viernes, 14 de junio de 2019;1:24
-79;190;lunes, 17 de junio de 2019;1:20
-79;190;martes, 18 de junio de 2019;1:16
-79;190;miércoles, 19 de junio de 2019;1:12
-79;190;jueves, 20 de junio de 2019;0:50
-79;190;viernes, 21 de junio de 2019;0:32
-79;190;martes, 25 de junio de 2019;0:36
-79;180;miércoles, 26 de junio de 2019;0:28
-79;170;jueves, 27 de junio de 2019;0:30
-79;190;viernes, 28 de junio de 2019;1:20
-79;180;martes, 2 de julio de 2019;0:32
-79;180;miércoles, 3 de julio de 2019;0:58
-79;170;jueves, 4 de julio de 2019;0:32
-79;170;viernes, 5 de julio de 2019;0:14
-79;160;lunes, 8 de julio de 2019;0:38
-79;190;martes, 9 de julio de 2019;0:50
-79;190;miércoles, 10 de julio de 2019;0:32
-79;190;jueves, 11 de julio de 2019;0:52
-79;190;viernes, 12 de julio de 2019;1:24
-79;190;lunes, 15 de julio de 2019;1:20
-79;190;martes, 16 de julio de 2019;1:20
-79;190;miércoles, 17 de julio de 2019;1:16
-79;190;jueves, 18 de julio de 2019;1:12
-79;190;viernes, 19 de julio de 2019;0:50
-79;190;lunes, 22 de julio de 2019;0:44
-79;180;martes, 23 de julio de 2019;0:28
-79;170;miércoles, 24 de julio de 2019;0:30
-79;190;jueves, 25 de julio de 2019;0:38
-79;180;viernes, 26 de julio de 2019;0:28
-79;170;lunes, 29 de julio de 2019;0:30
-79;160;martes, 30 de julio de 2019;1:16
-79;190;miércoles, 31 de julio de 2019;1:18
-79;180;jueves, 1 de agosto de 2019;0:52
-79;160;viernes, 2 de agosto de 2019;0:58
-79;170;lunes, 5 de agosto de 2019;0:32
-79;190;martes, 6 de agosto de 2019;0:58
-79;190;jueves, 8 de agosto de 2019;0:50
-79;190;viernes, 9 de agosto de 2019;1:00
-79;190;lunes, 12 de agosto de 2019;0:50
-79;190;martes, 13 de agosto de 2019;0:50
-79;190;miércoles, 14 de agosto de 2019;0:52
-79;190;jueves, 15 de agosto de 2019;1:18
-79;190;viernes, 16 de agosto de 2019;1:14
-79;190;martes, 20 de agosto de 2019;1:00
-79;190;miércoles, 21 de agosto de 2019;0:40
-79;190;jueves, 22 de agosto de 2019;0:56
-79;190;viernes, 23 de agosto de 2019;0:52
-79;190;lunes, 26 de agosto de 2019;0:50
-79;190;martes, 27 de agosto de 2019;0:32
-79;190;miércoles, 28 de agosto de 2019;0:36
-79;190;jueves, 29 de agosto de 2019;0:50
-79;190;viernes, 30 de agosto de 2019;1:30
-79;190;lunes, 2 de septiembre de 2019;1:18
-79;190;martes, 3 de septiembre de 2019;1:14
-79;190;miércoles, 4 de septiembre de 2019;0:52
-79;190;jueves, 5 de septiembre de 2019;0:46
-79;190;viernes, 6 de septiembre de 2019;0:44
-79;190;lunes, 9 de septiembre de 2019;1:00
-79;190;martes, 10 de septiembre de 2019;0:50
-79;190;miércoles, 11 de septiembre de 2019;0:50
-79;190;jueves, 12 de septiembre de 2019;0:52
-79;190;viernes, 13 de septiembre de 2019;1:30
-79;190;lunes, 16 de septiembre de 2019;1:12
-79;190;martes, 17 de septiembre de 2019;1:14
-79;190;miércoles, 18 de septiembre de 2019;1:00
-79;190;jueves, 19 de septiembre de 2019;0:54
-79;190;viernes, 20 de septiembre de 2019;0:44
-79;190;lunes, 23 de septiembre de 2019;0:34
-79;190;martes, 24 de septiembre de 2019;0:40
-79;190;miércoles, 25 de septiembre de 2019;0:46
-79;190;jueves, 26 de septiembre de 2019;0:22
-79;190;viernes, 27 de septiembre de 2019;0:42
-79;190;lunes, 30 de septiembre de 2019;1:18
-79;190;martes, 1 de octubre de 2019;1:18
-79;190;miércoles, 2 de octubre de 2019;1:14
-79;190;jueves, 3 de octubre de 2019;0:52
-79;190;viernes, 4 de octubre de 2019;0:46
-79;190;lunes, 7 de octubre de 2019;0:44
-79;190;martes, 8 de octubre de 2019;1:00
-79;190;miércoles, 9 de octubre de 2019;0:50
-79;190;jueves, 10 de octubre de 2019;0:50
-79;190;viernes, 11 de octubre de 2019;0:52
-79;190;martes, 15 de octubre de 2019;1:20
-79;190;miércoles, 16 de octubre de 2019;0:38
-79;190;jueves, 17 de octubre de 2019;0:44
-79;190;viernes, 18 de octubre de 2019;0:58
-79;190;lunes, 21 de octubre de 2019;0:44
-79;190;martes, 22 de octubre de 2019;0:34
-79;180;miércoles, 23 de octubre de 2019;0:28
-79;170;jueves, 24 de octubre de 2019;0:30
-79;190;viernes, 25 de octubre de 2019;0:46
-79;180;lunes, 28 de octubre de 2019;0:18
-79;170;martes, 29 de octubre de 2019;0:30
-79;160;miércoles, 30 de octubre de 2019;1:18
-79;190;jueves, 31 de octubre de 2019;1:22
-79;180;viernes, 1 de noviembre de 2019;1:22
-79;180;martes, 5 de noviembre de 2019;0:34
-79;170;miércoles, 6 de noviembre de 2019;0:38
-79;160;jueves, 7 de noviembre de 2019;0:38
-79;190;viernes, 8 de noviembre de 2019;1:00
-79;190;martes, 12 de noviembre de 2019;0:50
-79;190;miércoles, 13 de noviembre de 2019;0:50
-79;190;jueves, 14 de noviembre de 2019;0:52
-79;190;viernes, 15 de noviembre de 2019;1:20
-12;228;jueves, 1 de noviembre de 2018;1:45
-12;228;viernes, 2 de noviembre de 2018;0:52
-12;210;martes, 6 de noviembre de 2018;0:24
-12;193;miércoles, 7 de noviembre de 2018;0:10
-12;193;jueves, 8 de noviembre de 2018;0:14
-12;210;viernes, 9 de noviembre de 2018;0:35
-12;214;martes, 13 de noviembre de 2018;0:42
-12;221;miércoles, 14 de noviembre de 2018;1:34
-12;221;jueves, 15 de noviembre de 2018;1:27
-12;221;viernes, 16 de noviembre de 2018;2:41
-12;224;lunes, 19 de noviembre de 2018;2:30
-12;224;martes, 20 de noviembre de 2018;2:30
-12;210;miércoles, 21 de noviembre de 2018;1:45
-12;210;jueves, 22 de noviembre de 2018;1:27
-12;210;viernes, 23 de noviembre de 2018;0:56
-12;193;lunes, 26 de noviembre de 2018;0:35
-12;189;martes, 27 de noviembre de 2018;0:28
-12;186;miércoles, 28 de noviembre de 2018;0:49
-12;186;jueves, 29 de noviembre de 2018;0:52
-12;333;viernes, 30 de noviembre de 2018;2:37
-12;315;lunes, 3 de diciembre de 2018;1:41
-12;298;martes, 4 de diciembre de 2018;0:49
-12;280;miércoles, 5 de diciembre de 2018;0:21
-12;298;jueves, 6 de diciembre de 2018;0:07
-12;280;viernes, 7 de diciembre de 2018;0:10
-12;333;lunes, 10 de diciembre de 2018;2:30
-12;333;martes, 11 de diciembre de 2018;2:30
-12;333;miércoles, 12 de diciembre de 2018;1:45
-12;333;jueves, 13 de diciembre de 2018;1:27
-12;333;viernes, 14 de diciembre de 2018;0:56
-12;333;lunes, 17 de diciembre de 2018;2:20
-12;333;martes, 18 de diciembre de 2018;2:16
-12;333;miércoles, 19 de diciembre de 2018;1:52
-12;333;jueves, 20 de diciembre de 2018;1:31
-12;333;viernes, 21 de diciembre de 2018;1:03
-12;315;lunes, 24 de diciembre de 2018;0:35
-12;298;miércoles, 26 de diciembre de 2018;0:28
-12;280;jueves, 27 de diciembre de 2018;0:49
-12;333;viernes, 28 de diciembre de 2018;1:06
-12;210;lunes, 31 de diciembre de 2018;2:30
-12;140;miércoles, 2 de enero de 2019;1:45
-12;158;jueves, 3 de enero de 2019;0:52
-12;165;viernes, 4 de enero de 2019;0:24
-12;193;martes, 8 de enero de 2019;0:24
-12;193;miércoles, 9 de enero de 2019;0:10
-12;193;jueves, 10 de enero de 2019;0:14
-12;193;viernes, 11 de enero de 2019;0:21
-12;175;lunes, 14 de enero de 2019;0:35
-12;280;martes, 15 de enero de 2019;1:10
-12;280;miércoles, 16 de enero de 2019;0:42
-12;263;jueves, 17 de enero de 2019;0:28
-12;280;viernes, 18 de enero de 2019;2:16
-12;238;lunes, 21 de enero de 2019;0:35
-12;193;martes, 22 de enero de 2019;0:31
-12;193;miércoles, 23 de enero de 2019;0:49
-12;193;jueves, 24 de enero de 2019;0:35
-12;280;viernes, 25 de enero de 2019;1:13
-12;263;lunes, 28 de enero de 2019;0:35
-12;263;martes, 29 de enero de 2019;0:28
-12;280;miércoles, 30 de enero de 2019;0:49
-12;280;jueves, 31 de enero de 2019;2:37
-12;263;viernes, 1 de febrero de 2019;1:45
-12;280;lunes, 4 de febrero de 2019;0:52
-12;280;martes, 5 de febrero de 2019;0:24
-12;280;miércoles, 6 de febrero de 2019;0:24
-12;280;jueves, 7 de febrero de 2019;0:10
-12;298;viernes, 8 de febrero de 2019;1:41
-12;298;lunes, 11 de febrero de 2019;1:27
-12;298;martes, 12 de febrero de 2019;1:45
-12;298;miércoles, 13 de febrero de 2019;1:27
-12;298;jueves, 14 de febrero de 2019;0:56
-12;333;viernes, 15 de febrero de 2019;2:20
-12;333;lunes, 18 de febrero de 2019;2:16
-12;333;martes, 19 de febrero de 2019;1:52
-12;315;miércoles, 20 de febrero de 2019;1:31
-12;315;jueves, 21 de febrero de 2019;1:03
-12;245;viernes, 22 de febrero de 2019;0:45
-12;333;lunes, 25 de febrero de 2019;1:31
-12;315;martes, 26 de febrero de 2019;0:24
-12;315;miércoles, 27 de febrero de 2019;0:10
-12;333;jueves, 28 de febrero de 2019;2:34
-12;315;viernes, 1 de marzo de 2019;1:48
-12;280;lunes, 4 de marzo de 2019;0:49
-12;280;martes, 5 de marzo de 2019;0:52
-12;280;miércoles, 6 de marzo de 2019;0:24
-12;298;jueves, 7 de marzo de 2019;0:24
-12;333;viernes, 8 de marzo de 2019;1:41
-12;333;lunes, 11 de marzo de 2019;1:27
-12;333;martes, 12 de marzo de 2019;1:45
-12;333;miércoles, 13 de marzo de 2019;1:27
-12;333;jueves, 14 de marzo de 2019;0:56
-12;333;viernes, 15 de marzo de 2019;2:20
-12;333;lunes, 18 de marzo de 2019;2:16
-12;333;martes, 19 de marzo de 2019;1:52
-12;333;miércoles, 20 de marzo de 2019;1:31
-12;333;jueves, 21 de marzo de 2019;1:03
-12;298;viernes, 22 de marzo de 2019;0:45
-12;333;martes, 26 de marzo de 2019;1:03
-12;298;miércoles, 27 de marzo de 2019;0:49
-12;298;jueves, 28 de marzo de 2019;0:52
-12;333;viernes, 29 de marzo de 2019;2:30
-12;315;lunes, 1 de abril de 2019;1:41
-12;315;martes, 2 de abril de 2019;1:38
-12;298;miércoles, 3 de abril de 2019;1:03
-12;298;jueves, 4 de abril de 2019;0:56
-12;333;viernes, 5 de abril de 2019;1:41
-12;298;lunes, 8 de abril de 2019;0:56
-12;333;martes, 9 de abril de 2019;1:41
-12;333;miércoles, 10 de abril de 2019;1:27
-12;333;jueves, 11 de abril de 2019;1:45
-12;333;viernes, 12 de abril de 2019;1:27
-12;333;lunes, 15 de abril de 2019;2:20
-12;333;martes, 16 de abril de 2019;2:16
-12;298;miércoles, 17 de abril de 2019;0:45
-12;333;lunes, 22 de abril de 2019;1:27
-12;333;martes, 23 de abril de 2019;0:56
-12;333;miércoles, 24 de abril de 2019;1:31
-12;333;jueves, 25 de abril de 2019;1:03
-12;333;viernes, 26 de abril de 2019;1:31
-12;333;lunes, 29 de abril de 2019;1:03
-12;333;martes, 30 de abril de 2019;2:27
-12;333;jueves, 2 de mayo de 2019;2:23
-12;333;viernes, 3 de mayo de 2019;2:23
-12;333;lunes, 6 de mayo de 2019;1:41
-12;333;martes, 7 de mayo de 2019;1:27
-12;333;miércoles, 8 de mayo de 2019;1:45
-12;333;jueves, 9 de mayo de 2019;1:27
-12;333;viernes, 10 de mayo de 2019;1:27
-12;333;lunes, 13 de mayo de 2019;0:56
-12;333;martes, 14 de mayo de 2019;1:31
-12;333;miércoles, 15 de mayo de 2019;2:27
-12;333;jueves, 16 de mayo de 2019;2:20
-12;333;viernes, 17 de mayo de 2019;2:13
-12;333;lunes, 20 de mayo de 2019;2:06
-12;333;martes, 21 de mayo de 2019;1:27
-12;333;miércoles, 22 de mayo de 2019;0:56
-12;298;jueves, 23 de mayo de 2019;0:49
-12;298;viernes, 24 de mayo de 2019;0:52
-12;333;lunes, 27 de mayo de 2019;1:03
-12;315;martes, 28 de mayo de 2019;0:49
-12;315;miércoles, 29 de mayo de 2019;0:52
-12;315;jueves, 30 de mayo de 2019;2:16
-12;333;viernes, 31 de mayo de 2019;2:23
-12;315;martes, 4 de junio de 2019;0:56
-12;315;miércoles, 5 de junio de 2019;1:41
-12;298;jueves, 6 de junio de 2019;0:56
-12;280;viernes, 7 de junio de 2019;0:24
-12;280;lunes, 10 de junio de 2019;0:24
-12;333;martes, 11 de junio de 2019;1:27
-12;333;miércoles, 12 de junio de 2019;0:56
-12;333;jueves, 13 de junio de 2019;1:31
-12;333;viernes, 14 de junio de 2019;2:27
-12;333;lunes, 17 de junio de 2019;2:20
-12;333;martes, 18 de junio de 2019;2:13
-12;333;miércoles, 19 de junio de 2019;2:06
-12;333;jueves, 20 de junio de 2019;1:27
-12;333;viernes, 21 de junio de 2019;0:56
-12;333;martes, 25 de junio de 2019;1:03
-12;315;miércoles, 26 de junio de 2019;0:49
-12;298;jueves, 27 de junio de 2019;0:52
-12;333;viernes, 28 de junio de 2019;2:20
-12;315;martes, 2 de julio de 2019;0:56
-12;315;miércoles, 3 de julio de 2019;1:41
-12;298;jueves, 4 de julio de 2019;0:56
-12;298;viernes, 5 de julio de 2019;0:24
-12;280;lunes, 8 de julio de 2019;1:06
-12;333;martes, 9 de julio de 2019;1:27
-12;333;miércoles, 10 de julio de 2019;0:56
-12;333;jueves, 11 de julio de 2019;1:31
-12;333;viernes, 12 de julio de 2019;2:27
-12;333;lunes, 15 de julio de 2019;2:20
-12;333;martes, 16 de julio de 2019;2:20
-12;333;miércoles, 17 de julio de 2019;2:13
-12;333;jueves, 18 de julio de 2019;2:06
-12;333;viernes, 19 de julio de 2019;1:27
-12;333;lunes, 22 de julio de 2019;1:17
-12;315;martes, 23 de julio de 2019;0:49
-12;298;miércoles, 24 de julio de 2019;0:52
-12;333;jueves, 25 de julio de 2019;1:06
-12;315;viernes, 26 de julio de 2019;0:49
-12;298;lunes, 29 de julio de 2019;0:52
-12;280;martes, 30 de julio de 2019;2:13
-12;333;miércoles, 31 de julio de 2019;2:16
-12;315;jueves, 1 de agosto de 2019;1:31
-12;280;viernes, 2 de agosto de 2019;1:41
-12;298;lunes, 5 de agosto de 2019;0:56
-12;333;martes, 6 de agosto de 2019;1:41
-12;333;jueves, 8 de agosto de 2019;1:27
-12;333;viernes, 9 de agosto de 2019;1:45
-12;333;lunes, 12 de agosto de 2019;1:27
-12;333;martes, 13 de agosto de 2019;1:27
-12;333;miércoles, 14 de agosto de 2019;1:31
-12;333;jueves, 15 de agosto de 2019;2:16
-12;333;viernes, 16 de agosto de 2019;2:09
-12;333;martes, 20 de agosto de 2019;1:45
-12;333;miércoles, 21 de agosto de 2019;1:10
-12;333;jueves, 22 de agosto de 2019;1:38
-12;333;viernes, 23 de agosto de 2019;1:31
-12;333;lunes, 26 de agosto de 2019;1:27
-12;333;martes, 27 de agosto de 2019;0:56
-12;333;miércoles, 28 de agosto de 2019;1:03
-12;333;jueves, 29 de agosto de 2019;1:27
-12;333;viernes, 30 de agosto de 2019;2:37
-12;333;lunes, 2 de septiembre de 2019;2:16
-12;333;martes, 3 de septiembre de 2019;2:09
-12;333;miércoles, 4 de septiembre de 2019;1:31
-12;333;jueves, 5 de septiembre de 2019;1:20
-12;333;viernes, 6 de septiembre de 2019;1:17
-12;333;lunes, 9 de septiembre de 2019;1:45
-12;333;martes, 10 de septiembre de 2019;1:27
-12;333;miércoles, 11 de septiembre de 2019;1:27
-12;333;jueves, 12 de septiembre de 2019;1:31
-12;333;viernes, 13 de septiembre de 2019;2:37
-12;333;lunes, 16 de septiembre de 2019;2:06
-12;333;martes, 17 de septiembre de 2019;2:09
-12;333;miércoles, 18 de septiembre de 2019;1:45
-12;333;jueves, 19 de septiembre de 2019;1:34
-12;333;viernes, 20 de septiembre de 2019;1:17
-12;333;lunes, 23 de septiembre de 2019;0:59
-12;333;martes, 24 de septiembre de 2019;1:10
-12;333;miércoles, 25 de septiembre de 2019;1:20
-12;333;jueves, 26 de septiembre de 2019;0:38
-12;333;viernes, 27 de septiembre de 2019;1:13
-12;333;lunes, 30 de septiembre de 2019;2:16
-12;333;martes, 1 de octubre de 2019;2:16
-12;333;miércoles, 2 de octubre de 2019;2:09
-12;333;jueves, 3 de octubre de 2019;1:31
-12;333;viernes, 4 de octubre de 2019;1:20
-12;333;lunes, 7 de octubre de 2019;1:17
-12;333;martes, 8 de octubre de 2019;1:45
-12;333;miércoles, 9 de octubre de 2019;1:27
-12;333;jueves, 10 de octubre de 2019;1:27
-12;333;viernes, 11 de octubre de 2019;1:31
-12;333;martes, 15 de octubre de 2019;2:20
-12;333;miércoles, 16 de octubre de 2019;1:06
-12;333;jueves, 17 de octubre de 2019;1:17
-12;333;viernes, 18 de octubre de 2019;1:41
-12;333;lunes, 21 de octubre de 2019;1:17
-12;333;martes, 22 de octubre de 2019;0:59
-12;315;miércoles, 23 de octubre de 2019;0:49
-12;298;jueves, 24 de octubre de 2019;0:52
-12;333;viernes, 25 de octubre de 2019;1:20
-12;315;lunes, 28 de octubre de 2019;0:31
-12;298;martes, 29 de octubre de 2019;0:52
-12;280;miércoles, 30 de octubre de 2019;2:16
-12;333;jueves, 31 de octubre de 2019;2:23
-12;315;viernes, 1 de noviembre de 2019;2:23
-12;315;martes, 5 de noviembre de 2019;0:59
-12;298;miércoles, 6 de noviembre de 2019;1:06
-12;280;jueves, 7 de noviembre de 2019;1:06
-12;333;viernes, 8 de noviembre de 2019;1:45
-12;333;martes, 12 de noviembre de 2019;1:27
-12;333;miércoles, 13 de noviembre de 2019;1:27
-12;333;jueves, 14 de noviembre de 2019;1:31
-12;333;viernes, 15 de noviembre de 2019;2:20
+ï»¿Cod Oficina ,NÂ° Clientes ofc,Fecha,Tiempo espera promedio del cliente
+23,65,01/11/2018,00:30
+23,65,02/11/2018,00:15
+23,60,06/11/2018,00:07
+23,55,07/11/2018,00:03
+23,55,08/11/2018,00:04
+23,60,09/11/2018,00:10
+23,61,13/11/2018,00:12
+23,63,14/11/2018,00:27
+23,63,15/11/2018,00:25
+23,63,16/11/2018,00:46
+23,64,19/11/2018,00:43
+23,64,20/11/2018,00:43
+23,60,21/11/2018,00:30
+23,60,22/11/2018,00:25
+23,60,23/11/2018,00:16
+23,55,26/11/2018,00:10
+23,54,27/11/2018,00:08
+23,53,28/11/2018,00:14
+23,53,29/11/2018,00:15
+23,95,30/11/2018,00:45
+23,90,03/12/2018,00:29
+23,85,04/12/2018,00:14
+23,80,05/12/2018,00:06
+23,85,06/12/2018,00:02
+23,80,07/12/2018,00:03
+23,95,10/12/2018,00:43
+23,95,11/12/2018,00:43
+23,95,12/12/2018,00:30
+23,95,13/12/2018,00:25
+23,95,14/12/2018,00:16
+23,95,17/12/2018,00:40
+23,95,18/12/2018,00:39
+23,95,19/12/2018,00:32
+23,95,20/12/2018,00:26
+23,95,21/12/2018,00:18
+23,90,24/12/2018,00:10
+23,85,26/12/2018,00:08
+23,80,27/12/2018,00:14
+23,95,28/12/2018,00:19
+23,60,31/12/2018,00:43
+23,40,02/01/2019,00:30
+23,45,03/01/2019,00:15
+23,47,04/01/2019,00:07
+23,55,08/01/2019,00:07
+23,55,09/01/2019,00:03
+23,55,10/01/2019,00:04
+23,55,11/01/2019,00:06
+23,50,14/01/2019,00:10
+23,80,15/01/2019,00:20
+23,80,16/01/2019,00:12
+23,75,17/01/2019,00:08
+23,80,18/01/2019,00:39
+23,68,21/01/2019,00:10
+23,55,22/01/2019,00:09
+23,55,23/01/2019,00:14
+23,55,24/01/2019,00:10
+23,80,25/01/2019,00:21
+23,75,28/01/2019,00:10
+23,75,29/01/2019,00:08
+23,80,30/01/2019,00:14
+23,80,31/01/2019,00:45
+23,75,01/02/2019,00:30
+23,80,04/02/2019,00:15
+23,80,05/02/2019,00:07
+23,80,06/02/2019,00:07
+23,80,07/02/2019,00:03
+23,85,08/02/2019,00:29
+23,85,11/02/2019,00:25
+23,85,12/02/2019,00:30
+23,85,13/02/2019,00:25
+23,85,14/02/2019,00:16
+23,95,15/02/2019,00:40
+23,95,18/02/2019,00:39
+23,95,19/02/2019,00:32
+23,90,20/02/2019,00:26
+23,90,21/02/2019,00:18
+23,70,22/02/2019,00:13
+23,95,25/02/2019,00:26
+23,90,26/02/2019,00:07
+23,90,27/02/2019,00:03
+23,95,28/02/2019,00:44
+23,90,01/03/2019,00:31
+23,80,04/03/2019,00:14
+23,80,05/03/2019,00:15
+23,80,06/03/2019,00:07
+23,85,07/03/2019,00:07
+23,95,08/03/2019,00:29
+23,95,11/03/2019,00:25
+23,95,12/03/2019,00:30
+23,95,13/03/2019,00:25
+23,95,14/03/2019,00:16
+23,95,15/03/2019,00:40
+23,95,18/03/2019,00:39
+23,95,19/03/2019,00:32
+23,95,20/03/2019,00:26
+23,95,21/03/2019,00:18
+23,85,22/03/2019,00:13
+23,95,26/03/2019,00:18
+23,85,27/03/2019,00:14
+23,85,28/03/2019,00:15
+23,95,29/03/2019,00:43
+23,90,01/04/2019,00:29
+23,90,02/04/2019,00:28
+23,85,03/04/2019,00:18
+23,85,04/04/2019,00:16
+23,95,05/04/2019,00:29
+23,85,08/04/2019,00:16
+23,95,09/04/2019,00:29
+23,95,10/04/2019,00:25
+23,95,11/04/2019,00:30
+23,95,12/04/2019,00:25
+23,95,15/04/2019,00:40
+23,95,16/04/2019,00:39
+23,85,17/04/2019,00:13
+23,95,22/04/2019,00:25
+23,95,23/04/2019,00:16
+23,95,24/04/2019,00:26
+23,95,25/04/2019,00:18
+23,95,26/04/2019,00:26
+23,95,29/04/2019,00:18
+23,95,30/04/2019,00:42
+23,95,02/05/2019,00:41
+23,95,03/05/2019,00:41
+23,95,06/05/2019,00:29
+23,95,07/05/2019,00:25
+23,95,08/05/2019,00:30
+23,95,09/05/2019,00:25
+23,95,10/05/2019,00:25
+23,95,13/05/2019,00:16
+23,95,14/05/2019,00:26
+23,95,15/05/2019,00:42
+23,95,16/05/2019,00:40
+23,95,17/05/2019,00:38
+23,95,20/05/2019,00:36
+23,95,21/05/2019,00:25
+23,95,22/05/2019,00:16
+23,85,23/05/2019,00:14
+23,85,24/05/2019,00:15
+23,95,27/05/2019,00:18
+23,90,28/05/2019,00:14
+23,90,29/05/2019,00:15
+23,90,30/05/2019,00:39
+23,95,31/05/2019,00:41
+23,90,04/06/2019,00:16
+23,90,05/06/2019,00:29
+23,85,06/06/2019,00:16
+23,80,07/06/2019,00:07
+23,80,10/06/2019,00:07
+23,95,11/06/2019,00:25
+23,95,12/06/2019,00:16
+23,95,13/06/2019,00:26
+23,95,14/06/2019,00:42
+23,95,17/06/2019,00:40
+23,95,18/06/2019,00:38
+23,95,19/06/2019,00:36
+23,95,20/06/2019,00:25
+23,95,21/06/2019,00:16
+23,95,25/06/2019,00:18
+23,90,26/06/2019,00:14
+23,85,27/06/2019,00:15
+23,95,28/06/2019,00:40
+23,90,02/07/2019,00:16
+23,90,03/07/2019,00:29
+23,85,04/07/2019,00:16
+23,85,05/07/2019,00:07
+23,80,08/07/2019,00:19
+23,95,09/07/2019,00:25
+23,95,10/07/2019,00:16
+23,95,11/07/2019,00:26
+23,95,12/07/2019,00:42
+23,95,15/07/2019,00:40
+23,95,16/07/2019,00:40
+23,95,17/07/2019,00:38
+23,95,18/07/2019,00:36
+23,95,19/07/2019,00:25
+23,95,22/07/2019,00:22
+23,90,23/07/2019,00:14
+23,85,24/07/2019,00:15
+23,95,25/07/2019,00:19
+23,90,26/07/2019,00:14
+23,85,29/07/2019,00:15
+23,80,30/07/2019,00:38
+23,95,31/07/2019,00:39
+23,90,01/08/2019,00:26
+23,80,02/08/2019,00:29
+23,85,05/08/2019,00:16
+23,95,06/08/2019,00:29
+23,95,08/08/2019,00:25
+23,95,09/08/2019,00:30
+23,95,12/08/2019,00:25
+23,95,13/08/2019,00:25
+23,95,14/08/2019,00:26
+23,95,15/08/2019,00:39
+23,95,16/08/2019,00:37
+23,95,20/08/2019,00:30
+23,95,21/08/2019,00:20
+23,95,22/08/2019,00:28
+23,95,23/08/2019,00:26
+23,95,26/08/2019,00:25
+23,95,27/08/2019,00:16
+23,95,28/08/2019,00:18
+23,95,29/08/2019,00:25
+23,95,30/08/2019,00:45
+23,95,02/09/2019,00:39
+23,95,03/09/2019,00:37
+23,95,04/09/2019,00:26
+23,95,05/09/2019,00:23
+23,95,06/09/2019,00:22
+23,95,09/09/2019,00:30
+23,95,10/09/2019,00:25
+23,95,11/09/2019,00:25
+23,95,12/09/2019,00:26
+23,95,13/09/2019,00:45
+23,95,16/09/2019,00:36
+23,95,17/09/2019,00:37
+23,95,18/09/2019,00:30
+23,95,19/09/2019,00:27
+23,95,20/09/2019,00:22
+23,95,23/09/2019,00:17
+23,95,24/09/2019,00:20
+23,95,25/09/2019,00:23
+23,95,26/09/2019,00:11
+23,95,27/09/2019,00:21
+23,95,30/09/2019,00:39
+23,95,01/10/2019,00:39
+23,95,02/10/2019,00:37
+23,95,03/10/2019,00:26
+23,95,04/10/2019,00:23
+23,95,07/10/2019,00:22
+23,95,08/10/2019,00:30
+23,95,09/10/2019,00:25
+23,95,10/10/2019,00:25
+23,95,11/10/2019,00:26
+23,95,15/10/2019,00:40
+23,95,16/10/2019,00:19
+23,95,17/10/2019,00:22
+23,95,18/10/2019,00:29
+23,95,21/10/2019,00:22
+23,95,22/10/2019,00:17
+23,90,23/10/2019,00:14
+23,85,24/10/2019,00:15
+23,95,25/10/2019,00:23
+23,90,28/10/2019,00:09
+23,85,29/10/2019,00:15
+23,80,30/10/2019,00:39
+23,95,31/10/2019,00:41
+23,90,01/11/2019,00:41
+23,90,05/11/2019,00:17
+23,85,06/11/2019,00:19
+23,80,07/11/2019,00:19
+23,95,08/11/2019,00:30
+23,95,12/11/2019,00:25
+23,95,13/11/2019,00:25
+23,95,14/11/2019,00:26
+23,95,15/11/2019,00:40
+24,98,01/11/2018,00:45
+24,98,02/11/2018,00:22
+24,90,06/11/2018,00:10
+24,83,07/11/2018,00:04
+24,83,08/11/2018,00:06
+24,90,09/11/2018,00:15
+24,92,13/11/2018,00:18
+24,95,14/11/2018,00:40
+24,95,15/11/2018,00:37
+24,95,16/11/2018,01:09
+24,96,19/11/2018,01:04
+24,96,20/11/2018,01:04
+24,90,21/11/2018,00:45
+24,90,22/11/2018,00:37
+24,90,23/11/2018,00:24
+24,83,26/11/2018,00:15
+24,81,27/11/2018,00:12
+24,80,28/11/2018,00:21
+24,80,29/11/2018,00:22
+24,143,30/11/2018,01:07
+24,135,03/12/2018,00:43
+24,128,04/12/2018,00:21
+24,120,05/12/2018,00:09
+24,128,06/12/2018,00:03
+24,120,07/12/2018,00:04
+24,143,10/12/2018,01:04
+24,143,11/12/2018,01:04
+24,143,12/12/2018,00:45
+24,143,13/12/2018,00:37
+24,143,14/12/2018,00:24
+24,143,17/12/2018,01:00
+24,143,18/12/2018,00:58
+24,143,19/12/2018,00:48
+24,143,20/12/2018,00:39
+24,143,21/12/2018,00:27
+24,135,24/12/2018,00:15
+24,128,26/12/2018,00:12
+24,120,27/12/2018,00:21
+24,143,28/12/2018,00:28
+24,90,31/12/2018,01:04
+24,60,02/01/2019,00:45
+24,68,03/01/2019,00:22
+24,71,04/01/2019,00:10
+24,83,08/01/2019,00:10
+24,83,09/01/2019,00:04
+24,83,10/01/2019,00:06
+24,83,11/01/2019,00:09
+24,75,14/01/2019,00:15
+24,120,15/01/2019,00:30
+24,120,16/01/2019,00:18
+24,113,17/01/2019,00:12
+24,120,18/01/2019,00:58
+24,102,21/01/2019,00:15
+24,83,22/01/2019,00:13
+24,83,23/01/2019,00:21
+24,83,24/01/2019,00:15
+24,120,25/01/2019,00:31
+24,113,28/01/2019,00:15
+24,113,29/01/2019,00:12
+24,120,30/01/2019,00:21
+24,120,31/01/2019,01:07
+24,113,01/02/2019,00:45
+24,120,04/02/2019,00:22
+24,120,05/02/2019,00:10
+24,120,06/02/2019,00:10
+24,120,07/02/2019,00:04
+24,128,08/02/2019,00:43
+24,128,11/02/2019,00:37
+24,128,12/02/2019,00:45
+24,128,13/02/2019,00:37
+24,128,14/02/2019,00:24
+24,143,15/02/2019,01:00
+24,143,18/02/2019,00:58
+24,143,19/02/2019,00:48
+24,135,20/02/2019,00:39
+24,135,21/02/2019,00:27
+24,105,22/02/2019,00:19
+24,143,25/02/2019,00:39
+24,135,26/02/2019,00:10
+24,135,27/02/2019,00:04
+24,143,28/02/2019,01:06
+24,135,01/03/2019,00:46
+24,120,04/03/2019,00:21
+24,120,05/03/2019,00:22
+24,120,06/03/2019,00:10
+24,128,07/03/2019,00:10
+24,143,08/03/2019,00:43
+24,143,11/03/2019,00:37
+24,143,12/03/2019,00:45
+24,143,13/03/2019,00:37
+24,143,14/03/2019,00:24
+24,143,15/03/2019,01:00
+24,143,18/03/2019,00:58
+24,143,19/03/2019,00:48
+24,143,20/03/2019,00:39
+24,143,21/03/2019,00:27
+24,128,22/03/2019,00:19
+24,143,26/03/2019,00:27
+24,128,27/03/2019,00:21
+24,128,28/03/2019,00:22
+24,143,29/03/2019,01:04
+24,135,01/04/2019,00:43
+24,135,02/04/2019,00:42
+24,128,03/04/2019,00:27
+24,128,04/04/2019,00:24
+24,143,05/04/2019,00:43
+24,128,08/04/2019,00:24
+24,143,09/04/2019,00:43
+24,143,10/04/2019,00:37
+24,143,11/04/2019,00:45
+24,143,12/04/2019,00:37
+24,143,15/04/2019,01:00
+24,143,16/04/2019,00:58
+24,128,17/04/2019,00:19
+24,143,22/04/2019,00:37
+24,143,23/04/2019,00:24
+24,143,24/04/2019,00:39
+24,143,25/04/2019,00:27
+24,143,26/04/2019,00:39
+24,143,29/04/2019,00:27
+24,143,30/04/2019,01:03
+24,143,02/05/2019,01:01
+24,143,03/05/2019,01:01
+24,143,06/05/2019,00:43
+24,143,07/05/2019,00:37
+24,143,08/05/2019,00:45
+24,143,09/05/2019,00:37
+24,143,10/05/2019,00:37
+24,143,13/05/2019,00:24
+24,143,14/05/2019,00:39
+24,143,15/05/2019,01:03
+24,143,16/05/2019,01:00
+24,143,17/05/2019,00:57
+24,143,20/05/2019,00:54
+24,143,21/05/2019,00:37
+24,143,22/05/2019,00:24
+24,128,23/05/2019,00:21
+24,128,24/05/2019,00:22
+24,143,27/05/2019,00:27
+24,135,28/05/2019,00:21
+24,135,29/05/2019,00:22
+24,135,30/05/2019,00:58
+24,143,31/05/2019,01:01
+24,135,04/06/2019,00:24
+24,135,05/06/2019,00:43
+24,128,06/06/2019,00:24
+24,120,07/06/2019,00:10
+24,120,10/06/2019,00:10
+24,143,11/06/2019,00:37
+24,143,12/06/2019,00:24
+24,143,13/06/2019,00:39
+24,143,14/06/2019,01:03
+24,143,17/06/2019,01:00
+24,143,18/06/2019,00:57
+24,143,19/06/2019,00:54
+24,143,20/06/2019,00:37
+24,143,21/06/2019,00:24
+24,143,25/06/2019,00:27
+24,135,26/06/2019,00:21
+24,128,27/06/2019,00:22
+24,143,28/06/2019,01:00
+24,135,02/07/2019,00:24
+24,135,03/07/2019,00:43
+24,128,04/07/2019,00:24
+24,128,05/07/2019,00:10
+24,120,08/07/2019,00:28
+24,143,09/07/2019,00:37
+24,143,10/07/2019,00:24
+24,143,11/07/2019,00:39
+24,143,12/07/2019,01:03
+24,143,15/07/2019,01:00
+24,143,16/07/2019,01:00
+24,143,17/07/2019,00:57
+24,143,18/07/2019,00:54
+24,143,19/07/2019,00:37
+24,143,22/07/2019,00:33
+24,135,23/07/2019,00:21
+24,128,24/07/2019,00:22
+24,143,25/07/2019,00:28
+24,135,26/07/2019,00:21
+24,128,29/07/2019,00:22
+24,120,30/07/2019,00:57
+24,143,31/07/2019,00:58
+24,135,01/08/2019,00:39
+24,120,02/08/2019,00:43
+24,128,05/08/2019,00:24
+24,143,06/08/2019,00:43
+24,143,08/08/2019,00:37
+24,143,09/08/2019,00:45
+24,143,12/08/2019,00:37
+24,143,13/08/2019,00:37
+24,143,14/08/2019,00:39
+24,143,15/08/2019,00:58
+24,143,16/08/2019,00:55
+24,143,20/08/2019,00:45
+24,143,21/08/2019,00:30
+24,143,22/08/2019,00:42
+24,143,23/08/2019,00:39
+24,143,26/08/2019,00:37
+24,143,27/08/2019,00:24
+24,143,28/08/2019,00:27
+24,143,29/08/2019,00:37
+24,143,30/08/2019,01:07
+24,143,02/09/2019,00:58
+24,143,03/09/2019,00:55
+24,143,04/09/2019,00:39
+24,143,05/09/2019,00:34
+24,143,06/09/2019,00:33
+24,143,09/09/2019,00:45
+24,143,10/09/2019,00:37
+24,143,11/09/2019,00:37
+24,143,12/09/2019,00:39
+24,143,13/09/2019,01:07
+24,143,16/09/2019,00:54
+24,143,17/09/2019,00:55
+24,143,18/09/2019,00:45
+24,143,19/09/2019,00:40
+24,143,20/09/2019,00:33
+24,143,23/09/2019,00:25
+24,143,24/09/2019,00:30
+24,143,25/09/2019,00:34
+24,143,26/09/2019,00:16
+24,143,27/09/2019,00:31
+24,143,30/09/2019,00:58
+24,143,01/10/2019,00:58
+24,143,02/10/2019,00:55
+24,143,03/10/2019,00:39
+24,143,04/10/2019,00:34
+24,143,07/10/2019,00:33
+24,143,08/10/2019,00:45
+24,143,09/10/2019,00:37
+24,143,10/10/2019,00:37
+24,143,11/10/2019,00:39
+24,143,15/10/2019,01:00
+24,143,16/10/2019,00:28
+24,143,17/10/2019,00:33
+24,143,18/10/2019,00:43
+24,143,21/10/2019,00:33
+24,143,22/10/2019,00:25
+24,135,23/10/2019,00:21
+24,128,24/10/2019,00:22
+24,143,25/10/2019,00:34
+24,135,28/10/2019,00:13
+24,128,29/10/2019,00:22
+24,120,30/10/2019,00:58
+24,143,31/10/2019,01:01
+24,135,01/11/2019,01:01
+24,135,05/11/2019,00:25
+24,128,06/11/2019,00:28
+24,120,07/11/2019,00:28
+24,143,08/11/2019,00:45
+24,143,12/11/2019,00:37
+24,143,13/11/2019,00:37
+24,143,14/11/2019,00:39
+24,143,15/11/2019,01:00
+197,33,01/11/2018,00:15
+197,33,02/11/2018,00:07
+197,30,06/11/2018,00:03
+197,28,07/11/2018,00:01
+197,28,08/11/2018,00:02
+197,30,09/11/2018,00:05
+197,31,13/11/2018,00:06
+197,32,14/11/2018,00:13
+197,32,15/11/2018,00:12
+197,32,16/11/2018,00:23
+197,32,19/11/2018,00:21
+197,32,20/11/2018,00:21
+197,30,21/11/2018,00:15
+197,30,22/11/2018,00:12
+197,30,23/11/2018,00:08
+197,28,26/11/2018,00:05
+197,27,27/11/2018,00:04
+197,27,28/11/2018,00:07
+197,27,29/11/2018,00:07
+197,48,30/11/2018,00:22
+197,45,03/12/2018,00:14
+197,43,04/12/2018,00:07
+197,40,05/12/2018,00:03
+197,43,06/12/2018,00:01
+197,40,07/12/2018,00:01
+197,48,10/12/2018,00:21
+197,48,11/12/2018,00:21
+197,48,12/12/2018,00:15
+197,48,13/12/2018,00:12
+197,48,14/12/2018,00:08
+197,48,17/12/2018,00:20
+197,48,18/12/2018,00:19
+197,48,19/12/2018,00:16
+197,48,20/12/2018,00:13
+197,48,21/12/2018,00:09
+197,45,24/12/2018,00:05
+197,43,26/12/2018,00:04
+197,40,27/12/2018,00:07
+197,48,28/12/2018,00:09
+197,30,31/12/2018,00:21
+197,20,02/01/2019,00:15
+197,23,03/01/2019,00:07
+197,24,04/01/2019,00:03
+197,28,08/01/2019,00:03
+197,28,09/01/2019,00:01
+197,28,10/01/2019,00:02
+197,28,11/01/2019,00:03
+197,25,14/01/2019,00:05
+197,40,15/01/2019,00:10
+197,40,16/01/2019,00:06
+197,38,17/01/2019,00:04
+197,40,18/01/2019,00:19
+197,34,21/01/2019,00:05
+197,28,22/01/2019,00:04
+197,28,23/01/2019,00:07
+197,28,24/01/2019,00:05
+197,40,25/01/2019,00:10
+197,38,28/01/2019,00:05
+197,38,29/01/2019,00:04
+197,40,30/01/2019,00:07
+197,40,31/01/2019,00:22
+197,38,01/02/2019,00:15
+197,40,04/02/2019,00:07
+197,40,05/02/2019,00:03
+197,40,06/02/2019,00:03
+197,40,07/02/2019,00:01
+197,43,08/02/2019,00:14
+197,43,11/02/2019,00:12
+197,43,12/02/2019,00:15
+197,43,13/02/2019,00:12
+197,43,14/02/2019,00:08
+197,48,15/02/2019,00:20
+197,48,18/02/2019,00:19
+197,48,19/02/2019,00:16
+197,45,20/02/2019,00:13
+197,45,21/02/2019,00:09
+197,35,22/02/2019,00:06
+197,48,25/02/2019,00:13
+197,45,26/02/2019,00:03
+197,45,27/02/2019,00:01
+197,48,28/02/2019,00:22
+197,45,01/03/2019,00:15
+197,40,04/03/2019,00:07
+197,40,05/03/2019,00:07
+197,40,06/03/2019,00:03
+197,43,07/03/2019,00:03
+197,48,08/03/2019,00:14
+197,48,11/03/2019,00:12
+197,48,12/03/2019,00:15
+197,48,13/03/2019,00:12
+197,48,14/03/2019,00:08
+197,48,15/03/2019,00:20
+197,48,18/03/2019,00:19
+197,48,19/03/2019,00:16
+197,48,20/03/2019,00:13
+197,48,21/03/2019,00:09
+197,43,22/03/2019,00:06
+197,48,26/03/2019,00:09
+197,43,27/03/2019,00:07
+197,43,28/03/2019,00:07
+197,48,29/03/2019,00:21
+197,45,01/04/2019,00:14
+197,45,02/04/2019,00:14
+197,43,03/04/2019,00:09
+197,43,04/04/2019,00:08
+197,48,05/04/2019,00:14
+197,43,08/04/2019,00:08
+197,48,09/04/2019,00:14
+197,48,10/04/2019,00:12
+197,48,11/04/2019,00:15
+197,48,12/04/2019,00:12
+197,48,15/04/2019,00:20
+197,48,16/04/2019,00:19
+197,43,17/04/2019,00:06
+197,48,22/04/2019,00:12
+197,48,23/04/2019,00:08
+197,48,24/04/2019,00:13
+197,48,25/04/2019,00:09
+197,48,26/04/2019,00:13
+197,48,29/04/2019,00:09
+197,48,30/04/2019,00:21
+197,48,02/05/2019,00:20
+197,48,03/05/2019,00:20
+197,48,06/05/2019,00:14
+197,48,07/05/2019,00:12
+197,48,08/05/2019,00:15
+197,48,09/05/2019,00:12
+197,48,10/05/2019,00:12
+197,48,13/05/2019,00:08
+197,48,14/05/2019,00:13
+197,48,15/05/2019,00:21
+197,48,16/05/2019,00:20
+197,48,17/05/2019,00:19
+197,48,20/05/2019,00:18
+197,48,21/05/2019,00:12
+197,48,22/05/2019,00:08
+197,43,23/05/2019,00:07
+197,43,24/05/2019,00:07
+197,48,27/05/2019,00:09
+197,45,28/05/2019,00:07
+197,45,29/05/2019,00:07
+197,45,30/05/2019,00:19
+197,48,31/05/2019,00:20
+197,45,04/06/2019,00:08
+197,45,05/06/2019,00:14
+197,43,06/06/2019,00:08
+197,40,07/06/2019,00:03
+197,40,10/06/2019,00:03
+197,48,11/06/2019,00:12
+197,48,12/06/2019,00:08
+197,48,13/06/2019,00:13
+197,48,14/06/2019,00:21
+197,48,17/06/2019,00:20
+197,48,18/06/2019,00:19
+197,48,19/06/2019,00:18
+197,48,20/06/2019,00:12
+197,48,21/06/2019,00:08
+197,48,25/06/2019,00:09
+197,45,26/06/2019,00:07
+197,43,27/06/2019,00:07
+197,48,28/06/2019,00:20
+197,45,02/07/2019,00:08
+197,45,03/07/2019,00:14
+197,43,04/07/2019,00:08
+197,43,05/07/2019,00:03
+197,40,08/07/2019,00:09
+197,48,09/07/2019,00:12
+197,48,10/07/2019,00:08
+197,48,11/07/2019,00:13
+197,48,12/07/2019,00:21
+197,48,15/07/2019,00:20
+197,48,16/07/2019,00:20
+197,48,17/07/2019,00:19
+197,48,18/07/2019,00:18
+197,48,19/07/2019,00:12
+197,48,22/07/2019,00:11
+197,45,23/07/2019,00:07
+197,43,24/07/2019,00:07
+197,48,25/07/2019,00:09
+197,45,26/07/2019,00:07
+197,43,29/07/2019,00:07
+197,40,30/07/2019,00:19
+197,48,31/07/2019,00:19
+197,45,01/08/2019,00:13
+197,40,02/08/2019,00:14
+197,43,05/08/2019,00:08
+197,48,06/08/2019,00:14
+197,48,08/08/2019,00:12
+197,48,09/08/2019,00:15
+197,48,12/08/2019,00:12
+197,48,13/08/2019,00:12
+197,48,14/08/2019,00:13
+197,48,15/08/2019,00:19
+197,48,16/08/2019,00:18
+197,48,20/08/2019,00:15
+197,48,21/08/2019,00:10
+197,48,22/08/2019,00:14
+197,48,23/08/2019,00:13
+197,48,26/08/2019,00:12
+197,48,27/08/2019,00:08
+197,48,28/08/2019,00:09
+197,48,29/08/2019,00:12
+197,48,30/08/2019,00:22
+197,48,02/09/2019,00:19
+197,48,03/09/2019,00:18
+197,48,04/09/2019,00:13
+197,48,05/09/2019,00:11
+197,48,06/09/2019,00:11
+197,48,09/09/2019,00:15
+197,48,10/09/2019,00:12
+197,48,11/09/2019,00:12
+197,48,12/09/2019,00:13
+197,48,13/09/2019,00:22
+197,48,16/09/2019,00:18
+197,48,17/09/2019,00:18
+197,48,18/09/2019,00:15
+197,48,19/09/2019,00:13
+197,48,20/09/2019,00:11
+197,48,23/09/2019,00:08
+197,48,24/09/2019,00:10
+197,48,25/09/2019,00:11
+197,48,26/09/2019,00:05
+197,48,27/09/2019,00:10
+197,48,30/09/2019,00:19
+197,48,01/10/2019,00:19
+197,48,02/10/2019,00:18
+197,48,03/10/2019,00:13
+197,48,04/10/2019,00:11
+197,48,07/10/2019,00:11
+197,48,08/10/2019,00:15
+197,48,09/10/2019,00:12
+197,48,10/10/2019,00:12
+197,48,11/10/2019,00:13
+197,48,15/10/2019,00:20
+197,48,16/10/2019,00:09
+197,48,17/10/2019,00:11
+197,48,18/10/2019,00:14
+197,48,21/10/2019,00:11
+197,48,22/10/2019,00:08
+197,45,23/10/2019,00:07
+197,43,24/10/2019,00:07
+197,48,25/10/2019,00:11
+197,45,28/10/2019,00:04
+197,43,29/10/2019,00:07
+197,40,30/10/2019,00:19
+197,48,31/10/2019,00:20
+197,45,01/11/2019,00:20
+197,45,05/11/2019,00:08
+197,43,06/11/2019,00:09
+197,40,07/11/2019,00:09
+197,48,08/11/2019,00:15
+197,48,12/11/2019,00:12
+197,48,13/11/2019,00:12
+197,48,14/11/2019,00:13
+197,48,15/11/2019,00:20
+432,130,01/11/2018,01:00
+432,130,02/11/2018,00:30
+432,120,06/11/2018,00:14
+432,110,07/11/2018,00:06
+432,110,08/11/2018,00:08
+432,120,09/11/2018,00:20
+432,122,13/11/2018,00:24
+432,126,14/11/2018,00:54
+432,126,15/11/2018,00:50
+432,126,16/11/2018,01:32
+432,128,19/11/2018,01:26
+432,128,20/11/2018,01:26
+432,120,21/11/2018,01:00
+432,120,22/11/2018,00:50
+432,120,23/11/2018,00:32
+432,110,26/11/2018,00:20
+432,108,27/11/2018,00:16
+432,106,28/11/2018,00:28
+432,106,29/11/2018,00:30
+432,190,30/11/2018,01:30
+432,180,03/12/2018,00:58
+432,170,04/12/2018,00:28
+432,160,05/12/2018,00:12
+432,170,06/12/2018,00:04
+432,160,07/12/2018,00:06
+432,190,10/12/2018,01:26
+432,190,11/12/2018,01:26
+432,190,12/12/2018,01:00
+432,190,13/12/2018,00:50
+432,190,14/12/2018,00:32
+432,190,17/12/2018,01:20
+432,190,18/12/2018,01:18
+432,190,19/12/2018,01:04
+432,190,20/12/2018,00:52
+432,190,21/12/2018,00:36
+432,180,24/12/2018,00:20
+432,170,26/12/2018,00:16
+432,160,27/12/2018,00:28
+432,190,28/12/2018,00:38
+432,120,31/12/2018,01:26
+432,80,02/01/2019,01:00
+432,90,03/01/2019,00:30
+432,94,04/01/2019,00:14
+432,110,08/01/2019,00:14
+432,110,09/01/2019,00:06
+432,110,10/01/2019,00:08
+432,110,11/01/2019,00:12
+432,100,14/01/2019,00:20
+432,160,15/01/2019,00:40
+432,160,16/01/2019,00:24
+432,150,17/01/2019,00:16
+432,160,18/01/2019,01:18
+432,136,21/01/2019,00:20
+432,110,22/01/2019,00:18
+432,110,23/01/2019,00:28
+432,110,24/01/2019,00:20
+432,160,25/01/2019,00:42
+432,150,28/01/2019,00:20
+432,150,29/01/2019,00:16
+432,160,30/01/2019,00:28
+432,160,31/01/2019,01:30
+432,150,01/02/2019,01:00
+432,160,04/02/2019,00:30
+432,160,05/02/2019,00:14
+432,160,06/02/2019,00:14
+432,160,07/02/2019,00:06
+432,170,08/02/2019,00:58
+432,170,11/02/2019,00:50
+432,170,12/02/2019,01:00
+432,170,13/02/2019,00:50
+432,170,14/02/2019,00:32
+432,190,15/02/2019,01:20
+432,190,18/02/2019,01:18
+432,190,19/02/2019,01:04
+432,180,20/02/2019,00:52
+432,180,21/02/2019,00:36
+432,140,22/02/2019,00:26
+432,190,25/02/2019,00:52
+432,180,26/02/2019,00:14
+432,180,27/02/2019,00:06
+432,190,28/02/2019,01:28
+432,180,01/03/2019,01:02
+432,160,04/03/2019,00:28
+432,160,05/03/2019,00:30
+432,160,06/03/2019,00:14
+432,170,07/03/2019,00:14
+432,190,08/03/2019,00:58
+432,190,11/03/2019,00:50
+432,190,12/03/2019,01:00
+432,190,13/03/2019,00:50
+432,190,14/03/2019,00:32
+432,190,15/03/2019,01:20
+432,190,18/03/2019,01:18
+432,190,19/03/2019,01:04
+432,190,20/03/2019,00:52
+432,190,21/03/2019,00:36
+432,170,22/03/2019,00:26
+432,190,26/03/2019,00:36
+432,170,27/03/2019,00:28
+432,170,28/03/2019,00:30
+432,190,29/03/2019,01:26
+432,180,01/04/2019,00:58
+432,180,02/04/2019,00:56
+432,170,03/04/2019,00:36
+432,170,04/04/2019,00:32
+432,190,05/04/2019,00:58
+432,170,08/04/2019,00:32
+432,190,09/04/2019,00:58
+432,190,10/04/2019,00:50
+432,190,11/04/2019,01:00
+432,190,12/04/2019,00:50
+432,190,15/04/2019,01:20
+432,190,16/04/2019,01:18
+432,170,17/04/2019,00:26
+432,190,22/04/2019,00:50
+432,190,23/04/2019,00:32
+432,190,24/04/2019,00:52
+432,190,25/04/2019,00:36
+432,190,26/04/2019,00:52
+432,190,29/04/2019,00:36
+432,190,30/04/2019,01:24
+432,190,02/05/2019,01:22
+432,190,03/05/2019,01:22
+432,190,06/05/2019,00:58
+432,190,07/05/2019,00:50
+432,190,08/05/2019,01:00
+432,190,09/05/2019,00:50
+432,190,10/05/2019,00:50
+432,190,13/05/2019,00:32
+432,190,14/05/2019,00:52
+432,190,15/05/2019,01:24
+432,190,16/05/2019,01:20
+432,190,17/05/2019,01:16
+432,190,20/05/2019,01:12
+432,190,21/05/2019,00:50
+432,190,22/05/2019,00:32
+432,170,23/05/2019,00:28
+432,170,24/05/2019,00:30
+432,190,27/05/2019,00:36
+432,180,28/05/2019,00:28
+432,180,29/05/2019,00:30
+432,180,30/05/2019,01:18
+432,190,31/05/2019,01:22
+432,180,04/06/2019,00:32
+432,180,05/06/2019,00:58
+432,170,06/06/2019,00:32
+432,160,07/06/2019,00:14
+432,160,10/06/2019,00:14
+432,190,11/06/2019,00:50
+432,190,12/06/2019,00:32
+432,190,13/06/2019,00:52
+432,190,14/06/2019,01:24
+432,190,17/06/2019,01:20
+432,190,18/06/2019,01:16
+432,190,19/06/2019,01:12
+432,190,20/06/2019,00:50
+432,190,21/06/2019,00:32
+432,190,25/06/2019,00:36
+432,180,26/06/2019,00:28
+432,170,27/06/2019,00:30
+432,190,28/06/2019,01:20
+432,180,02/07/2019,00:32
+432,180,03/07/2019,00:58
+432,170,04/07/2019,00:32
+432,170,05/07/2019,00:14
+432,160,08/07/2019,00:38
+432,190,09/07/2019,00:50
+432,190,10/07/2019,00:32
+432,190,11/07/2019,00:52
+432,190,12/07/2019,01:24
+432,190,15/07/2019,01:20
+432,190,16/07/2019,01:20
+432,190,17/07/2019,01:16
+432,190,18/07/2019,01:12
+432,190,19/07/2019,00:50
+432,190,22/07/2019,00:44
+432,180,23/07/2019,00:28
+432,170,24/07/2019,00:30
+432,190,25/07/2019,00:38
+432,180,26/07/2019,00:28
+432,170,29/07/2019,00:30
+432,160,30/07/2019,01:16
+432,190,31/07/2019,01:18
+432,180,01/08/2019,00:52
+432,160,02/08/2019,00:58
+432,170,05/08/2019,00:32
+432,190,06/08/2019,00:58
+432,190,08/08/2019,00:50
+432,190,09/08/2019,01:00
+432,190,12/08/2019,00:50
+432,190,13/08/2019,00:50
+432,190,14/08/2019,00:52
+432,190,15/08/2019,01:18
+432,190,16/08/2019,01:14
+432,190,20/08/2019,01:00
+432,190,21/08/2019,00:40
+432,190,22/08/2019,00:56
+432,190,23/08/2019,00:52
+432,190,26/08/2019,00:50
+432,190,27/08/2019,00:32
+432,190,28/08/2019,00:36
+432,190,29/08/2019,00:50
+432,190,30/08/2019,01:30
+432,190,02/09/2019,01:18
+432,190,03/09/2019,01:14
+432,190,04/09/2019,00:52
+432,190,05/09/2019,00:46
+432,190,06/09/2019,00:44
+432,190,09/09/2019,01:00
+432,190,10/09/2019,00:50
+432,190,11/09/2019,00:50
+432,190,12/09/2019,00:52
+432,190,13/09/2019,01:30
+432,190,16/09/2019,01:12
+432,190,17/09/2019,01:14
+432,190,18/09/2019,01:00
+432,190,19/09/2019,00:54
+432,190,20/09/2019,00:44
+432,190,23/09/2019,00:34
+432,190,24/09/2019,00:40
+432,190,25/09/2019,00:46
+432,190,26/09/2019,00:22
+432,190,27/09/2019,00:42
+432,190,30/09/2019,01:18
+432,190,01/10/2019,01:18
+432,190,02/10/2019,01:14
+432,190,03/10/2019,00:52
+432,190,04/10/2019,00:46
+432,190,07/10/2019,00:44
+432,190,08/10/2019,01:00
+432,190,09/10/2019,00:50
+432,190,10/10/2019,00:50
+432,190,11/10/2019,00:52
+432,190,15/10/2019,01:20
+432,190,16/10/2019,00:38
+432,190,17/10/2019,00:44
+432,190,18/10/2019,00:58
+432,190,21/10/2019,00:44
+432,190,22/10/2019,00:34
+432,180,23/10/2019,00:28
+432,170,24/10/2019,00:30
+432,190,25/10/2019,00:46
+432,180,28/10/2019,00:18
+432,170,29/10/2019,00:30
+432,160,30/10/2019,01:18
+432,190,31/10/2019,01:22
+432,180,01/11/2019,01:22
+432,180,05/11/2019,00:34
+432,170,06/11/2019,00:38
+432,160,07/11/2019,00:38
+432,190,08/11/2019,01:00
+432,190,12/11/2019,00:50
+432,190,13/11/2019,00:50
+432,190,14/11/2019,00:52
+432,190,15/11/2019,01:20
+923,163,01/11/2018,01:15
+923,163,02/11/2018,00:37
+923,150,06/11/2018,00:17
+923,138,07/11/2018,00:07
+923,138,08/11/2018,00:10
+923,150,09/11/2018,00:25
+923,153,13/11/2018,00:30
+923,158,14/11/2018,01:07
+923,158,15/11/2018,01:02
+923,158,16/11/2018,01:55
+923,160,19/11/2018,01:47
+923,160,20/11/2018,01:47
+923,150,21/11/2018,01:15
+923,150,22/11/2018,01:02
+923,150,23/11/2018,00:40
+923,138,26/11/2018,00:25
+923,135,27/11/2018,00:20
+923,133,28/11/2018,00:35
+923,133,29/11/2018,00:37
+923,238,30/11/2018,01:52
+923,225,03/12/2018,01:12
+923,213,04/12/2018,00:35
+923,200,05/12/2018,00:15
+923,213,06/12/2018,00:05
+923,200,07/12/2018,00:07
+923,238,10/12/2018,01:47
+923,238,11/12/2018,01:47
+923,238,12/12/2018,01:15
+923,238,13/12/2018,01:02
+923,238,14/12/2018,00:40
+923,238,17/12/2018,01:40
+923,238,18/12/2018,01:37
+923,238,19/12/2018,01:20
+923,238,20/12/2018,01:05
+923,238,21/12/2018,00:45
+923,225,24/12/2018,00:25
+923,213,26/12/2018,00:20
+923,200,27/12/2018,00:35
+923,238,28/12/2018,00:47
+923,150,31/12/2018,01:47
+923,100,02/01/2019,01:15
+923,113,03/01/2019,00:37
+923,118,04/01/2019,00:17
+923,138,08/01/2019,00:17
+923,138,09/01/2019,00:07
+923,138,10/01/2019,00:10
+923,138,11/01/2019,00:15
+923,125,14/01/2019,00:25
+923,200,15/01/2019,00:50
+923,200,16/01/2019,00:30
+923,188,17/01/2019,00:20
+923,200,18/01/2019,01:37
+923,170,21/01/2019,00:25
+923,138,22/01/2019,00:22
+923,138,23/01/2019,00:35
+923,138,24/01/2019,00:25
+923,200,25/01/2019,00:52
+923,188,28/01/2019,00:25
+923,188,29/01/2019,00:20
+923,200,30/01/2019,00:35
+923,200,31/01/2019,01:52
+923,188,01/02/2019,01:15
+923,200,04/02/2019,00:37
+923,200,05/02/2019,00:17
+923,200,06/02/2019,00:17
+923,200,07/02/2019,00:07
+923,213,08/02/2019,01:12
+923,213,11/02/2019,01:02
+923,213,12/02/2019,01:15
+923,213,13/02/2019,01:02
+923,213,14/02/2019,00:40
+923,238,15/02/2019,01:40
+923,238,18/02/2019,01:37
+923,238,19/02/2019,01:20
+923,225,20/02/2019,01:05
+923,225,21/02/2019,00:45
+923,175,22/02/2019,00:32
+923,238,25/02/2019,01:05
+923,225,26/02/2019,00:17
+923,225,27/02/2019,00:07
+923,238,28/02/2019,01:50
+923,225,01/03/2019,01:17
+923,200,04/03/2019,00:35
+923,200,05/03/2019,00:37
+923,200,06/03/2019,00:17
+923,213,07/03/2019,00:17
+923,238,08/03/2019,01:12
+923,238,11/03/2019,01:02
+923,238,12/03/2019,01:15
+923,238,13/03/2019,01:02
+923,238,14/03/2019,00:40
+923,238,15/03/2019,01:40
+923,238,18/03/2019,01:37
+923,238,19/03/2019,01:20
+923,238,20/03/2019,01:05
+923,238,21/03/2019,00:45
+923,213,22/03/2019,00:32
+923,238,26/03/2019,00:45
+923,213,27/03/2019,00:35
+923,213,28/03/2019,00:37
+923,238,29/03/2019,01:47
+923,225,01/04/2019,01:12
+923,225,02/04/2019,01:10
+923,213,03/04/2019,00:45
+923,213,04/04/2019,00:40
+923,238,05/04/2019,01:12
+923,213,08/04/2019,00:40
+923,238,09/04/2019,01:12
+923,238,10/04/2019,01:02
+923,238,11/04/2019,01:15
+923,238,12/04/2019,01:02
+923,238,15/04/2019,01:40
+923,238,16/04/2019,01:37
+923,213,17/04/2019,00:32
+923,238,22/04/2019,01:02
+923,238,23/04/2019,00:40
+923,238,24/04/2019,01:05
+923,238,25/04/2019,00:45
+923,238,26/04/2019,01:05
+923,238,29/04/2019,00:45
+923,238,30/04/2019,01:45
+923,238,02/05/2019,01:42
+923,238,03/05/2019,01:42
+923,238,06/05/2019,01:12
+923,238,07/05/2019,01:02
+923,238,08/05/2019,01:15
+923,238,09/05/2019,01:02
+923,238,10/05/2019,01:02
+923,238,13/05/2019,00:40
+923,238,14/05/2019,01:05
+923,238,15/05/2019,01:45
+923,238,16/05/2019,01:40
+923,238,17/05/2019,01:35
+923,238,20/05/2019,01:30
+923,238,21/05/2019,01:02
+923,238,22/05/2019,00:40
+923,213,23/05/2019,00:35
+923,213,24/05/2019,00:37
+923,238,27/05/2019,00:45
+923,225,28/05/2019,00:35
+923,225,29/05/2019,00:37
+923,225,30/05/2019,01:37
+923,238,31/05/2019,01:42
+923,225,04/06/2019,00:40
+923,225,05/06/2019,01:12
+923,213,06/06/2019,00:40
+923,200,07/06/2019,00:17
+923,200,10/06/2019,00:17
+923,238,11/06/2019,01:02
+923,238,12/06/2019,00:40
+923,238,13/06/2019,01:05
+923,238,14/06/2019,01:45
+923,238,17/06/2019,01:40
+923,238,18/06/2019,01:35
+923,238,19/06/2019,01:30
+923,238,20/06/2019,01:02
+923,238,21/06/2019,00:40
+923,238,25/06/2019,00:45
+923,225,26/06/2019,00:35
+923,213,27/06/2019,00:37
+923,238,28/06/2019,01:40
+923,225,02/07/2019,00:40
+923,225,03/07/2019,01:12
+923,213,04/07/2019,00:40
+923,213,05/07/2019,00:17
+923,200,08/07/2019,00:47
+923,238,09/07/2019,01:02
+923,238,10/07/2019,00:40
+923,238,11/07/2019,01:05
+923,238,12/07/2019,01:45
+923,238,15/07/2019,01:40
+923,238,16/07/2019,01:40
+923,238,17/07/2019,01:35
+923,238,18/07/2019,01:30
+923,238,19/07/2019,01:02
+923,238,22/07/2019,00:55
+923,225,23/07/2019,00:35
+923,213,24/07/2019,00:37
+923,238,25/07/2019,00:47
+923,225,26/07/2019,00:35
+923,213,29/07/2019,00:37
+923,200,30/07/2019,01:35
+923,238,31/07/2019,01:37
+923,225,01/08/2019,01:05
+923,200,02/08/2019,01:12
+923,213,05/08/2019,00:40
+923,238,06/08/2019,01:12
+923,238,08/08/2019,01:02
+923,238,09/08/2019,01:15
+923,238,12/08/2019,01:02
+923,238,13/08/2019,01:02
+923,238,14/08/2019,01:05
+923,238,15/08/2019,01:37
+923,238,16/08/2019,01:32
+923,238,20/08/2019,01:15
+923,238,21/08/2019,00:50
+923,238,22/08/2019,01:10
+923,238,23/08/2019,01:05
+923,238,26/08/2019,01:02
+923,238,27/08/2019,00:40
+923,238,28/08/2019,00:45
+923,238,29/08/2019,01:02
+923,238,30/08/2019,01:52
+923,238,02/09/2019,01:37
+923,238,03/09/2019,01:32
+923,238,04/09/2019,01:05
+923,238,05/09/2019,00:57
+923,238,06/09/2019,00:55
+923,238,09/09/2019,01:15
+923,238,10/09/2019,01:02
+923,238,11/09/2019,01:02
+923,238,12/09/2019,01:05
+923,238,13/09/2019,01:52
+923,238,16/09/2019,01:30
+923,238,17/09/2019,01:32
+923,238,18/09/2019,01:15
+923,238,19/09/2019,01:07
+923,238,20/09/2019,00:55
+923,238,23/09/2019,00:42
+923,238,24/09/2019,00:50
+923,238,25/09/2019,00:57
+923,238,26/09/2019,00:27
+923,238,27/09/2019,00:52
+923,238,30/09/2019,01:37
+923,238,01/10/2019,01:37
+923,238,02/10/2019,01:32
+923,238,03/10/2019,01:05
+923,238,04/10/2019,00:57
+923,238,07/10/2019,00:55
+923,238,08/10/2019,01:15
+923,238,09/10/2019,01:02
+923,238,10/10/2019,01:02
+923,238,11/10/2019,01:05
+923,238,15/10/2019,01:40
+923,238,16/10/2019,00:47
+923,238,17/10/2019,00:55
+923,238,18/10/2019,01:12
+923,238,21/10/2019,00:55
+923,238,22/10/2019,00:42
+923,225,23/10/2019,00:35
+923,213,24/10/2019,00:37
+923,238,25/10/2019,00:57
+923,225,28/10/2019,00:22
+923,213,29/10/2019,00:37
+923,200,30/10/2019,01:37
+923,238,31/10/2019,01:42
+923,225,01/11/2019,01:42
+923,225,05/11/2019,00:42
+923,213,06/11/2019,00:47
+923,200,07/11/2019,00:47
+923,238,08/11/2019,01:15
+923,238,12/11/2019,01:02
+923,238,13/11/2019,01:02
+923,238,14/11/2019,01:05
+923,238,15/11/2019,01:40
+63,195,01/11/2018,01:30
+63,195,02/11/2018,00:45
+63,180,06/11/2018,00:21
+63,165,07/11/2018,00:09
+63,165,08/11/2018,00:12
+63,180,09/11/2018,00:30
+63,183,13/11/2018,00:36
+63,189,14/11/2018,01:21
+63,189,15/11/2018,01:15
+63,189,16/11/2018,02:18
+63,192,19/11/2018,02:09
+63,192,20/11/2018,02:09
+63,180,21/11/2018,01:30
+63,180,22/11/2018,01:15
+63,180,23/11/2018,00:48
+63,165,26/11/2018,00:30
+63,162,27/11/2018,00:24
+63,159,28/11/2018,00:42
+63,159,29/11/2018,00:45
+63,285,30/11/2018,02:15
+63,270,03/12/2018,01:27
+63,255,04/12/2018,00:42
+63,240,05/12/2018,00:18
+63,255,06/12/2018,00:06
+63,240,07/12/2018,00:09
+63,285,10/12/2018,02:09
+63,285,11/12/2018,02:09
+63,285,12/12/2018,01:30
+63,285,13/12/2018,01:15
+63,285,14/12/2018,00:48
+63,285,17/12/2018,02:00
+63,285,18/12/2018,01:57
+63,285,19/12/2018,01:36
+63,285,20/12/2018,01:18
+63,285,21/12/2018,00:54
+63,270,24/12/2018,00:30
+63,255,26/12/2018,00:24
+63,240,27/12/2018,00:42
+63,285,28/12/2018,00:57
+63,180,31/12/2018,02:09
+63,120,02/01/2019,01:30
+63,135,03/01/2019,00:45
+63,141,04/01/2019,00:21
+63,165,08/01/2019,00:21
+63,165,09/01/2019,00:09
+63,165,10/01/2019,00:12
+63,165,11/01/2019,00:18
+63,150,14/01/2019,00:30
+63,240,15/01/2019,01:00
+63,240,16/01/2019,00:36
+63,225,17/01/2019,00:24
+63,240,18/01/2019,01:57
+63,204,21/01/2019,00:30
+63,165,22/01/2019,00:27
+63,165,23/01/2019,00:42
+63,165,24/01/2019,00:30
+63,240,25/01/2019,01:03
+63,225,28/01/2019,00:30
+63,225,29/01/2019,00:24
+63,240,30/01/2019,00:42
+63,240,31/01/2019,02:15
+63,225,01/02/2019,01:30
+63,240,04/02/2019,00:45
+63,240,05/02/2019,00:21
+63,240,06/02/2019,00:21
+63,240,07/02/2019,00:09
+63,255,08/02/2019,01:27
+63,255,11/02/2019,01:15
+63,255,12/02/2019,01:30
+63,255,13/02/2019,01:15
+63,255,14/02/2019,00:48
+63,285,15/02/2019,02:00
+63,285,18/02/2019,01:57
+63,285,19/02/2019,01:36
+63,270,20/02/2019,01:18
+63,270,21/02/2019,00:54
+63,210,22/02/2019,00:39
+63,285,25/02/2019,01:18
+63,270,26/02/2019,00:21
+63,270,27/02/2019,00:09
+63,285,28/02/2019,02:12
+63,270,01/03/2019,01:33
+63,240,04/03/2019,00:42
+63,240,05/03/2019,00:45
+63,240,06/03/2019,00:21
+63,255,07/03/2019,00:21
+63,285,08/03/2019,01:27
+63,285,11/03/2019,01:15
+63,285,12/03/2019,01:30
+63,285,13/03/2019,01:15
+63,285,14/03/2019,00:48
+63,285,15/03/2019,02:00
+63,285,18/03/2019,01:57
+63,285,19/03/2019,01:36
+63,285,20/03/2019,01:18
+63,285,21/03/2019,00:54
+63,255,22/03/2019,00:39
+63,285,26/03/2019,00:54
+63,255,27/03/2019,00:42
+63,255,28/03/2019,00:45
+63,285,29/03/2019,02:09
+63,270,01/04/2019,01:27
+63,270,02/04/2019,01:24
+63,255,03/04/2019,00:54
+63,255,04/04/2019,00:48
+63,285,05/04/2019,01:27
+63,255,08/04/2019,00:48
+63,285,09/04/2019,01:27
+63,285,10/04/2019,01:15
+63,285,11/04/2019,01:30
+63,285,12/04/2019,01:15
+63,285,15/04/2019,02:00
+63,285,16/04/2019,01:57
+63,255,17/04/2019,00:39
+63,285,22/04/2019,01:15
+63,285,23/04/2019,00:48
+63,285,24/04/2019,01:18
+63,285,25/04/2019,00:54
+63,285,26/04/2019,01:18
+63,285,29/04/2019,00:54
+63,285,30/04/2019,02:06
+63,285,02/05/2019,02:03
+63,285,03/05/2019,02:03
+63,285,06/05/2019,01:27
+63,285,07/05/2019,01:15
+63,285,08/05/2019,01:30
+63,285,09/05/2019,01:15
+63,285,10/05/2019,01:15
+63,285,13/05/2019,00:48
+63,285,14/05/2019,01:18
+63,285,15/05/2019,02:06
+63,285,16/05/2019,02:00
+63,285,17/05/2019,01:54
+63,285,20/05/2019,01:48
+63,285,21/05/2019,01:15
+63,285,22/05/2019,00:48
+63,255,23/05/2019,00:42
+63,255,24/05/2019,00:45
+63,285,27/05/2019,00:54
+63,270,28/05/2019,00:42
+63,270,29/05/2019,00:45
+63,270,30/05/2019,01:57
+63,285,31/05/2019,02:03
+63,270,04/06/2019,00:48
+63,270,05/06/2019,01:27
+63,255,06/06/2019,00:48
+63,240,07/06/2019,00:21
+63,240,10/06/2019,00:21
+63,285,11/06/2019,01:15
+63,285,12/06/2019,00:48
+63,285,13/06/2019,01:18
+63,285,14/06/2019,02:06
+63,285,17/06/2019,02:00
+63,285,18/06/2019,01:54
+63,285,19/06/2019,01:48
+63,285,20/06/2019,01:15
+63,285,21/06/2019,00:48
+63,285,25/06/2019,00:54
+63,270,26/06/2019,00:42
+63,255,27/06/2019,00:45
+63,285,28/06/2019,02:00
+63,270,02/07/2019,00:48
+63,270,03/07/2019,01:27
+63,255,04/07/2019,00:48
+63,255,05/07/2019,00:21
+63,240,08/07/2019,00:57
+63,285,09/07/2019,01:15
+63,285,10/07/2019,00:48
+63,285,11/07/2019,01:18
+63,285,12/07/2019,02:06
+63,285,15/07/2019,02:00
+63,285,16/07/2019,02:00
+63,285,17/07/2019,01:54
+63,285,18/07/2019,01:48
+63,285,19/07/2019,01:15
+63,285,22/07/2019,01:06
+63,270,23/07/2019,00:42
+63,255,24/07/2019,00:45
+63,285,25/07/2019,00:57
+63,270,26/07/2019,00:42
+63,255,29/07/2019,00:45
+63,240,30/07/2019,01:54
+63,285,31/07/2019,01:57
+63,270,01/08/2019,01:18
+63,240,02/08/2019,01:27
+63,255,05/08/2019,00:48
+63,285,06/08/2019,01:27
+63,285,08/08/2019,01:15
+63,285,09/08/2019,01:30
+63,285,12/08/2019,01:15
+63,285,13/08/2019,01:15
+63,285,14/08/2019,01:18
+63,285,15/08/2019,01:57
+63,285,16/08/2019,01:51
+63,285,20/08/2019,01:30
+63,285,21/08/2019,01:00
+63,285,22/08/2019,01:24
+63,285,23/08/2019,01:18
+63,285,26/08/2019,01:15
+63,285,27/08/2019,00:48
+63,285,28/08/2019,00:54
+63,285,29/08/2019,01:15
+63,285,30/08/2019,02:15
+63,285,02/09/2019,01:57
+63,285,03/09/2019,01:51
+63,285,04/09/2019,01:18
+63,285,05/09/2019,01:09
+63,285,06/09/2019,01:06
+63,285,09/09/2019,01:30
+63,285,10/09/2019,01:15
+63,285,11/09/2019,01:15
+63,285,12/09/2019,01:18
+63,285,13/09/2019,02:15
+63,285,16/09/2019,01:48
+63,285,17/09/2019,01:51
+63,285,18/09/2019,01:30
+63,285,19/09/2019,01:21
+63,285,20/09/2019,01:06
+63,285,23/09/2019,00:51
+63,285,24/09/2019,01:00
+63,285,25/09/2019,01:09
+63,285,26/09/2019,00:33
+63,285,27/09/2019,01:03
+63,285,30/09/2019,01:57
+63,285,01/10/2019,01:57
+63,285,02/10/2019,01:51
+63,285,03/10/2019,01:18
+63,285,04/10/2019,01:09
+63,285,07/10/2019,01:06
+63,285,08/10/2019,01:30
+63,285,09/10/2019,01:15
+63,285,10/10/2019,01:15
+63,285,11/10/2019,01:18
+63,285,15/10/2019,02:00
+63,285,16/10/2019,00:57
+63,285,17/10/2019,01:06
+63,285,18/10/2019,01:27
+63,285,21/10/2019,01:06
+63,285,22/10/2019,00:51
+63,270,23/10/2019,00:42
+63,255,24/10/2019,00:45
+63,285,25/10/2019,01:09
+63,270,28/10/2019,00:27
+63,255,29/10/2019,00:45
+63,240,30/10/2019,01:57
+63,285,31/10/2019,02:03
+63,270,01/11/2019,02:03
+63,270,05/11/2019,00:51
+63,255,06/11/2019,00:57
+63,240,07/11/2019,00:57
+63,285,08/11/2019,01:30
+63,285,12/11/2019,01:15
+63,285,13/11/2019,01:15
+63,285,14/11/2019,01:18
+63,285,15/11/2019,02:00
+66,260,01/11/2018,02:00
+66,260,02/11/2018,01:00
+66,240,06/11/2018,00:28
+66,220,07/11/2018,00:12
+66,220,08/11/2018,00:16
+66,240,09/11/2018,00:40
+66,244,13/11/2018,00:48
+66,252,14/11/2018,01:48
+66,252,15/11/2018,01:40
+66,252,16/11/2018,03:04
+66,256,19/11/2018,02:52
+66,256,20/11/2018,02:52
+66,240,21/11/2018,02:00
+66,240,22/11/2018,01:40
+66,240,23/11/2018,01:04
+66,220,26/11/2018,00:40
+66,216,27/11/2018,00:32
+66,212,28/11/2018,00:56
+66,212,29/11/2018,01:00
+66,380,30/11/2018,03:00
+66,360,03/12/2018,01:56
+66,340,04/12/2018,00:56
+66,320,05/12/2018,00:24
+66,340,06/12/2018,00:08
+66,320,07/12/2018,00:12
+66,380,10/12/2018,02:52
+66,380,11/12/2018,02:52
+66,380,12/12/2018,02:00
+66,380,13/12/2018,01:40
+66,380,14/12/2018,01:04
+66,380,17/12/2018,02:40
+66,380,18/12/2018,02:36
+66,380,19/12/2018,02:08
+66,380,20/12/2018,01:44
+66,380,21/12/2018,01:12
+66,360,24/12/2018,00:40
+66,340,26/12/2018,00:32
+66,320,27/12/2018,00:56
+66,380,28/12/2018,01:16
+66,240,31/12/2018,02:52
+66,160,02/01/2019,02:00
+66,180,03/01/2019,01:00
+66,188,04/01/2019,00:28
+66,220,08/01/2019,00:28
+66,220,09/01/2019,00:12
+66,220,10/01/2019,00:16
+66,220,11/01/2019,00:24
+66,200,14/01/2019,00:40
+66,320,15/01/2019,01:20
+66,320,16/01/2019,00:48
+66,300,17/01/2019,00:32
+66,320,18/01/2019,02:36
+66,272,21/01/2019,00:40
+66,220,22/01/2019,00:36
+66,220,23/01/2019,00:56
+66,220,24/01/2019,00:40
+66,320,25/01/2019,01:24
+66,300,28/01/2019,00:40
+66,300,29/01/2019,00:32
+66,320,30/01/2019,00:56
+66,320,31/01/2019,03:00
+66,300,01/02/2019,02:00
+66,320,04/02/2019,01:00
+66,320,05/02/2019,00:28
+66,320,06/02/2019,00:28
+66,320,07/02/2019,00:12
+66,340,08/02/2019,01:56
+66,340,11/02/2019,01:40
+66,340,12/02/2019,02:00
+66,340,13/02/2019,01:40
+66,340,14/02/2019,01:04
+66,380,15/02/2019,02:40
+66,380,18/02/2019,02:36
+66,380,19/02/2019,02:08
+66,360,20/02/2019,01:44
+66,360,21/02/2019,01:12
+66,280,22/02/2019,00:52
+66,380,25/02/2019,01:44
+66,360,26/02/2019,00:28
+66,360,27/02/2019,00:12
+66,380,28/02/2019,02:56
+66,360,01/03/2019,02:04
+66,320,04/03/2019,00:56
+66,320,05/03/2019,01:00
+66,320,06/03/2019,00:28
+66,340,07/03/2019,00:28
+66,380,08/03/2019,01:56
+66,380,11/03/2019,01:40
+66,380,12/03/2019,02:00
+66,380,13/03/2019,01:40
+66,380,14/03/2019,01:04
+66,380,15/03/2019,02:40
+66,380,18/03/2019,02:36
+66,380,19/03/2019,02:08
+66,380,20/03/2019,01:44
+66,380,21/03/2019,01:12
+66,340,22/03/2019,00:52
+66,380,26/03/2019,01:12
+66,340,27/03/2019,00:56
+66,340,28/03/2019,01:00
+66,380,29/03/2019,02:52
+66,360,01/04/2019,01:56
+66,360,02/04/2019,01:52
+66,340,03/04/2019,01:12
+66,340,04/04/2019,01:04
+66,380,05/04/2019,01:56
+66,340,08/04/2019,01:04
+66,380,09/04/2019,01:56
+66,380,10/04/2019,01:40
+66,380,11/04/2019,02:00
+66,380,12/04/2019,01:40
+66,380,15/04/2019,02:40
+66,380,16/04/2019,02:36
+66,340,17/04/2019,00:52
+66,380,22/04/2019,01:40
+66,380,23/04/2019,01:04
+66,380,24/04/2019,01:44
+66,380,25/04/2019,01:12
+66,380,26/04/2019,01:44
+66,380,29/04/2019,01:12
+66,380,30/04/2019,02:48
+66,380,02/05/2019,02:44
+66,380,03/05/2019,02:44
+66,380,06/05/2019,01:56
+66,380,07/05/2019,01:40
+66,380,08/05/2019,02:00
+66,380,09/05/2019,01:40
+66,380,10/05/2019,01:40
+66,380,13/05/2019,01:04
+66,380,14/05/2019,01:44
+66,380,15/05/2019,02:48
+66,380,16/05/2019,02:40
+66,380,17/05/2019,02:32
+66,380,20/05/2019,02:24
+66,380,21/05/2019,01:40
+66,380,22/05/2019,01:04
+66,340,23/05/2019,00:56
+66,340,24/05/2019,01:00
+66,380,27/05/2019,01:12
+66,360,28/05/2019,00:56
+66,360,29/05/2019,01:00
+66,360,30/05/2019,02:36
+66,380,31/05/2019,02:44
+66,360,04/06/2019,01:04
+66,360,05/06/2019,01:56
+66,340,06/06/2019,01:04
+66,320,07/06/2019,00:28
+66,320,10/06/2019,00:28
+66,380,11/06/2019,01:40
+66,380,12/06/2019,01:04
+66,380,13/06/2019,01:44
+66,380,14/06/2019,02:48
+66,380,17/06/2019,02:40
+66,380,18/06/2019,02:32
+66,380,19/06/2019,02:24
+66,380,20/06/2019,01:40
+66,380,21/06/2019,01:04
+66,380,25/06/2019,01:12
+66,360,26/06/2019,00:56
+66,340,27/06/2019,01:00
+66,380,28/06/2019,02:40
+66,360,02/07/2019,01:04
+66,360,03/07/2019,01:56
+66,340,04/07/2019,01:04
+66,340,05/07/2019,00:28
+66,320,08/07/2019,01:16
+66,380,09/07/2019,01:40
+66,380,10/07/2019,01:04
+66,380,11/07/2019,01:44
+66,380,12/07/2019,02:48
+66,380,15/07/2019,02:40
+66,380,16/07/2019,02:40
+66,380,17/07/2019,02:32
+66,380,18/07/2019,02:24
+66,380,19/07/2019,01:40
+66,380,22/07/2019,01:28
+66,360,23/07/2019,00:56
+66,340,24/07/2019,01:00
+66,380,25/07/2019,01:16
+66,360,26/07/2019,00:56
+66,340,29/07/2019,01:00
+66,320,30/07/2019,02:32
+66,380,31/07/2019,02:36
+66,360,01/08/2019,01:44
+66,320,02/08/2019,01:56
+66,340,05/08/2019,01:04
+66,380,06/08/2019,01:56
+66,380,08/08/2019,01:40
+66,380,09/08/2019,02:00
+66,380,12/08/2019,01:40
+66,380,13/08/2019,01:40
+66,380,14/08/2019,01:44
+66,380,15/08/2019,02:36
+66,380,16/08/2019,02:28
+66,380,20/08/2019,02:00
+66,380,21/08/2019,01:20
+66,380,22/08/2019,01:52
+66,380,23/08/2019,01:44
+66,380,26/08/2019,01:40
+66,380,27/08/2019,01:04
+66,380,28/08/2019,01:12
+66,380,29/08/2019,01:40
+66,380,30/08/2019,03:00
+66,380,02/09/2019,02:36
+66,380,03/09/2019,02:28
+66,380,04/09/2019,01:44
+66,380,05/09/2019,01:32
+66,380,06/09/2019,01:28
+66,380,09/09/2019,02:00
+66,380,10/09/2019,01:40
+66,380,11/09/2019,01:40
+66,380,12/09/2019,01:44
+66,380,13/09/2019,03:00
+66,380,16/09/2019,02:24
+66,380,17/09/2019,02:28
+66,380,18/09/2019,02:00
+66,380,19/09/2019,01:48
+66,380,20/09/2019,01:28
+66,380,23/09/2019,01:08
+66,380,24/09/2019,01:20
+66,380,25/09/2019,01:32
+66,380,26/09/2019,00:44
+66,380,27/09/2019,01:24
+66,380,30/09/2019,02:36
+66,380,01/10/2019,02:36
+66,380,02/10/2019,02:28
+66,380,03/10/2019,01:44
+66,380,04/10/2019,01:32
+66,380,07/10/2019,01:28
+66,380,08/10/2019,02:00
+66,380,09/10/2019,01:40
+66,380,10/10/2019,01:40
+66,380,11/10/2019,01:44
+66,380,15/10/2019,02:40
+66,380,16/10/2019,01:16
+66,380,17/10/2019,01:28
+66,380,18/10/2019,01:56
+66,380,21/10/2019,01:28
+66,380,22/10/2019,01:08
+66,360,23/10/2019,00:56
+66,340,24/10/2019,01:00
+66,380,25/10/2019,01:32
+66,360,28/10/2019,00:36
+66,340,29/10/2019,01:00
+66,320,30/10/2019,02:36
+66,380,31/10/2019,02:44
+66,360,01/11/2019,02:44
+66,360,05/11/2019,01:08
+66,340,06/11/2019,01:16
+66,320,07/11/2019,01:16
+66,380,08/11/2019,02:00
+66,380,12/11/2019,01:40
+66,380,13/11/2019,01:40
+66,380,14/11/2019,01:44
+66,380,15/11/2019,02:40
+48,293,01/11/2018,02:15
+48,293,02/11/2018,01:07
+48,270,06/11/2018,00:31
+48,248,07/11/2018,00:13
+48,248,08/11/2018,00:18
+48,270,09/11/2018,00:45
+48,275,13/11/2018,00:54
+48,284,14/11/2018,02:01
+48,284,15/11/2018,01:52
+48,284,16/11/2018,03:27
+48,288,19/11/2018,03:13
+48,288,20/11/2018,03:13
+48,270,21/11/2018,02:15
+48,270,22/11/2018,01:52
+48,270,23/11/2018,01:12
+48,248,26/11/2018,00:45
+48,243,27/11/2018,00:36
+48,239,28/11/2018,01:03
+48,239,29/11/2018,01:07
+48,428,30/11/2018,03:22
+48,405,03/12/2018,02:10
+48,383,04/12/2018,01:03
+48,360,05/12/2018,00:27
+48,383,06/12/2018,00:09
+48,360,07/12/2018,00:13
+48,428,10/12/2018,03:13
+48,428,11/12/2018,03:13
+48,428,12/12/2018,02:15
+48,428,13/12/2018,01:52
+48,428,14/12/2018,01:12
+48,428,17/12/2018,03:00
+48,428,18/12/2018,02:55
+48,428,19/12/2018,02:24
+48,428,20/12/2018,01:57
+48,428,21/12/2018,01:21
+48,405,24/12/2018,00:45
+48,383,26/12/2018,00:36
+48,360,27/12/2018,01:03
+48,428,28/12/2018,01:25
+48,270,31/12/2018,03:13
+48,180,02/01/2019,02:15
+48,203,03/01/2019,01:07
+48,212,04/01/2019,00:31
+48,248,08/01/2019,00:31
+48,248,09/01/2019,00:13
+48,248,10/01/2019,00:18
+48,248,11/01/2019,00:27
+48,225,14/01/2019,00:45
+48,360,15/01/2019,01:30
+48,360,16/01/2019,00:54
+48,338,17/01/2019,00:36
+48,360,18/01/2019,02:55
+48,306,21/01/2019,00:45
+48,248,22/01/2019,00:40
+48,248,23/01/2019,01:03
+48,248,24/01/2019,00:45
+48,360,25/01/2019,01:34
+48,338,28/01/2019,00:45
+48,338,29/01/2019,00:36
+48,360,30/01/2019,01:03
+48,360,31/01/2019,03:22
+48,338,01/02/2019,02:15
+48,360,04/02/2019,01:07
+48,360,05/02/2019,00:31
+48,360,06/02/2019,00:31
+48,360,07/02/2019,00:13
+48,383,08/02/2019,02:10
+48,383,11/02/2019,01:52
+48,383,12/02/2019,02:15
+48,383,13/02/2019,01:52
+48,383,14/02/2019,01:12
+48,428,15/02/2019,03:00
+48,428,18/02/2019,02:55
+48,428,19/02/2019,02:24
+48,405,20/02/2019,01:57
+48,405,21/02/2019,01:21
+48,315,22/02/2019,00:58
+48,428,25/02/2019,01:57
+48,405,26/02/2019,00:31
+48,405,27/02/2019,00:13
+48,428,28/02/2019,03:18
+48,405,01/03/2019,02:19
+48,360,04/03/2019,01:03
+48,360,05/03/2019,01:07
+48,360,06/03/2019,00:31
+48,383,07/03/2019,00:31
+48,428,08/03/2019,02:10
+48,428,11/03/2019,01:52
+48,428,12/03/2019,02:15
+48,428,13/03/2019,01:52
+48,428,14/03/2019,01:12
+48,428,15/03/2019,03:00
+48,428,18/03/2019,02:55
+48,428,19/03/2019,02:24
+48,428,20/03/2019,01:57
+48,428,21/03/2019,01:21
+48,383,22/03/2019,00:58
+48,428,26/03/2019,01:21
+48,383,27/03/2019,01:03
+48,383,28/03/2019,01:07
+48,428,29/03/2019,03:13
+48,405,01/04/2019,02:10
+48,405,02/04/2019,02:06
+48,383,03/04/2019,01:21
+48,383,04/04/2019,01:12
+48,428,05/04/2019,02:10
+48,383,08/04/2019,01:12
+48,428,09/04/2019,02:10
+48,428,10/04/2019,01:52
+48,428,11/04/2019,02:15
+48,428,12/04/2019,01:52
+48,428,15/04/2019,03:00
+48,428,16/04/2019,02:55
+48,383,17/04/2019,00:58
+48,428,22/04/2019,01:52
+48,428,23/04/2019,01:12
+48,428,24/04/2019,01:57
+48,428,25/04/2019,01:21
+48,428,26/04/2019,01:57
+48,428,29/04/2019,01:21
+48,428,30/04/2019,03:09
+48,428,02/05/2019,03:04
+48,428,03/05/2019,03:04
+48,428,06/05/2019,02:10
+48,428,07/05/2019,01:52
+48,428,08/05/2019,02:15
+48,428,09/05/2019,01:52
+48,428,10/05/2019,01:52
+48,428,13/05/2019,01:12
+48,428,14/05/2019,01:57
+48,428,15/05/2019,03:09
+48,428,16/05/2019,03:00
+48,428,17/05/2019,02:51
+48,428,20/05/2019,02:42
+48,428,21/05/2019,01:52
+48,428,22/05/2019,01:12
+48,383,23/05/2019,01:03
+48,383,24/05/2019,01:07
+48,428,27/05/2019,01:21
+48,405,28/05/2019,01:03
+48,405,29/05/2019,01:07
+48,405,30/05/2019,02:55
+48,428,31/05/2019,03:04
+48,405,04/06/2019,01:12
+48,405,05/06/2019,02:10
+48,383,06/06/2019,01:12
+48,360,07/06/2019,00:31
+48,360,10/06/2019,00:31
+48,428,11/06/2019,01:52
+48,428,12/06/2019,01:12
+48,428,13/06/2019,01:57
+48,428,14/06/2019,03:09
+48,428,17/06/2019,03:00
+48,428,18/06/2019,02:51
+48,428,19/06/2019,02:42
+48,428,20/06/2019,01:52
+48,428,21/06/2019,01:12
+48,428,25/06/2019,01:21
+48,405,26/06/2019,01:03
+48,383,27/06/2019,01:07
+48,428,28/06/2019,03:00
+48,405,02/07/2019,01:12
+48,405,03/07/2019,02:10
+48,383,04/07/2019,01:12
+48,383,05/07/2019,00:31
+48,360,08/07/2019,01:25
+48,428,09/07/2019,01:52
+48,428,10/07/2019,01:12
+48,428,11/07/2019,01:57
+48,428,12/07/2019,03:09
+48,428,15/07/2019,03:00
+48,428,16/07/2019,03:00
+48,428,17/07/2019,02:51
+48,428,18/07/2019,02:42
+48,428,19/07/2019,01:52
+48,428,22/07/2019,01:39
+48,405,23/07/2019,01:03
+48,383,24/07/2019,01:07
+48,428,25/07/2019,01:25
+48,405,26/07/2019,01:03
+48,383,29/07/2019,01:07
+48,360,30/07/2019,02:51
+48,428,31/07/2019,02:55
+48,405,01/08/2019,01:57
+48,360,02/08/2019,02:10
+48,383,05/08/2019,01:12
+48,428,06/08/2019,02:10
+48,428,08/08/2019,01:52
+48,428,09/08/2019,02:15
+48,428,12/08/2019,01:52
+48,428,13/08/2019,01:52
+48,428,14/08/2019,01:57
+48,428,15/08/2019,02:55
+48,428,16/08/2019,02:46
+48,428,20/08/2019,02:15
+48,428,21/08/2019,01:30
+48,428,22/08/2019,02:06
+48,428,23/08/2019,01:57
+48,428,26/08/2019,01:52
+48,428,27/08/2019,01:12
+48,428,28/08/2019,01:21
+48,428,29/08/2019,01:52
+48,428,30/08/2019,03:22
+48,428,02/09/2019,02:55
+48,428,03/09/2019,02:46
+48,428,04/09/2019,01:57
+48,428,05/09/2019,01:43
+48,428,06/09/2019,01:39
+48,428,09/09/2019,02:15
+48,428,10/09/2019,01:52
+48,428,11/09/2019,01:52
+48,428,12/09/2019,01:57
+48,428,13/09/2019,03:22
+48,428,16/09/2019,02:42
+48,428,17/09/2019,02:46
+48,428,18/09/2019,02:15
+48,428,19/09/2019,02:01
+48,428,20/09/2019,01:39
+48,428,23/09/2019,01:16
+48,428,24/09/2019,01:30
+48,428,25/09/2019,01:43
+48,428,26/09/2019,00:49
+48,428,27/09/2019,01:34
+48,428,30/09/2019,02:55
+48,428,01/10/2019,02:55
+48,428,02/10/2019,02:46
+48,428,03/10/2019,01:57
+48,428,04/10/2019,01:43
+48,428,07/10/2019,01:39
+48,428,08/10/2019,02:15
+48,428,09/10/2019,01:52
+48,428,10/10/2019,01:52
+48,428,11/10/2019,01:57
+48,428,15/10/2019,03:00
+48,428,16/10/2019,01:25
+48,428,17/10/2019,01:39
+48,428,18/10/2019,02:10
+48,428,21/10/2019,01:39
+48,428,22/10/2019,01:16
+48,405,23/10/2019,01:03
+48,383,24/10/2019,01:07
+48,428,25/10/2019,01:43
+48,405,28/10/2019,00:40
+48,383,29/10/2019,01:07
+48,360,30/10/2019,02:55
+48,428,31/10/2019,03:04
+48,405,01/11/2019,03:04
+48,405,05/11/2019,01:16
+48,383,06/11/2019,01:25
+48,360,07/11/2019,01:25
+48,428,08/11/2019,02:15
+48,428,12/11/2019,01:52
+48,428,13/11/2019,01:52
+48,428,14/11/2019,01:57
+48,428,15/11/2019,03:00
+79,130,01/11/2018,01:00
+79,130,02/11/2018,00:30
+79,120,06/11/2018,00:14
+79,110,07/11/2018,00:06
+79,110,08/11/2018,00:08
+79,120,09/11/2018,00:20
+79,122,13/11/2018,00:24
+79,126,14/11/2018,00:54
+79,126,15/11/2018,00:50
+79,126,16/11/2018,01:32
+79,128,19/11/2018,01:26
+79,128,20/11/2018,01:26
+79,120,21/11/2018,01:00
+79,120,22/11/2018,00:50
+79,120,23/11/2018,00:32
+79,110,26/11/2018,00:20
+79,108,27/11/2018,00:16
+79,106,28/11/2018,00:28
+79,106,29/11/2018,00:30
+79,190,30/11/2018,01:30
+79,180,03/12/2018,00:58
+79,170,04/12/2018,00:28
+79,160,05/12/2018,00:12
+79,170,06/12/2018,00:04
+79,160,07/12/2018,00:06
+79,190,10/12/2018,01:26
+79,190,11/12/2018,01:26
+79,190,12/12/2018,01:00
+79,190,13/12/2018,00:50
+79,190,14/12/2018,00:32
+79,190,17/12/2018,01:20
+79,190,18/12/2018,01:18
+79,190,19/12/2018,01:04
+79,190,20/12/2018,00:52
+79,190,21/12/2018,00:36
+79,180,24/12/2018,00:20
+79,170,26/12/2018,00:16
+79,160,27/12/2018,00:28
+79,190,28/12/2018,00:38
+79,120,31/12/2018,01:26
+79,80,02/01/2019,01:00
+79,90,03/01/2019,00:30
+79,94,04/01/2019,00:14
+79,110,08/01/2019,00:14
+79,110,09/01/2019,00:06
+79,110,10/01/2019,00:08
+79,110,11/01/2019,00:12
+79,100,14/01/2019,00:20
+79,160,15/01/2019,00:40
+79,160,16/01/2019,00:24
+79,150,17/01/2019,00:16
+79,160,18/01/2019,01:18
+79,136,21/01/2019,00:20
+79,110,22/01/2019,00:18
+79,110,23/01/2019,00:28
+79,110,24/01/2019,00:20
+79,160,25/01/2019,00:42
+79,150,28/01/2019,00:20
+79,150,29/01/2019,00:16
+79,160,30/01/2019,00:28
+79,160,31/01/2019,01:30
+79,150,01/02/2019,01:00
+79,160,04/02/2019,00:30
+79,160,05/02/2019,00:14
+79,160,06/02/2019,00:14
+79,160,07/02/2019,00:06
+79,170,08/02/2019,00:58
+79,170,11/02/2019,00:50
+79,170,12/02/2019,01:00
+79,170,13/02/2019,00:50
+79,170,14/02/2019,00:32
+79,190,15/02/2019,01:20
+79,190,18/02/2019,01:18
+79,190,19/02/2019,01:04
+79,180,20/02/2019,00:52
+79,180,21/02/2019,00:36
+79,140,22/02/2019,00:26
+79,190,25/02/2019,00:52
+79,180,26/02/2019,00:14
+79,180,27/02/2019,00:06
+79,190,28/02/2019,01:28
+79,180,01/03/2019,01:02
+79,160,04/03/2019,00:28
+79,160,05/03/2019,00:30
+79,160,06/03/2019,00:14
+79,170,07/03/2019,00:14
+79,190,08/03/2019,00:58
+79,190,11/03/2019,00:50
+79,190,12/03/2019,01:00
+79,190,13/03/2019,00:50
+79,190,14/03/2019,00:32
+79,190,15/03/2019,01:20
+79,190,18/03/2019,01:18
+79,190,19/03/2019,01:04
+79,190,20/03/2019,00:52
+79,190,21/03/2019,00:36
+79,170,22/03/2019,00:26
+79,190,26/03/2019,00:36
+79,170,27/03/2019,00:28
+79,170,28/03/2019,00:30
+79,190,29/03/2019,01:26
+79,180,01/04/2019,00:58
+79,180,02/04/2019,00:56
+79,170,03/04/2019,00:36
+79,170,04/04/2019,00:32
+79,190,05/04/2019,00:58
+79,170,08/04/2019,00:32
+79,190,09/04/2019,00:58
+79,190,10/04/2019,00:50
+79,190,11/04/2019,01:00
+79,190,12/04/2019,00:50
+79,190,15/04/2019,01:20
+79,190,16/04/2019,01:18
+79,170,17/04/2019,00:26
+79,190,22/04/2019,00:50
+79,190,23/04/2019,00:32
+79,190,24/04/2019,00:52
+79,190,25/04/2019,00:36
+79,190,26/04/2019,00:52
+79,190,29/04/2019,00:36
+79,190,30/04/2019,01:24
+79,190,02/05/2019,01:22
+79,190,03/05/2019,01:22
+79,190,06/05/2019,00:58
+79,190,07/05/2019,00:50
+79,190,08/05/2019,01:00
+79,190,09/05/2019,00:50
+79,190,10/05/2019,00:50
+79,190,13/05/2019,00:32
+79,190,14/05/2019,00:52
+79,190,15/05/2019,01:24
+79,190,16/05/2019,01:20
+79,190,17/05/2019,01:16
+79,190,20/05/2019,01:12
+79,190,21/05/2019,00:50
+79,190,22/05/2019,00:32
+79,170,23/05/2019,00:28
+79,170,24/05/2019,00:30
+79,190,27/05/2019,00:36
+79,180,28/05/2019,00:28
+79,180,29/05/2019,00:30
+79,180,30/05/2019,01:18
+79,190,31/05/2019,01:22
+79,180,04/06/2019,00:32
+79,180,05/06/2019,00:58
+79,170,06/06/2019,00:32
+79,160,07/06/2019,00:14
+79,160,10/06/2019,00:14
+79,190,11/06/2019,00:50
+79,190,12/06/2019,00:32
+79,190,13/06/2019,00:52
+79,190,14/06/2019,01:24
+79,190,17/06/2019,01:20
+79,190,18/06/2019,01:16
+79,190,19/06/2019,01:12
+79,190,20/06/2019,00:50
+79,190,21/06/2019,00:32
+79,190,25/06/2019,00:36
+79,180,26/06/2019,00:28
+79,170,27/06/2019,00:30
+79,190,28/06/2019,01:20
+79,180,02/07/2019,00:32
+79,180,03/07/2019,00:58
+79,170,04/07/2019,00:32
+79,170,05/07/2019,00:14
+79,160,08/07/2019,00:38
+79,190,09/07/2019,00:50
+79,190,10/07/2019,00:32
+79,190,11/07/2019,00:52
+79,190,12/07/2019,01:24
+79,190,15/07/2019,01:20
+79,190,16/07/2019,01:20
+79,190,17/07/2019,01:16
+79,190,18/07/2019,01:12
+79,190,19/07/2019,00:50
+79,190,22/07/2019,00:44
+79,180,23/07/2019,00:28
+79,170,24/07/2019,00:30
+79,190,25/07/2019,00:38
+79,180,26/07/2019,00:28
+79,170,29/07/2019,00:30
+79,160,30/07/2019,01:16
+79,190,31/07/2019,01:18
+79,180,01/08/2019,00:52
+79,160,02/08/2019,00:58
+79,170,05/08/2019,00:32
+79,190,06/08/2019,00:58
+79,190,08/08/2019,00:50
+79,190,09/08/2019,01:00
+79,190,12/08/2019,00:50
+79,190,13/08/2019,00:50
+79,190,14/08/2019,00:52
+79,190,15/08/2019,01:18
+79,190,16/08/2019,01:14
+79,190,20/08/2019,01:00
+79,190,21/08/2019,00:40
+79,190,22/08/2019,00:56
+79,190,23/08/2019,00:52
+79,190,26/08/2019,00:50
+79,190,27/08/2019,00:32
+79,190,28/08/2019,00:36
+79,190,29/08/2019,00:50
+79,190,30/08/2019,01:30
+79,190,02/09/2019,01:18
+79,190,03/09/2019,01:14
+79,190,04/09/2019,00:52
+79,190,05/09/2019,00:46
+79,190,06/09/2019,00:44
+79,190,09/09/2019,01:00
+79,190,10/09/2019,00:50
+79,190,11/09/2019,00:50
+79,190,12/09/2019,00:52
+79,190,13/09/2019,01:30
+79,190,16/09/2019,01:12
+79,190,17/09/2019,01:14
+79,190,18/09/2019,01:00
+79,190,19/09/2019,00:54
+79,190,20/09/2019,00:44
+79,190,23/09/2019,00:34
+79,190,24/09/2019,00:40
+79,190,25/09/2019,00:46
+79,190,26/09/2019,00:22
+79,190,27/09/2019,00:42
+79,190,30/09/2019,01:18
+79,190,01/10/2019,01:18
+79,190,02/10/2019,01:14
+79,190,03/10/2019,00:52
+79,190,04/10/2019,00:46
+79,190,07/10/2019,00:44
+79,190,08/10/2019,01:00
+79,190,09/10/2019,00:50
+79,190,10/10/2019,00:50
+79,190,11/10/2019,00:52
+79,190,15/10/2019,01:20
+79,190,16/10/2019,00:38
+79,190,17/10/2019,00:44
+79,190,18/10/2019,00:58
+79,190,21/10/2019,00:44
+79,190,22/10/2019,00:34
+79,180,23/10/2019,00:28
+79,170,24/10/2019,00:30
+79,190,25/10/2019,00:46
+79,180,28/10/2019,00:18
+79,170,29/10/2019,00:30
+79,160,30/10/2019,01:18
+79,190,31/10/2019,01:22
+79,180,01/11/2019,01:22
+79,180,05/11/2019,00:34
+79,170,06/11/2019,00:38
+79,160,07/11/2019,00:38
+79,190,08/11/2019,01:00
+79,190,12/11/2019,00:50
+79,190,13/11/2019,00:50
+79,190,14/11/2019,00:52
+79,190,15/11/2019,01:20
+12,228,01/11/2018,01:45
+12,228,02/11/2018,00:52
+12,210,06/11/2018,00:24
+12,193,07/11/2018,00:10
+12,193,08/11/2018,00:14
+12,210,09/11/2018,00:35
+12,214,13/11/2018,00:42
+12,221,14/11/2018,01:34
+12,221,15/11/2018,01:27
+12,221,16/11/2018,02:41
+12,224,19/11/2018,02:30
+12,224,20/11/2018,02:30
+12,210,21/11/2018,01:45
+12,210,22/11/2018,01:27
+12,210,23/11/2018,00:56
+12,193,26/11/2018,00:35
+12,189,27/11/2018,00:28
+12,186,28/11/2018,00:49
+12,186,29/11/2018,00:52
+12,333,30/11/2018,02:37
+12,315,03/12/2018,01:41
+12,298,04/12/2018,00:49
+12,280,05/12/2018,00:21
+12,298,06/12/2018,00:07
+12,280,07/12/2018,00:10
+12,333,10/12/2018,02:30
+12,333,11/12/2018,02:30
+12,333,12/12/2018,01:45
+12,333,13/12/2018,01:27
+12,333,14/12/2018,00:56
+12,333,17/12/2018,02:20
+12,333,18/12/2018,02:16
+12,333,19/12/2018,01:52
+12,333,20/12/2018,01:31
+12,333,21/12/2018,01:03
+12,315,24/12/2018,00:35
+12,298,26/12/2018,00:28
+12,280,27/12/2018,00:49
+12,333,28/12/2018,01:06
+12,210,31/12/2018,02:30
+12,140,02/01/2019,01:45
+12,158,03/01/2019,00:52
+12,165,04/01/2019,00:24
+12,193,08/01/2019,00:24
+12,193,09/01/2019,00:10
+12,193,10/01/2019,00:14
+12,193,11/01/2019,00:21
+12,175,14/01/2019,00:35
+12,280,15/01/2019,01:10
+12,280,16/01/2019,00:42
+12,263,17/01/2019,00:28
+12,280,18/01/2019,02:16
+12,238,21/01/2019,00:35
+12,193,22/01/2019,00:31
+12,193,23/01/2019,00:49
+12,193,24/01/2019,00:35
+12,280,25/01/2019,01:13
+12,263,28/01/2019,00:35
+12,263,29/01/2019,00:28
+12,280,30/01/2019,00:49
+12,280,31/01/2019,02:37
+12,263,01/02/2019,01:45
+12,280,04/02/2019,00:52
+12,280,05/02/2019,00:24
+12,280,06/02/2019,00:24
+12,280,07/02/2019,00:10
+12,298,08/02/2019,01:41
+12,298,11/02/2019,01:27
+12,298,12/02/2019,01:45
+12,298,13/02/2019,01:27
+12,298,14/02/2019,00:56
+12,333,15/02/2019,02:20
+12,333,18/02/2019,02:16
+12,333,19/02/2019,01:52
+12,315,20/02/2019,01:31
+12,315,21/02/2019,01:03
+12,245,22/02/2019,00:45
+12,333,25/02/2019,01:31
+12,315,26/02/2019,00:24
+12,315,27/02/2019,00:10
+12,333,28/02/2019,02:34
+12,315,01/03/2019,01:48
+12,280,04/03/2019,00:49
+12,280,05/03/2019,00:52
+12,280,06/03/2019,00:24
+12,298,07/03/2019,00:24
+12,333,08/03/2019,01:41
+12,333,11/03/2019,01:27
+12,333,12/03/2019,01:45
+12,333,13/03/2019,01:27
+12,333,14/03/2019,00:56
+12,333,15/03/2019,02:20
+12,333,18/03/2019,02:16
+12,333,19/03/2019,01:52
+12,333,20/03/2019,01:31
+12,333,21/03/2019,01:03
+12,298,22/03/2019,00:45
+12,333,26/03/2019,01:03
+12,298,27/03/2019,00:49
+12,298,28/03/2019,00:52
+12,333,29/03/2019,02:30
+12,315,01/04/2019,01:41
+12,315,02/04/2019,01:38
+12,298,03/04/2019,01:03
+12,298,04/04/2019,00:56
+12,333,05/04/2019,01:41
+12,298,08/04/2019,00:56
+12,333,09/04/2019,01:41
+12,333,10/04/2019,01:27
+12,333,11/04/2019,01:45
+12,333,12/04/2019,01:27
+12,333,15/04/2019,02:20
+12,333,16/04/2019,02:16
+12,298,17/04/2019,00:45
+12,333,22/04/2019,01:27
+12,333,23/04/2019,00:56
+12,333,24/04/2019,01:31
+12,333,25/04/2019,01:03
+12,333,26/04/2019,01:31
+12,333,29/04/2019,01:03
+12,333,30/04/2019,02:27
+12,333,02/05/2019,02:23
+12,333,03/05/2019,02:23
+12,333,06/05/2019,01:41
+12,333,07/05/2019,01:27
+12,333,08/05/2019,01:45
+12,333,09/05/2019,01:27
+12,333,10/05/2019,01:27
+12,333,13/05/2019,00:56
+12,333,14/05/2019,01:31
+12,333,15/05/2019,02:27
+12,333,16/05/2019,02:20
+12,333,17/05/2019,02:13
+12,333,20/05/2019,02:06
+12,333,21/05/2019,01:27
+12,333,22/05/2019,00:56
+12,298,23/05/2019,00:49
+12,298,24/05/2019,00:52
+12,333,27/05/2019,01:03
+12,315,28/05/2019,00:49
+12,315,29/05/2019,00:52
+12,315,30/05/2019,02:16
+12,333,31/05/2019,02:23
+12,315,04/06/2019,00:56
+12,315,05/06/2019,01:41
+12,298,06/06/2019,00:56
+12,280,07/06/2019,00:24
+12,280,10/06/2019,00:24
+12,333,11/06/2019,01:27
+12,333,12/06/2019,00:56
+12,333,13/06/2019,01:31
+12,333,14/06/2019,02:27
+12,333,17/06/2019,02:20
+12,333,18/06/2019,02:13
+12,333,19/06/2019,02:06
+12,333,20/06/2019,01:27
+12,333,21/06/2019,00:56
+12,333,25/06/2019,01:03
+12,315,26/06/2019,00:49
+12,298,27/06/2019,00:52
+12,333,28/06/2019,02:20
+12,315,02/07/2019,00:56
+12,315,03/07/2019,01:41
+12,298,04/07/2019,00:56
+12,298,05/07/2019,00:24
+12,280,08/07/2019,01:06
+12,333,09/07/2019,01:27
+12,333,10/07/2019,00:56
+12,333,11/07/2019,01:31
+12,333,12/07/2019,02:27
+12,333,15/07/2019,02:20
+12,333,16/07/2019,02:20
+12,333,17/07/2019,02:13
+12,333,18/07/2019,02:06
+12,333,19/07/2019,01:27
+12,333,22/07/2019,01:17
+12,315,23/07/2019,00:49
+12,298,24/07/2019,00:52
+12,333,25/07/2019,01:06
+12,315,26/07/2019,00:49
+12,298,29/07/2019,00:52
+12,280,30/07/2019,02:13
+12,333,31/07/2019,02:16
+12,315,01/08/2019,01:31
+12,280,02/08/2019,01:41
+12,298,05/08/2019,00:56
+12,333,06/08/2019,01:41
+12,333,08/08/2019,01:27
+12,333,09/08/2019,01:45
+12,333,12/08/2019,01:27
+12,333,13/08/2019,01:27
+12,333,14/08/2019,01:31
+12,333,15/08/2019,02:16
+12,333,16/08/2019,02:09
+12,333,20/08/2019,01:45
+12,333,21/08/2019,01:10
+12,333,22/08/2019,01:38
+12,333,23/08/2019,01:31
+12,333,26/08/2019,01:27
+12,333,27/08/2019,00:56
+12,333,28/08/2019,01:03
+12,333,29/08/2019,01:27
+12,333,30/08/2019,02:37
+12,333,02/09/2019,02:16
+12,333,03/09/2019,02:09
+12,333,04/09/2019,01:31
+12,333,05/09/2019,01:20
+12,333,06/09/2019,01:17
+12,333,09/09/2019,01:45
+12,333,10/09/2019,01:27
+12,333,11/09/2019,01:27
+12,333,12/09/2019,01:31
+12,333,13/09/2019,02:37
+12,333,16/09/2019,02:06
+12,333,17/09/2019,02:09
+12,333,18/09/2019,01:45
+12,333,19/09/2019,01:34
+12,333,20/09/2019,01:17
+12,333,23/09/2019,00:59
+12,333,24/09/2019,01:10
+12,333,25/09/2019,01:20
+12,333,26/09/2019,00:38
+12,333,27/09/2019,01:13
+12,333,30/09/2019,02:16
+12,333,01/10/2019,02:16
+12,333,02/10/2019,02:09
+12,333,03/10/2019,01:31
+12,333,04/10/2019,01:20
+12,333,07/10/2019,01:17
+12,333,08/10/2019,01:45
+12,333,09/10/2019,01:27
+12,333,10/10/2019,01:27
+12,333,11/10/2019,01:31
+12,333,15/10/2019,02:20
+12,333,16/10/2019,01:06
+12,333,17/10/2019,01:17
+12,333,18/10/2019,01:41
+12,333,21/10/2019,01:17
+12,333,22/10/2019,00:59
+12,315,23/10/2019,00:49
+12,298,24/10/2019,00:52
+12,333,25/10/2019,01:20
+12,315,28/10/2019,00:31
+12,298,29/10/2019,00:52
+12,280,30/10/2019,02:16
+12,333,31/10/2019,02:23
+12,315,01/11/2019,02:23
+12,315,05/11/2019,00:59
+12,298,06/11/2019,01:06
+12,280,07/11/2019,01:06
+12,333,08/11/2019,01:45
+12,333,12/11/2019,01:27
+12,333,13/11/2019,01:27
+12,333,14/11/2019,01:31
+12,333,15/11/2019,02:20

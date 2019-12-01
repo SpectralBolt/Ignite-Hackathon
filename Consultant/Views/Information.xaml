@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="Consultant.Views.Calendar"
+    x:Class="Consultant.Views.Information"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:Consultant.Views"
@@ -9,10 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <CalendarView x:Name="Calend" SelectionMode="Multiple">
-            <CalendarView.SelectedForeground>
-                <AcrylicBrush TintColor="DarkRed" TintLuminosityOpacity="5"/>
-            </CalendarView.SelectedForeground>
-        </CalendarView>
+
     </Grid>
 </Page>

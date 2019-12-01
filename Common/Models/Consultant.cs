@@ -18,7 +18,7 @@ namespace Common.Models
         public bool Approved { get; set; }
 
         //Relations
-        public List<RequestConsultant> ClientConsultants { get; set; }
+        public List<RequestConsultant> ClientConsultants { get; set; } = new List<RequestConsultant>();
         public int OfficeId { get; set; }
         public Office Office { get; set; }
 

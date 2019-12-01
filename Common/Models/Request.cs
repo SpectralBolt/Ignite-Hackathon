@@ -14,6 +14,6 @@ namespace Common.Models
 
         public int ClientId { get; set; }
         public Client Client { get; set; }
-        public List<RequestConsultant> RequestConsultants { get; set; }
+        public List<RequestConsultant> RequestConsultants { get; set; } = new List<RequestConsultant>();
     }
 }

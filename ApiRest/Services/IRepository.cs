@@ -15,6 +15,7 @@ namespace ApiRest.Services
         Task AddConsultant(Consultant consultant, int officeId);
         Task<List<Consultant>> GetConsultants(int officeId);
         Task<Client> GetClient(int clientId);
-        Task<Office> Getoffice(int officeId);
+        Task<Office> GetOffice(int officeId);
+        Task<IEnumerable<Office>> GetOfficesAsync();
     }
 }

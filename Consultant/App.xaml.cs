@@ -7,6 +7,7 @@ using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI;
 using Windows.UI.ViewManagement;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
@@ -41,10 +42,20 @@ namespace Consultant
         protected override void OnLaunched(LaunchActivatedEventArgs e)
         {
             Frame rootFrame = Window.Current.Content as Frame;
-
+            Startup.Init();
             ApplicationView.PreferredLaunchViewSize = new Size(500, 600);
             ApplicationView.PreferredLaunchWindowingMode = ApplicationViewWindowingMode.PreferredLaunchViewSize;
             ApplicationView.GetForCurrentView().SetPreferredMinSize(new Size(500, 600));
+            // Get the instance of the Title Bar
+            var titleBar = ApplicationView.GetForCurrentView().TitleBar;
+
+            // Set the color of the Title Bar content
+            titleBar.BackgroundColor = Colors.DarkRed;
+            titleBar.ForegroundColor = Colors.White;
+
+            // Set the color of the Title Bar buttons
+            titleBar.ButtonBackgroundColor = Colors.DarkRed;
+            titleBar.ButtonForegroundColor = Colors.White;
             // No repetir la inicialización de la aplicación si la ventana tiene contenido todavía,
             // solo asegurarse de que la ventana está activa.
             if (rootFrame == null)

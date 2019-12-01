@@ -11,7 +11,7 @@ using Consultant.ViewModels;
 using System.Threading.Tasks;
 using Windows.Storage;
 
-namespace Sales.Client
+namespace Consultant
 {
     public static class Startup
     {
@@ -19,7 +19,7 @@ namespace Sales.Client
         public static void Init()
         {
             StorageFolder LocalFolder = ApplicationData.Current.LocalFolder;
-            var configFile = ExtractResource("Sales.Client.appsettings.json", LocalFolder.Path);
+            var configFile = ExtractResource("Consultant.appsettings.json", LocalFolder.Path);
 
             var host = new HostBuilder()
                         .ConfigureHostConfiguration(c =>

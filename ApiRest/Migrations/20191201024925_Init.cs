@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ApiRest.Migrations
 {
-    public partial class Initialize : Migration
+    public partial class Init : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -26,8 +26,9 @@ namespace ApiRest.Migrations
                 name: "Offices",
                 columns: table => new
                 {
-                    OfficeId = table.Column<int>(nullable: false)
+                    Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    OfficeCod = table.Column<int>(nullable: false),
                     Name = table.Column<string>(nullable: true),
                     Adress = table.Column<string>(nullable: true),
                     BossName = table.Column<string>(nullable: true),
@@ -36,7 +37,7 @@ namespace ApiRest.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Offices", x => x.OfficeId);
+                    table.PrimaryKey("PK_Offices", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -86,7 +87,7 @@ namespace ApiRest.Migrations
                         name: "FK_Consultants_Offices_OfficeId",
                         column: x => x.OfficeId,
                         principalTable: "Offices",
-                        principalColumn: "OfficeId",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
@@ -108,7 +109,7 @@ namespace ApiRest.Migrations
                         name: "FK_Records_Offices_OfficeId",
                         column: x => x.OfficeId,
                         principalTable: "Offices",
-                        principalColumn: "OfficeId",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 

@@ -18,6 +18,7 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
 using Consultant.Helpers;
+using Microsoft.Extensions.DependencyInjection;
 using Consultant.ViewModels;
 using System.Numerics;
 using Windows.UI.Composition;
@@ -35,13 +36,12 @@ namespace Consultant
     {
         public MainPage()
         {
-            DataContext = Startup.ServiceProvider.GetService<MainPageViewModel>();
-            this.InitializeComponent();;
+            this.InitializeComponent();
         }
 
         private void Image_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            Window.Current.Content = new Consultant1();
+            Window.Current.Content = new Home();
         }
     }
 }

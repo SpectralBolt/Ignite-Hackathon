@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ApiRest.Migrations
 {
     [DbContext(typeof(BankDbContext))]
-    [Migration("20191130183330_Initialize")]
-    partial class Initialize
+    [Migration("20191201024925_Init")]
+    partial class Init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -88,7 +88,7 @@ namespace ApiRest.Migrations
 
             modelBuilder.Entity("Common.Models.Office", b =>
                 {
-                    b.Property<int>("OfficeId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
@@ -108,7 +108,10 @@ namespace ApiRest.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("OfficeId");
+                    b.Property<int>("OfficeCod")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
 
                     b.ToTable("Offices");
                 });

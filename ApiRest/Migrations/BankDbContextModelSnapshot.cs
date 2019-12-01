@@ -86,7 +86,7 @@ namespace ApiRest.Migrations
 
             modelBuilder.Entity("Common.Models.Office", b =>
                 {
-                    b.Property<int>("OfficeId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
@@ -106,7 +106,10 @@ namespace ApiRest.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("OfficeId");
+                    b.Property<int>("OfficeCod")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
 
                     b.ToTable("Offices");
                 });

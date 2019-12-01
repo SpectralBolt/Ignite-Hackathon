@@ -20,16 +20,11 @@ namespace Consultant.Views
     /// <summary>
     /// Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
     /// </summary>
-    public sealed partial class Consultant1 : Page
+    public sealed partial class Cash : Page
     {
-        public Consultant1()
+        public Cash()
         {
             this.InitializeComponent();
-        }
-
-        private void Fruits_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
         }
     }
 }

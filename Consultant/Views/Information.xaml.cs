@@ -5,7 +5,6 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
-using Windows.UI;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -21,16 +20,11 @@ namespace Consultant.Views
     /// <summary>
     /// Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
     /// </summary>
-    public sealed partial class Calendar : Page
+    public sealed partial class Information : Page
     {
-        public Calendar()
+        public Information()
         {
             this.InitializeComponent();
-            Calend.SelectedDates.Add(new DateTime(2019, 11, 5));
-            Calend.SelectedDates.Add(new DateTime(2019, 11, 6));
-            Calend.SelectedDates.Add(new DateTime(2019, 11, 7));
-            
-            
         }
     }
 }

@@ -26,5 +26,15 @@ namespace Consultant.Views
         {
             this.InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Window.Current.Content =new Consultant1(typeof(Calendar));
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Window.Current.Content = new Consultant1(typeof(Calendar));
+        }
     }
 }

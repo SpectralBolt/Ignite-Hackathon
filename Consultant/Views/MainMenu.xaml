@@ -10,21 +10,29 @@
 
     <SplitView DisplayMode="CompactOverlay">
         <SplitView.Pane>
-            <Grid Background="DarkRed">
-                <Image Source="../MenuBar.jpeg" HorizontalAlignment="Left" Width="50"/>
+            <StackPanel Background="{ThemeResource SystemControlAccentDark1AcrylicWindowAccentDark1Brush}">
+                <Image Source="../Images/Person.jpeg" Stretch="UniformToFill" MaxHeight="48" MaxWidth="48" HorizontalAlignment="Left"/>
                 <ListView x:Name="ListPane" ItemsSource="{Binding Path=Items}" Background="Transparent" SelectionChanged="ListPane_SelectionChanged">
                     <ListView.ItemTemplate>
                         <DataTemplate>
-                            <Image Source="{Binding Path=Image}"/>
+                            <FontIcon Glyph="{Binding Path=Image}" Margin="5" FontSize="20" Foreground="White" FontFamily="Segoe MDL2 Assets"/>
                         </DataTemplate>
                     </ListView.ItemTemplate>
                 </ListView>
-            </Grid>
+            </StackPanel>
         </SplitView.Pane>
         <SplitView.Content>
-            <Frame>
-                <Image Source="../ScotiaBackground.jpeg" Stretch="Fill"/>
-            </Frame>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="8*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Image Source="../Images/ScotiaBackground.jpeg" Stretch="Fill" Grid.RowSpan="2"/>
+                <Frame x:Name="NavigationFrame" Grid.Row="0">
+
+                </Frame>
+                <Image Source="../Images/BottomImage.jpeg" Stretch="Fill" Grid.Row="1"/>
+            </Grid>
         </SplitView.Content>
     </SplitView>
 </Page>
