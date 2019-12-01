@@ -60,9 +60,9 @@ namespace ApiRest.Repository
             throw new NotImplementedException();
         }
 
-        public Task<Office> GetOffice(int officeId)
+        public async Task<Office> GetOffice(int officeId)
         {
-            throw new NotImplementedException();
+            return await context.Offices.Where(o => o.Id == officeId).Include(o=> o.Records).FirstOrDefaultAsync();
         }
 
         public async Task<IEnumerable<Office>> GetOfficesAsync()

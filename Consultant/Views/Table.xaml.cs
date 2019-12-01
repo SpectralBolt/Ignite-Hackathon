@@ -12,6 +12,8 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Microsoft.Extensions.DependencyInjection;
+using Consultant.ViewModels;
 
 // La plantilla de elemento Página en blanco está documentada en https://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -25,6 +27,7 @@ namespace Consultant.Views
         public Table()
         {
             this.InitializeComponent();
+            DataContext = Startup.ServiceProvider.GetService<TableViewModel>();
         }
     }
 }

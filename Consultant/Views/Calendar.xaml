@@ -6,13 +6,17 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="Transparent">
 
-    <Grid>
-        <CalendarView x:Name="Calend" SelectionMode="Multiple">
-            <CalendarView.SelectedForeground>
-                <AcrylicBrush TintColor="DarkRed" TintLuminosityOpacity="5"/>
-            </CalendarView.SelectedForeground>
-        </CalendarView>
+    <Grid Margin="10">
+        <Popup x:Name="PopupCalendar" Tapped="Image_Tapped">
+            <CalendarView x:Name="Calend" SelectionMode="Multiple">
+                <CalendarView.SelectedForeground>
+                    <AcrylicBrush TintColor="DarkRed" TintLuminosityOpacity="5"/>
+                </CalendarView.SelectedForeground>
+            </CalendarView>
+        </Popup>
+        <Image Source="../Images/Calendar.jpeg" Stretch="Fill" Tapped="Image_Tapped"/>
+        
     </Grid>
 </Page>

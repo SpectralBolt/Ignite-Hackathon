@@ -32,5 +32,10 @@ namespace Consultant.Views
             
             
         }
+
+        private void Image_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            PopupCalendar.IsOpen = !PopupCalendar.IsOpen;
+        }
     }
 }
