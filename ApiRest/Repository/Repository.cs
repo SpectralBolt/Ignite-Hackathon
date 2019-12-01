@@ -65,7 +65,7 @@ namespace ApiRest.Repository
             throw new NotImplementedException();
         }
 
-        public async Task<IEnumerable<Office>> GetOffices()
+        public async Task<IEnumerable<Office>> GetOfficesAsync()
         {
             return await context.Offices.Include(o => o.Records).ToArrayAsync();
         }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ApiRest.Services;
+using Common.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,36 +11,36 @@ namespace ApiRest.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class BankController : ControllerBase
+    public class OfficeController : ControllerBase
     {
         private readonly IRepository repository;
 
-        public BankController(IRepository repository)
+        public OfficeController(IRepository repository)
         {
             this.repository = repository;
         }
-
-        // GET: api/Bank
+        // GET: api/Office
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<ActionResult<List<Office>>> Get()
         {
-            return new string[] { "value1", "value2" };
+            var off = await repository.GetOfficesAsync();
+            return off.ToList();
         }
 
-        // GET: api/Bank/5
+        // GET: api/Office/5
         [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
+        public async Task<ActionResult<Office>> Get(int id)
         {
-            return "value";
+            return await repository.GetOffice(id);
         }
 
-        // POST: api/Bank
+        // POST: api/Office
         [HttpPost]
         public void Post([FromBody] string value)
         {
         }
 
-        // PUT: api/Bank/5
+        // PUT: api/Office/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
