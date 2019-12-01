@@ -41,7 +41,7 @@ namespace Consultant
 
         private void Image_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            Window.Current.Content = new Home();
+            Window.Current.Content = new MainMenu();
         }
     }
 }

@@ -7,6 +7,8 @@ using Windows.Web.Http;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using System.Security.Cryptography.X509Certificates;
+using System.Net.Security;
 
 namespace Consultant.ViewModels
 {

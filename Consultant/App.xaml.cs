@@ -43,9 +43,9 @@ namespace Consultant
         {
             Frame rootFrame = Window.Current.Content as Frame;
             Startup.Init();
-            ApplicationView.PreferredLaunchViewSize = new Size(500, 600);
+            ApplicationView.PreferredLaunchViewSize = new Size(500, 700);
             ApplicationView.PreferredLaunchWindowingMode = ApplicationViewWindowingMode.PreferredLaunchViewSize;
-            ApplicationView.GetForCurrentView().SetPreferredMinSize(new Size(500, 600));
+            ApplicationView.GetForCurrentView().SetPreferredMinSize(new Size(500, 700));
             // Get the instance of the Title Bar
             var titleBar = ApplicationView.GetForCurrentView().TitleBar;
 

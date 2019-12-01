@@ -6,9 +6,10 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="Transparent" d:DesignWidth="476.622">
 
-    <Grid>
-
+    <Grid Padding="20">
+        <TextBlock Foreground="DarkRed" Text="Perfil" Style="{ThemeResource SubheaderTextBlockStyle}" />
+        <Image Margin="0,20,0,0" Source="../Images/Profile.png" Stretch="Uniform"/>
     </Grid>
 </Page>

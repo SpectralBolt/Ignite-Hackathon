@@ -4,4 +4,12 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:Consultant">
 
+    <Application.Resources>
+        <FontFamily x:Key="MaterialDesignFont">/Assets/MaterialIcons-Regular.ttf#Material Design Icons</FontFamily>
+        <Style TargetType="FontIcon" x:Key="MaterialIcon">
+            <Setter Property="FontFamily" Value="{StaticResource MaterialDesignFont}"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Foreground" Value="Black"/>
+        </Style>
+    </Application.Resources>
 </Application>

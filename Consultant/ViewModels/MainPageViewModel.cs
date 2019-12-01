@@ -19,9 +19,9 @@ namespace Consultant.ViewModels
         {
             Items = new ObservableCollection<MenuItem>
             {
-                new MenuItem{ Image="\uE80F", NavigationPage=typeof(Home)},
+                new MenuItem{ Image="\uE80F", NavigationPage=typeof(Profile)},
                 new MenuItem{ Image="\uE787", NavigationPage= typeof(Calendar)},
-                new MenuItem{ Image="\uE77B", NavigationPage=typeof(Profile)},
+                new MenuItem{ Image="\uE77B", NavigationPage=typeof(Views.Consultant)},
                 new MenuItem{ Image="\uE719", NavigationPage=typeof(Table)},
                 new MenuItem{ Image="\uE8C9", NavigationPage=typeof(Information)},
             };

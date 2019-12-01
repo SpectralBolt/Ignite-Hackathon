@@ -24,13 +24,13 @@ namespace Consultant.Views
     /// <summary>
     /// Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
     /// </summary>
-    public sealed partial class Consultant1 : Page
+    public sealed partial class MainMenu : Page
     {
-        public Consultant1(Type currentPage)
+        public MainMenu()
         {
             DataContext = Startup.ServiceProvider.GetService<MainPageViewModel>();
             this.InitializeComponent();
-            NavigationFrame.Navigate(currentPage);
+            NavigationFrame.Navigate(typeof(Profile));
         }
 
         private void ListPane_SelectionChanged(object sender, SelectionChangedEventArgs e)

@@ -6,17 +6,45 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="Transparent">
+    Background="Transparent" Width="414">
 
-    <Grid Margin="10">
-        <Popup x:Name="PopupCalendar" Tapped="Image_Tapped">
-            <CalendarView x:Name="Calend" SelectionMode="Multiple">
-                <CalendarView.SelectedForeground>
-                    <AcrylicBrush TintColor="DarkRed" TintLuminosityOpacity="5"/>
-                </CalendarView.SelectedForeground>
-            </CalendarView>
+    <StackPanel Spacing="5" Margin="5">
+        <Popup x:Name="PopupFilter" IsOpen="True">
+            <StackPanel Background="Black">
+                <StackPanel Orientation="Horizontal">
+                    <ListView ItemsSource="{Binding Path=FilterItemsLeft}">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="20"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <FontIcon Glyph="{Binding Path=Image}" Style="{StaticResource MaterialIcon}" Grid.Column="0"/>
+                                    <TextBlock Text="{Binding Path=Content}"/>
+                                </Grid>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackPanel>
+                <Button Content="Aplicar" Click="Button_Click"/>
+            </StackPanel>
         </Popup>
-        <Image Source="../Images/Calendar.jpeg" Stretch="Fill" Tapped="Image_Tapped"/>
-        
-    </Grid>
+        <TextBlock Text="Calendario Inteligente" Style="{ThemeResource SubheaderTextBlockStyle}" Foreground="DarkRed"/>
+        <StackPanel Spacing="2" Orientation="Horizontal">
+            <Image Source="../Images/Filter.png" Tapped="Image_Tapped"/>
+            <Button Content="Solicitar Vacaciones" Background="DarkRed" CornerRadius="10" FontSize="20"/>
+        </StackPanel>
+        <CalendarView Background="White" 
+                      CalendarItemBackground="White" 
+                      Foreground="Black" CalendarItemForeground="Black"
+                      OutOfScopeBackground="Gray"
+                      DisplayMode="Year" 
+                      SelectionMode="Multiple"
+                      SelectedForeground="DarkRed"
+                      SelectedBorderBrush="DarkRed"
+                      Width="400"
+                      Height="500"/>
+ 
+    </StackPanel>
 </Page>
